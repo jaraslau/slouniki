@@ -9,7 +9,7 @@ ji - яна
 jis - ён
 jõs - яны (жаночы)
 jie - яны (мужчынскі)
-sveiki - здароў, вітаю
+sveiki, sveikas, sveika - здароў, вітаю
 taip - так
 ne - не
 prašom - калі ласка; спажывай здаровы (бо ўжываецца, як адказ)
@@ -21,7 +21,7 @@ kas - хто
 ką - што
 ir - і, а, ды  
 bet - але, але-ж
-viskas - усё, усяго
+viskas - усё
 daugelis - шмат
 nes - бо
 arba - ці, або, альбо, а ці
@@ -61,7 +61,7 @@ labos nakties - дабранач
 kaip sekasi - як сам маесься?
 ačiu - дзякуй
 gerai - добра
-sudie - пабачымся, пабачымось
+sudie - пабачымся, пабачымась
 viso gero - бывайце здаровыя
 pirmadienis - панядзелак
 antradienis - аўторак
@@ -112,7 +112,7 @@ oranžinis - аранжавы
 didelis - вялікі
 mažas - невялічкі, малы, маленькі
 jaunas - малады
-senas - стыра
+senas - стары
 gražus - прыгожы
 mama - маці
 brolis - брат, браце
