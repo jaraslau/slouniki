@@ -217,3 +217,14 @@ pėstininkas - драб, латнік (шаховае)
 rikis - слонь; ахвіцэр (шаховае)
 bulvės, bulvė - бульба
 kardas, kalavijas - меч
+sofa - канапа
+lova - ложак
+spinta - шафа
+veidrodis - люстэрка
+stalas - стол
+kėdė - крэсла
+krėslas, fotelis - фатэль
+lempa - лямпа
+šaldytuvas - лядоўня, холадня
+langas - вакно
+durys - дзьверы
