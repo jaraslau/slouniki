@@ -7,12 +7,15 @@ tu - сам
 mes - мы
 ji - яна
 jis - ён
-jõs - яны (жаночы)
+jos - яны (жаночы)
 jie - яны (мужчынскі)
+jūs - Ваша, Вашаць, Вашэць; самі
+čia - тут, тутака; тутацька, тута, ту (краёвае)
+šitas - гэты, гэны
 sveiki, sveikas, sveika - здароў, вітаю
 taip - так
 ne - не
-prašom - калі ласка; спажывай здаровы (бо ўжываецца, як адказ)
+prašom - калі ласка; спажывай здаровы, здаровы будзь (калі ўжываецца, як адказ)
 kaip - як
 kada - калі
 kuris - які
@@ -22,7 +25,7 @@ ką - што
 ir - і, а, ды  
 bet - але, але-ж
 viskas - усё
-daugelis - шмат
+daug - шмат
 nes - бо
 arba - ці, або, альбо, а ці
 visi - усе
@@ -54,13 +57,47 @@ bent - прынамсі
 dabar - зараз
 jei - калі (не ў кантэксту часу)
 kaip pasakyti? - як самі кажаце?
-labas rytas - дзень добры (кажуць уранку)
-laba diena - дабрыдзень, добры дзень, дзень добры
+labas rytas; labą rytą; labaryt - дзень добры (кажуць уранку)
+laba diena; labadien - дабрыдзень, добры дзень, дзень добры
 labas vakaras - дабрывечар, добры вечар, вечар добры
-labos nakties - дабранач
+labos nakties; labanakt - дабранач
 kaip sekasi - як сам маесься?
+kartu - разам
 ačiu - дзякуй
 gerai - добра
+laukti - чакаць
+naktis - ноч
+rytas - ранак
+vakaras - вечар
+žirgas, arklys - конь; вершнік (шаховы)
+reikia, reik - трэба, трэ
+pulkas - гуф, пулк, полк, поўк
+kareivis - жаўнер, вайсковец
+balnoti - сядлаць, кульбачыць
+padėti, pagelbėti - дапамагчы, дапамагаць
+gyventi - жыць
+dirbti - працаваць
+norėti - хацець
+važiuoti - ехаць
+mokėti - умець
+rašyti - пісаць
+skaityti - чытаць
+mokytis, studijuoti - вывучацца
+mokykla - школа
+butas - кватэра, дамоўка
+namas - хата, дом
+tuščias - пусты
+tuščiai - пуста
+dingti - зьнікнуць
+svetainė - гасьцёўня
+prieškambaris, priemenė - вітальня
+kambarys - пакой
+pirkia - хатка
+šuo - сабака
+istorija - гісторыя
+medis - дрэва
+pušis - хвоя, хваіна
+kariuomenė, armija - войска
 sudie - пабачымся, пабачымась
 viso gero - бывайце здаровыя
 pirmadienis - панядзелак
@@ -80,7 +117,7 @@ sausis - студзень
 gruodis - сьнежань
 kovas - сакавік, марац
 balandis - красавік
-gegužė - травень, зелень (абл.)
+gegužė - травень, зелень (краёвае)
 birželis - чэрвень
 liepa - ліпень
 rugpjūtis - жнівень
@@ -88,6 +125,7 @@ rugsėjis - верасень
 spalis - кастрычнік
 lapkritis - лістапад
 skaičiai - лічбы
+nulis - нуль
 vienas - адзін
 du - два
 trys - тры
@@ -98,6 +136,14 @@ septyni - сем
 aštuoni - восем
 devyni - дзевяць
 dešimt - дзесяць
+vienuolika - адзінаццаць
+dvylika - дванаццаць
+dvidešimt - дваццаць
+šimtas - сто, сотня
+tūkstantis - тысяча
+milijonas - мільён
+pirmas - першы
+antras - другі
 spalva - колер
 mėlynas - сіні
 žalias - зялёны
@@ -122,6 +168,9 @@ sesuo - сястра
 vaikas - дзіцё
 dukra - дачка
 žmona - жонка
+pinigai - грошы
+kalba - мова (назоўнік); мовіць (дзеяслоў)
+žodis - слова
 pieštukas - аловак
 parkeris - асадка
 knyga - кніга
@@ -143,8 +192,9 @@ kastuvas - рыдлёўка
 saulėlydis - заход
 žuvis - рыба
 gyvūnai - жывёлы
+gyvūnas, gyvulys? - жывёла
 ponas - спадар, пан
-pons - спадар, пан (ДЫЯЛЕКШЧЫНА)
+pons - спадар, пан (краёвы зварот, ужываецца з прозьвішчам?)
 panelė - спадарычна, панна
 ponia - спадарыня, пані
 vyras - мужык
@@ -154,3 +204,16 @@ mergaitė - дзяўчына, дзяўчынка
 berniukas - хлопец, хлопчык
 kaimynas - сусед
 žmonės - людзі
+Vilnius - Вільня
+Lietuva - Летува; (гістарычна) Жамойць, Жмудзь
+Baltarusija - Беларусь
+žmogus - чалавек, людзіна
+gaidys - певень, когут (краёвае)
+šachmatai - шахі, шахы
+bokštas - тура (шаховае)
+valdovė - гетман, візыр (шаховае)
+karalius - кароль
+pėstininkas - драб, латнік (шаховае)
+rikis - слонь; ахвіцэр (шаховае)
+bulvės, bulvė - бульба
+kardas, kalavijas - меч
