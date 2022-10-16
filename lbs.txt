@@ -19,6 +19,8 @@ prašom - калі ласка; спажывай здаровы, здаровы �
 kaip - як
 kada - калі
 kuris - які
+koks - які
+kokia - якая
 kur - дзе
 kas - хто
 ką - што
@@ -62,7 +64,7 @@ labas rytas; labą rytą - дзень добры (кажуць уранку)
 laba diena - дабрыдзень, добры дзень, дзень добры
 labas vakaras - дабрывечар, добры вечар, вечар добры
 labos nakties; labanakt; labanaktis - дабранач
-kaip sekasi - як сам маесься?
+kaip sekasi? kaip gyvenate? - як сам маесься?; як маесься?
 kartu - разам
 ačiu - дзякуй
 gerai - добра
@@ -86,7 +88,9 @@ padėti, pagelbėti - дапамагчы, дапамагаць
 gyventi - жыць
 dirbti - працаваць
 norėti - хацець
+žinoti - ведаць
 važiuoti - ехаць
+eiti - ісьці
 mokėti - умець
 rašyti - пісаць
 skaityti - чытаць
@@ -238,3 +242,18 @@ lempa - лямпа
 šaldytuvas - лядоўня, холадня
 langas - вакно
 durys - дзьверы
+gatvė - вуліца
+aikštė - плошча, пляц
+upė - рака
+tiltas - мост
+cerkvė - царква
+bažnyčia - касьцёл
+plieninis - сталёвы
+plienas - сталь
+metalas - мэталь
+meralinis - мэталёвы
+daržovės, daržovė - гародніна
+vaisius - садавіна, садовіна
+pasas - пашпарт
+konstitucija - канстытуцыя
+miestas - места
