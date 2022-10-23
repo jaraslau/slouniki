@@ -87,6 +87,8 @@ balnoti - сядлаць, кульбачыць
 padėti, pagelbėti - дапамагчы, дапамагаць
 gyventi - жыць
 dirbti - працаваць
+palaukti - пачакаць
+kalbėti - мовіць
 norėti - хацець
 žinoti - ведаць
 važiuoti - ехаць
@@ -181,7 +183,7 @@ vaikas - дзіцё
 dukra - дачка
 žmona - жонка
 pinigai - грошы
-kalba - мова (назоўнік); мовіць (дзеяслоў)
+kalba - мова (назоўнік); (ён, яна) мовіць (дзеяслоў)
 žodis - слова
 pieštukas - аловак
 parkeris - асадка
