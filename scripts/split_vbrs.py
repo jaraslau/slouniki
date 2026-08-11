@@ -72,13 +72,19 @@ def split_saying_separator(line):
         if char == "=" and line[max(0, i - 1) : i + 2].strip() == "=":
             return line[:i].strip(), "=", line[i + 1 :].strip()
         if char in "-–—" and (i == 0 or line[i - 1] != "\\"):
-            if i > 0 and i + 1 < len(line) and line[i - 1].isspace() and line[i + 1].isspace():
+            if (
+                i > 0
+                and i + 1 < len(line)
+                and line[i - 1].isspace()
+                and line[i + 1].isspace()
+            ):
                 dash_candidates.append(i)
     if dash_candidates:
         definition_like = [
             i
             for i in dash_candidates
-            if line[i + 1 :].lstrip()[:1].isupper() or line[i + 1 :].lstrip().startswith("(")
+            if line[i + 1 :].lstrip()[:1].isupper()
+            or line[i + 1 :].lstrip().startswith("(")
         ]
         i = definition_like[0] if definition_like else dash_candidates[0]
         return line[:i].replace("\\-", "-").strip(), "-", line[i + 1 :].strip()
@@ -92,7 +98,11 @@ def split_saying_definitions(text):
             {
                 "number": match.group(1),
                 "text": normalize_space(
-                    text[match.end() : matches[i + 1].start() if i + 1 < len(matches) else len(text)]
+                    text[
+                        match.end() : matches[i + 1].start()
+                        if i + 1 < len(matches)
+                        else len(text)
+                    ]
                 ),
             }
             for i, match in enumerate(matches)
@@ -124,7 +134,9 @@ def parse_saying(line, line_number):
         "article": word,
         "is_link": is_link,
         "sources": SOURCE_RE.findall(body),
-        "definitions": [] if is_link else split_saying_definitions(body_without_sources),
+        "definitions": []
+        if is_link
+        else split_saying_definitions(body_without_sources),
     }
     if is_link and link:
         entry["link"] = link.group(1)
@@ -206,7 +218,9 @@ def split(source, out_dir):
     )
     sayings = [
         parse_saying(line, line_number)
-        for line_number, line in enumerate(lines[sayings_index + 1 : marker_index], sayings_index + 2)
+        for line_number, line in enumerate(
+            lines[sayings_index + 1 : marker_index], sayings_index + 2
+        )
         if line.strip()
     ]
     (out_dir / "sayings.json").write_text(
@@ -228,7 +242,12 @@ def split(source, out_dir):
             json.dumps(entries, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-    return sum(map(len, by_letter.values())), len(by_letter), skipped_blank, len(sayings)
+    return (
+        sum(map(len, by_letter.values())),
+        len(by_letter),
+        skipped_blank,
+        len(sayings),
+    )
 
 
 def self_check():
@@ -250,9 +269,13 @@ def self_check():
     ]
     assert entry["ru_notes"] == ["безударное"]
 
-    saying = parse_saying(r"Век зжыць \- ня мех сшыць - Жизнь прожить - не поле перейти", 3)
+    saying = parse_saying(
+        r"Век зжыць \- ня мех сшыць - Жизнь прожить - не поле перейти", 3
+    )
     assert saying["article"] == "Век зжыць - ня мех сшыць"
-    assert saying["definitions"] == [{"number": None, "text": "Жизнь прожить - не поле перейти"}]
+    assert saying["definitions"] == [
+        {"number": None, "text": "Жизнь прожить - не поле перейти"}
+    ]
 
     saying = parse_saying('З камарову дзюбу (лытку) = (гл. "З жабіны прыгаршчы")', 4)
     assert saying["is_link"] is True
