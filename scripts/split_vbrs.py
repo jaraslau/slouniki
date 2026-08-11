@@ -6,6 +6,7 @@ from collections import defaultdict
 from pathlib import Path
 
 MARKER = "-- СЛОВЫ:"
+SAYINGS_MARKER = "-- ВЫСЛОЎІ, ПАРАЎНАНЬНІ, ПРЫКАЗКІ Й ПРЫМАЎКІ:"
 ENTRY_RE = re.compile(
     r"^(?P<head>.+?)\s+/(?P<latin>[^/]*)/\s*(?P<op>[-–—=])\s*(?P<body>.*)$"
 )
@@ -14,6 +15,7 @@ TAG_GROUP_RE = re.compile(r"(?:(?:м|ж|н|а|мн|ул)\.)+$")
 SOURCE_RE = re.compile(r"\[([^\]]+)\]")
 DEF_RE = re.compile(r"(?:^|;\s*)(\d+\??)\)\s*")
 LINK_RE = re.compile(r'гл\.?\s*"?([^")]+)"?')
+SAYING_DEF_RE = re.compile(r"(?:^|;\s*)(\d+\??)\)\s*")
 
 
 def normalize_space(text):
@@ -62,6 +64,73 @@ def split_definitions(text):
             {"number": match.group(1), "text": cleaned, "ru_notes": notes}
         )
     return definitions
+
+
+def split_saying_separator(line):
+    dash_candidates = []
+    for i, char in enumerate(line):
+        if char == "=" and line[max(0, i - 1) : i + 2].strip() == "=":
+            return line[:i].strip(), "=", line[i + 1 :].strip()
+        if char in "-–—" and (i == 0 or line[i - 1] != "\\"):
+            if i > 0 and i + 1 < len(line) and line[i - 1].isspace() and line[i + 1].isspace():
+                dash_candidates.append(i)
+    if dash_candidates:
+        definition_like = [
+            i
+            for i in dash_candidates
+            if line[i + 1 :].lstrip()[:1].isupper() or line[i + 1 :].lstrip().startswith("(")
+        ]
+        i = definition_like[0] if definition_like else dash_candidates[0]
+        return line[:i].replace("\\-", "-").strip(), "-", line[i + 1 :].strip()
+    return None
+
+
+def split_saying_definitions(text):
+    matches = list(SAYING_DEF_RE.finditer(text))
+    if matches:
+        return [
+            {
+                "number": match.group(1),
+                "text": normalize_space(
+                    text[match.end() : matches[i + 1].start() if i + 1 < len(matches) else len(text)]
+                ),
+            }
+            for i, match in enumerate(matches)
+        ]
+    return [
+        {"number": None, "text": normalize_space(part)}
+        for part in text.split(";")
+        if normalize_space(part)
+    ]
+
+
+def parse_saying(line, line_number):
+    split_at = split_saying_separator(line)
+    if not split_at:
+        return {
+            "line": line_number,
+            "raw": line,
+            "parse_error": "missing saying separator",
+            "article": line,
+        }
+
+    word, op, body = split_at
+    body_without_sources = SOURCE_RE.sub(" ", body)
+    is_link = op == "="
+    link = LINK_RE.search(body)
+    entry = {
+        "line": line_number,
+        "raw": line,
+        "article": word,
+        "is_link": is_link,
+        "sources": SOURCE_RE.findall(body),
+        "definitions": [] if is_link else split_saying_definitions(body_without_sources),
+    }
+    if is_link and link:
+        entry["link"] = link.group(1)
+    elif is_link:
+        entry["parse_error"] = "missing link target"
+    return entry
 
 
 def parse_head(head):
@@ -127,12 +196,22 @@ def split(source, out_dir):
     lines = source.read_text(encoding="utf-8").splitlines()
     try:
         marker_index = lines.index(MARKER)
+        sayings_index = lines.index(SAYINGS_MARKER)
     except ValueError as exc:
-        raise SystemExit(f"{source}: missing {MARKER!r}") from exc
+        raise SystemExit(f"{source}: missing section marker") from exc
 
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "preface.txt").write_text(
         "\n".join(lines[: marker_index + 1]) + "\n", encoding="utf-8"
+    )
+    sayings = [
+        parse_saying(line, line_number)
+        for line_number, line in enumerate(lines[sayings_index + 1 : marker_index], sayings_index + 2)
+        if line.strip()
+    ]
+    (out_dir / "sayings.json").write_text(
+        json.dumps(sayings, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
     )
 
     by_letter = defaultdict(list)
@@ -149,7 +228,7 @@ def split(source, out_dir):
             json.dumps(entries, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-    return sum(map(len, by_letter.values())), len(by_letter), skipped_blank
+    return sum(map(len, by_letter.values())), len(by_letter), skipped_blank, len(sayings)
 
 
 def self_check():
@@ -171,19 +250,30 @@ def self_check():
     ]
     assert entry["ru_notes"] == ["безударное"]
 
+    saying = parse_saying(r"Век зжыць \- ня мех сшыць - Жизнь прожить - не поле перейти", 3)
+    assert saying["article"] == "Век зжыць - ня мех сшыць"
+    assert saying["definitions"] == [{"number": None, "text": "Жизнь прожить - не поле перейти"}]
+
+    saying = parse_saying('З камарову дзюбу (лытку) = (гл. "З жабіны прыгаршчы")', 4)
+    assert saying["is_link"] is True
+    assert saying["link"] == "З жабіны прыгаршчы"
+
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("source", nargs="?", default="vbrs.txt")
-    parser.add_argument("--out", default="json")
+    parser.add_argument("--out", default="json/articles")
     parser.add_argument("--check", action="store_true")
     args = parser.parse_args()
 
     if args.check:
         self_check()
 
-    count, files, blanks = split(Path(args.source), Path(args.out))
-    print(f"wrote {count} articles to {files} json files; skipped {blanks} blank lines")
+    count, files, blanks, sayings = split(Path(args.source), Path(args.out))
+    print(
+        f"wrote {count} articles to {files} json files; "
+        f"wrote {sayings} sayings; skipped {blanks} blank lines"
+    )
 
 
 if __name__ == "__main__":
