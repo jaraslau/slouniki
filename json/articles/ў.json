@@ -1,0 +1,39 @@
+[
+  {
+    "line": 52150,
+    "raw": "ўік-энд /ŭik-end/ - выходные, уик-энд",
+    "word": "ўік-энд",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ŭik-end",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "выходные, уик-энд",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56830,
+    "raw": "ўЁска ж. /ŭjoska/ = (гл. \"веска\") (дл. \"в'ёска\")",
+    "word": "ўЁска",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ŭjoska",
+    "is_link": true,
+    "ru_notes": [
+      "дл. \"в'ёска\""
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "веска"
+  }
+]

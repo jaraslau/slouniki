@@ -1,0 +1,6136 @@
+[
+  {
+    "line": 20546,
+    "raw": "і /i/ - эх [СН]",
+    "word": "і",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "i",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эх",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20547,
+    "raw": "ІвАн КупАла м. /Ivan Kupała/ - в этих песнях приписывается Ивану КупАле: а) плодородие пчелъ; б) покровительство полевой ржи [СН]",
+    "word": "ІвАн КупАла",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Ivan Kupała",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "в этих песнях приписывается Ивану КупАле: а) плодородие пчелъ; б) покровительство полевой ржи",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20548,
+    "raw": "ІванЕц м. /Ivaniec/ - ивашка [СН]",
+    "word": "ІванЕц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Ivaniec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ивашка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20549,
+    "raw": "ІванЕц м. /Ivaniec/ - имя от крещения Иван [СН]",
+    "word": "ІванЕц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Ivaniec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя от крещения Иван",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20550,
+    "raw": "івАнчык м. /ivančyk/ - чекан (Saxicola) [БН]",
+    "word": "івАнчык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ivančyk",
+    "is_link": false,
+    "ru_notes": [
+      "Saxicola"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чекан",
+        "ru_notes": [
+          "Saxicola"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20551,
+    "raw": "Іванька ж. /ivańka/ - ивушка [СН]",
+    "word": "Іванька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ivańka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ивушка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20552,
+    "raw": "ІвАш, ІвОн, ІвАн, ІвАшка, ІвАсь м.ул. /Ivaš, Ivon, Ivan, Ivaška, Ivaś/ - Иван",
+    "word": "ІвАш, ІвОн, ІвАн, ІвАшка, ІвАсь",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Ivaš, Ivon, Ivan, Ivaška, Ivaś",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иван",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20553,
+    "raw": "ІвАшка м. /Ivaška/ - иванушка [СН]",
+    "word": "ІвАшка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Ivaška",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иванушка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20554,
+    "raw": "Івіна ж. /ivina/ - ива, ивовое дерево [СН]",
+    "word": "Івіна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ivina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ива, ивовое дерево",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20555,
+    "raw": "ігдзЕ /ihdzie/ - где (дл.)(гл. \"гдзе\")",
+    "word": "ігдзЕ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihdzie",
+    "is_link": false,
+    "ru_notes": [
+      "дл.",
+      "гл. \"гдзе\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "где",
+        "ru_notes": [
+          "дл.",
+          "гл. \"гдзе\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20556,
+    "raw": "іглАк м. /ihłak/ - дикообраз [БН]",
+    "word": "іглАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihłak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "дикообраз",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20557,
+    "raw": "іглАсты /ihłasty/ - иглистый; хвойный (тыльниковый) [БН]",
+    "word": "іглАсты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihłasty",
+    "is_link": false,
+    "ru_notes": [
+      "тыльниковый"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иглистый; хвойный",
+        "ru_notes": [
+          "тыльниковый"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20558,
+    "raw": "іглІца ж. /ihlica/ - 1) игла у хвойного дерева, хвоя; 2) ударник у ружья [БН]",
+    "word": "іглІца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihlica",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "игла у хвойного дерева, хвоя",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "ударник у ружья",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20559,
+    "raw": "іглІчная спружЫна /ihličnaja spružyna/ - боевая пружина [БН]",
+    "word": "іглІчная спружЫна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihličnaja spružyna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "боевая пружина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20560,
+    "raw": "ігрА ж. /ihra/ - игра (на музык. инструменте) [БН]",
+    "word": "ігрА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihra",
+    "is_link": false,
+    "ru_notes": [
+      "на музык. инструменте"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "игра",
+        "ru_notes": [
+          "на музык. инструменте"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20561,
+    "raw": "ігрАць /ihrać/ - играть (на музыкальн. инстр.) [БН]",
+    "word": "ігрАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihrać",
+    "is_link": false,
+    "ru_notes": [
+      "на музыкальн. инстр."
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "играть",
+        "ru_notes": [
+          "на музыкальн. инстр."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20562,
+    "raw": "ігрУша ж. /ihruša/ - груша (Pyrus L) [БН]",
+    "word": "ігрУша",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihruša",
+    "is_link": false,
+    "ru_notes": [
+      "Pyrus L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "груша",
+        "ru_notes": [
+          "Pyrus L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20563,
+    "raw": "ігрУша ж. /ihruša/ - грушевое дерево [СН]",
+    "word": "ігрУша",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihruša",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "грушевое дерево",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20564,
+    "raw": "ігрУшка ж. /ihruška/ - грушка (плод) [СН]",
+    "word": "ігрУшка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihruška",
+    "is_link": false,
+    "ru_notes": [
+      "плод"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "грушка",
+        "ru_notes": [
+          "плод"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20565,
+    "raw": "ігрЫшча н. /ihryšča/ - вечеринка, бываемая у простолюдинов во время святок, с скоморохом [СН]",
+    "word": "ігрЫшча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihryšča",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вечеринка, бываемая у простолюдинов во время святок, с скоморохом",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20566,
+    "raw": "ігрЫшча н. /ihryšča/ - игрище, вечеринка [БН]",
+    "word": "ігрЫшча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihryšča",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "игрище, вечеринка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20567,
+    "raw": "ігрЫшчнік м. /ihryščnik/ - участвующий в деровенском колядном гульбище [СН]",
+    "word": "ігрЫшчнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihryščnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "участвующий в деровенском колядном гульбище",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20568,
+    "raw": "ігрЭц м. /ihrec/ - игрок, играющий на инструменте, музыкант [СН]",
+    "word": "ігрЭц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihrec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "игрок, играющий на инструменте, музыкант",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20569,
+    "raw": "ігрЭц м. /ihrec/ - игрок, музыкант [БН]",
+    "word": "ігрЭц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihrec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "игрок, музыкант",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20570,
+    "raw": "ІгУмен м.ул. /Ihumien/ - Червень (город)",
+    "word": "ІгУмен",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Ihumien",
+    "is_link": false,
+    "ru_notes": [
+      "город"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Червень",
+        "ru_notes": [
+          "город"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20571,
+    "raw": "ігУменскі /ihumienski/ - червеньский (про город)",
+    "word": "ігУменскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ihumienski",
+    "is_link": false,
+    "ru_notes": [
+      "про город"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "червеньский",
+        "ru_notes": [
+          "про город"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20572,
+    "raw": "ІгУменшчына ж.ул. /Ihumienščyna/ - червенский район",
+    "word": "ІгУменшчына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Ihumienščyna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "червенский район",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20573,
+    "raw": "Ідал м. /idał/ - дьявол, враг [СН]",
+    "word": "Ідал",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idał",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "дьявол, враг",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20574,
+    "raw": "Ідалка ж. /idałka/ - чертовка [СН]",
+    "word": "Ідалка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idałka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чертовка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20575,
+    "raw": "Ідальскі /idalski/ - дьявольский, вражеский, варварский [СН]",
+    "word": "Ідальскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idalski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "дьявольский, вражеский, варварский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20576,
+    "raw": "Ідальскі /idalski/ - по дьявольски, чертовски [СН]",
+    "word": "Ідальскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idalski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "по дьявольски, чертовски",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20577,
+    "raw": "Ідальшчына ж. /idalščyna/ - нелепость, чертовщина [СН]",
+    "word": "Ідальшчына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idalščyna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "нелепость, чертовщина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20578,
+    "raw": "ідзЕ /idzie/ - где [СН]",
+    "word": "ідзЕ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idzie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "где",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20579,
+    "raw": "ідУчы н. /idučy/ - текущий [СН]",
+    "word": "ідУчы",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "idučy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "текущий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20580,
+    "raw": "із /iz/ - 1) с, со; 2) из, изо; 3) от; 4) над (указание на предмет к которому провляются какие-либо чувства); 5) по (направлению чего-либо); 6) на (со словами \"ажаніцца\", \"пабрацца\" и т.п.)",
+    "word": "із",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iz",
+    "is_link": false,
+    "ru_notes": [
+      "указание на предмет к которому провляются какие-либо чувства",
+      "направлению чего-либо",
+      "со словами \"ажаніцца\", \"пабрацца\" и т.п."
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "с, со",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "из, изо",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "от",
+        "ru_notes": []
+      },
+      {
+        "number": "4",
+        "text": "над",
+        "ru_notes": [
+          "указание на предмет к которому провляются какие-либо чувства"
+        ]
+      },
+      {
+        "number": "5",
+        "text": "по",
+        "ru_notes": [
+          "направлению чего-либо"
+        ]
+      },
+      {
+        "number": "6",
+        "text": "на",
+        "ru_notes": [
+          "со словами \"ажаніцца\", \"пабрацца\" и т.п."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20581,
+    "raw": "ізбОжжа н. /izbožža/ = (гл. \"збожжа\") [СБ]",
+    "word": "ізбОжжа",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izbožža",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "збожжа"
+  },
+  {
+    "line": 20582,
+    "raw": "ізбрОдня ж. /izbrodnia/ = (гл. \"збродня\") [СБ] (ах.)",
+    "word": "ізбрОдня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izbrodnia",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "збродня"
+  },
+  {
+    "line": 20583,
+    "raw": "ізбрОя ж. /izbroja/ = (гл. \"зброя\") [СБ]",
+    "word": "ізбрОя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izbroja",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "зброя"
+  },
+  {
+    "line": 20584,
+    "raw": "ізвОзьнік м. /izvoźnik/ - извощик, нанимающийся в извоз [СН]",
+    "word": "ізвОзьнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izvoźnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "извощик, нанимающийся в извоз",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20585,
+    "raw": "ізгІнуць /izhinuć/ - 1) пропасть; 2) быть украдену [СН]",
+    "word": "ізгІнуць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izhinuć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "пропасть",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "быть украдену",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20586,
+    "raw": "ізмарагд м. /izmarahd/ = (гл. \"смарагд\") [СБ] (ах.)",
+    "word": "ізмарагд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izmarahd",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "смарагд"
+  },
+  {
+    "line": 20587,
+    "raw": "Ізнава /iznava/ - снова, вновь, опять. См. {ЗнОву}, {СЫзнова} и {НаИзнова} [СН]",
+    "word": "Ізнава",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iznava",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "снова, вновь, опять. См. {ЗнОву}, {СЫзнова} и {НаИзнова}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20588,
+    "raw": "ізнОў /iznoŭ/ = (гл. \"зноў\") [БН]",
+    "word": "ізнОў",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iznoŭ",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [],
+    "link": "зноў"
+  },
+  {
+    "line": 20589,
+    "raw": "ізрАда ж. /izrada/ - измена [СН]",
+    "word": "ізрАда",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izrada",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "измена",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20590,
+    "raw": "ізрАда ж. /izrada/ = (гл. \"зрада\")",
+    "word": "ізрАда",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izrada",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "зрада"
+  },
+  {
+    "line": 20591,
+    "raw": "ізрАна /izrana/ - 1) рано; 2) прежде времени [СН]",
+    "word": "ізрАна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izrana",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "рано",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "прежде времени",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20592,
+    "raw": "ізраЭлскі /izraełski/ = (гл. \"ізраэльскі\")",
+    "word": "ізраЭлскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izraełski",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "ізраэльскі"
+  },
+  {
+    "line": 20593,
+    "raw": "ізраЭлскі /izraełski/ = (гл. \"ізраэльскі\") [ДЛ]",
+    "word": "ізраЭлскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izraełski",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "ізраэльскі"
+  },
+  {
+    "line": 20594,
+    "raw": "ІзраЭль м.ул. /Izrael/ - Израиль",
+    "word": "ІзраЭль",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Izrael",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Израиль",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20595,
+    "raw": "ізраЭльскі /izraelski/ - израильский",
+    "word": "ізраЭльскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izraelski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "израильский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20596,
+    "raw": "ізынАчаны /izynačany/ - измененный [СН]",
+    "word": "ізынАчаны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izynačany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "измененный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20597,
+    "raw": "ізынАчваць /izynačvać/ - то же, что {ЗъинАчиваць} [СН]",
+    "word": "ізынАчваць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "izynačvać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ЗъинАчиваць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20598,
+    "raw": "ізьбЕг м. /iźbieh/ - беглец [СН]",
+    "word": "ізьбЕг",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iźbieh",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "беглец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20599,
+    "raw": "ізьвЕчны /iźviečny/ - с давних времен находящийся, существующий [СН]",
+    "word": "ізьвЕчны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iźviečny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "с давних времен находящийся, существующий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20600,
+    "raw": "ізьЕсьці /iźjeści/ - то же, что {ЗъЕсьць} [СН]",
+    "word": "ізьЕсьці",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iźjeści",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ЗъЕсьць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20601,
+    "raw": "ізьмЕна ж. /iźmiena/ = (гл. \"зьмена\") [СБ]",
+    "word": "ізьмЕна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iźmiena",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "зьмена"
+  },
+  {
+    "line": 20602,
+    "raw": "Ікаецца /ikajecca/ - икАется [СН]",
+    "word": "Ікаецца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ikajecca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "икАется",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20603,
+    "raw": "Ікаўка ж. /ikaŭka/ - икОта [СН]",
+    "word": "Ікаўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ikaŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "икОта",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20604,
+    "raw": "ікОтка ж. /ikotka/ - то же, что {Иковка} [СН]",
+    "word": "ікОтка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ikotka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {Иковка}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20605,
+    "raw": "ілгА /iłha/ = (гл. \"ільга\") [ДЛ]",
+    "word": "ілгА",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłha",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "ільга"
+  },
+  {
+    "line": 20606,
+    "raw": "ілгАньне н. /iłhańnie/ - ложь [СН]",
+    "word": "ілгАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłhańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ложь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20607,
+    "raw": "ілгАць /iłhać/ - лгать, врать. Слич. {ВгАць} [СН]",
+    "word": "ілгАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłhać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лгать, врать. Слич. {ВгАць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20608,
+    "raw": "ілгУн м. /iłhun/ - лгун, лжец. Слич. {ВгУн} [СН]",
+    "word": "ілгУн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłhun",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лгун, лжец. Слич. {ВгУн}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20609,
+    "raw": "ілгУньня ж. /iłhuńnia/ - лгунья. Слич. {ВгУння} [СН]",
+    "word": "ілгУньня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłhuńnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лгунья. Слич. {ВгУння}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20610,
+    "raw": "ілжЭцца /iłžecca/ - неправду говорят, лжется [СН]",
+    "word": "ілжЭцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłžecca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "неправду говорят, лжется",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20611,
+    "raw": "ілкнУць /iłknuć/ - глонуть [СН]",
+    "word": "ілкнУць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłknuć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "глонуть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20612,
+    "raw": "ілнЯны /iłniany/ = (гл. \"ільняны\") [ДЛ]",
+    "word": "ілнЯны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłniany",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "ільняны"
+  },
+  {
+    "line": 20613,
+    "raw": "ільгА /ilha/ - можно, возможно, позволительно (гл. \"льга\")",
+    "word": "ільгА",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ilha",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"льга\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "можно, возможно, позволительно",
+        "ru_notes": [
+          "гл. \"льга\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20614,
+    "raw": "ільгА ж. /ilha/ - 1) возможность; 2) льгота",
+    "word": "ільгА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ilha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "возможность",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "льгота",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20615,
+    "raw": "ІльлІн /Illiin/ - ильин [СН]",
+    "word": "ІльлІн",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Illiin",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ильин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20616,
+    "raw": "ільлІнка ж. /illiinka/ - грушевое дерево, которого плоды дозревают к Ильину дню, к 20-му Июля [СН]",
+    "word": "ільлІнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "illiinka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "грушевое дерево, которого плоды дозревают к Ильину дню, к 20-му Июля",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20617,
+    "raw": "ільлЮ /illiu/ - лью. См. {Лиць} [СН]",
+    "word": "ільлЮ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "illiu",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лью. См. {Лиць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20618,
+    "raw": "ІльлЯ м.ул. /illa/ - Илья [БН]",
+    "word": "ІльлЯ",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "illa",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Илья",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20619,
+    "raw": "ІльлЯ м.ул. /Illia/ - Ильин день (день Св. Пророка Илии, празднуемый 20 Июля) [СН]",
+    "word": "ІльлЯ",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Illia",
+    "is_link": false,
+    "ru_notes": [
+      "день Св. Пророка Илии, празднуемый 20 Июля"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ильин день",
+        "ru_notes": [
+          "день Св. Пророка Илии, празднуемый 20 Июля"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20620,
+    "raw": "ільнУць /ilnuć/ - 1) льнуть, липнуть; 2) оказывать привязанность [СН]",
+    "word": "ільнУць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ilnuć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "льнуть, липнуть",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "оказывать привязанность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20621,
+    "raw": "ільнЯны /ilniany/ - льняной [БН]",
+    "word": "ільнЯны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ilniany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "льняной",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20622,
+    "raw": "імавЕрнасьць ж. /imaviernaść/ - вероятие, вероятность [БН]",
+    "word": "імавЕрнасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imaviernaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вероятие, вероятность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20623,
+    "raw": "імавЕрны /imavierny/ - вероятный [БН]",
+    "word": "імавЕрны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imavierny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вероятный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20624,
+    "raw": "імАцца /imacca/ - 1) браться; 2) понимать [СН]",
+    "word": "імАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "браться",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "понимать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20625,
+    "raw": "імАцца /imacca/ - 1) браться; 2) понимать. (Імацца навукі.) [БН]",
+    "word": "імАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imacca",
+    "is_link": false,
+    "ru_notes": [
+      "Імацца навукі."
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "браться",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "понимать.",
+        "ru_notes": [
+          "Імацца навукі."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20626,
+    "raw": "імаць (што) /imać/ - 1) брать, принимать; 2) иметь [БН]",
+    "word": "імаць",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "брать, принимать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "иметь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20627,
+    "raw": "імАць /imać/ - 1) брать, хватать; 2) бить; 3) иметь [СН]",
+    "word": "імАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "брать, хватать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "бить",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "иметь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20628,
+    "raw": "імбрЫчак м. /imbryčak/ - чайник [БН]",
+    "word": "імбрЫчак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imbryčak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чайник",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20629,
+    "raw": "імглА ж. /imhła/ - мгла [БН]",
+    "word": "імглА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imhła",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мгла",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20630,
+    "raw": "імглЯны /imhlany/ - мгляный [БН]",
+    "word": "імглЯны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imhlany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мгляный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20631,
+    "raw": "Іме н. /imie/ - имя [СН]",
+    "word": "Іме",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20632,
+    "raw": "Іменьне, імЕньне н. /imieńnie, imieńnie/ - имя [СН]",
+    "word": "Іменьне, імЕньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imieńnie, imieńnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20633,
+    "raw": "імЕньнік м. /imieńnik/ - 1) именослов; 2) имя существительное [БН]",
+    "word": "імЕньнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imieńnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "именослов",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "имя существительное",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20634,
+    "raw": "імЕцца /imiecca/ - верится [БН]",
+    "word": "імЕцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imiecca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "верится",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20635,
+    "raw": "імець /imieć/ - берет [СН]",
+    "word": "імець",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imieć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "берет",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20636,
+    "raw": "імжА ж. /imža/ - изморозь; мелкий дождь [БН]",
+    "word": "імжА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imža",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "изморозь; мелкий дождь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20637,
+    "raw": "імжЫцца /imžycca/ - моросит [БН]",
+    "word": "імжЫцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imžycca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "моросит",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20638,
+    "raw": "імжЫць /imžyć/ - моросить [БН]",
+    "word": "імжЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imžyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "моросить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20639,
+    "raw": "імкнЕньне н. /imknieńnie/ - стремление [БН]",
+    "word": "імкнЕньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imknieńnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стремление",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20640,
+    "raw": "імкнУцца (да чаго) /imknucca/ - стремиться [БН]",
+    "word": "імкнУцца",
+    "be_notes": [
+      "да чаго"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imknucca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стремиться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20641,
+    "raw": "імнога /imnoha/ - много",
+    "word": "імнога",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imnoha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "много",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20642,
+    "raw": "імногі /imnohi/ - многий",
+    "word": "імногі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imnohi",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "многий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20643,
+    "raw": "імОстачка ж. /imostačka/ - сударинька [БН]",
+    "word": "імОстачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imostačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сударинька",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20644,
+    "raw": "імпЭт м. /impet/ - стремление, сила, напор [БН]",
+    "word": "імпЭт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "impet",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стремление, сила, напор",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20645,
+    "raw": "Імпэт м. /impet/ - стремление, сила, напор [СН]",
+    "word": "Імпэт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "impet",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стремление, сила, напор",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20646,
+    "raw": "імпЭтны /impetny/ - стремительный [БН]",
+    "word": "імпЭтны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "impetny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стремительный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20647,
+    "raw": "імшАра ж. /imšara/ - моховое (сфагновое) болото [БН]",
+    "word": "імшАра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšara",
+    "is_link": false,
+    "ru_notes": [
+      "сфагновое"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "моховое болото",
+        "ru_notes": [
+          "сфагновое"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20648,
+    "raw": "імшАрніца ж. /imšarnica/ - подбел (Andromeda L) [БН]",
+    "word": "імшАрніца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšarnica",
+    "is_link": false,
+    "ru_notes": [
+      "Andromeda L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подбел",
+        "ru_notes": [
+          "Andromeda L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20649,
+    "raw": "імшАрына ж. /imšaryna/ - небольшое болото [БН]",
+    "word": "імшАрына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšaryna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "небольшое болото",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20650,
+    "raw": "імшЫць (што) /imšyć/ - заделывать мхом [БН]",
+    "word": "імшЫць",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "заделывать мхом",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20651,
+    "raw": "імшЭньнік м. /imšeńnik/ - моховик [БН]",
+    "word": "імшЭньнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšeńnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "моховик",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20652,
+    "raw": "імЯ (імЕньні) м. /imia/ - имя [БН] ",
+    "word": "імЯ",
+    "be_notes": [
+      "імЕньні"
+    ],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20653,
+    "raw": "імЯ н. /imia/ - имя [СН]",
+    "word": "імЯ",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20654,
+    "raw": "імЯ: імЯ агУльнае, звычАйнае н. /imia ahulnaje, zvyčajnaje/ - имя нарицательное [БН]",
+    "word": "імЯ: імЯ агУльнае, звычАйнае",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imia ahulnaje, zvyčajnaje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя нарицательное",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20655,
+    "raw": "імЯ: імЯ назОўнае н. /imia nazoŭnaje/ - имя существительное [БН]",
+    "word": "імЯ: імЯ назОўнае",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imia nazoŭnaje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя существительное",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20656,
+    "raw": "інавЕрнік м. /inaviernik/ - иноверец [СН]",
+    "word": "інавЕрнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inaviernik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иноверец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20657,
+    "raw": "інАк /inak/ - иначе [СН]",
+    "word": "інАк",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иначе",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20658,
+    "raw": "інАкш, інАчай /inakš, inačaj/ - иначе [БН]",
+    "word": "інАкш, інАчай",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inakš, inačaj",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иначе",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20659,
+    "raw": "інАкшы /inakšy/ - иной, другой [БН]",
+    "word": "інАкшы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inakšy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иной, другой",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20660,
+    "raw": "інАкшы /inakšy/ - иный [СН]",
+    "word": "інАкшы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inakšy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20661,
+    "raw": "інАкшыць /inakšyć/ - 1) делать на иной образец; 2) переменять [СН]",
+    "word": "інАкшыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inakšyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "делать на иной образец",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "переменять",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20662,
+    "raw": "інАкшыць /inakšyć/ - переиначивать, переменять [БН]",
+    "word": "інАкшыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inakšyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "переиначивать, переменять",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20663,
+    "raw": "інахОд м. /inachod/ - иноходь",
+    "word": "інахОд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inachod",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иноходь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20664,
+    "raw": "інахОдзец, інахОднік м. /inachodziec, inachodnik/ - иноходец [СБ] (ах.)",
+    "word": "інахОдзец, інахОднік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inachodziec, inachodnik",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иноходец",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20665,
+    "raw": "інАчай /inačaj/ - иным образом [СН]",
+    "word": "інАчай",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inačaj",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иным образом",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20666,
+    "raw": "інАчыць /inačyć/ - то же, что {ИнАкшиць} [СН]",
+    "word": "інАчыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inačyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ИнАкшиць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20667,
+    "raw": "інбЕр м. /inbier/ - инбирь [БН]",
+    "word": "інбЕр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inbier",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инбирь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20668,
+    "raw": "інгалятОр м. /inhalator/ - ингаляторий",
+    "word": "інгалятОр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inhalator",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ингаляторий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20669,
+    "raw": "індукцЫйны /indykcyjny/ - индуктивный",
+    "word": "індукцЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indykcyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "индуктивный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20670,
+    "raw": "індЫк м. /indyk/ - 1) индейский петух, индюк; 2) индейския куры вообще [СН]",
+    "word": "індЫк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "индейский петух, индюк",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "индейския куры вообще",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20671,
+    "raw": "індЫк м. /indyk/ - индюк (Meleagris gallopavo) [БН]",
+    "word": "індЫк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indyk",
+    "is_link": false,
+    "ru_notes": [
+      "Meleagris gallopavo"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "индюк",
+        "ru_notes": [
+          "Meleagris gallopavo"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20672,
+    "raw": "індыкацЫйны /indykacyjny/ - показательный",
+    "word": "індыкацЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indykacyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "показательный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20673,
+    "raw": "індЫкі мн. /indyki/ - цветы, простая огородная гвоздика [СН]",
+    "word": "індЫкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "indyki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "цветы, простая огородная гвоздика",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20674,
+    "raw": "Індых м. /indych/ - синька, индиго [СН]",
+    "word": "Індых",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indych",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "синька, индиго",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20675,
+    "raw": "індЫчка ж. /indyčka/ - индейская курица, индейка [СН]",
+    "word": "індЫчка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indyčka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "индейская курица, индейка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20676,
+    "raw": "індЫчка ж. /indyčka/ - индюшка [БН]",
+    "word": "індЫчка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indyčka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "индюшка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20677,
+    "raw": "індЫчкін /indyčkin/ - индейкин [СН]",
+    "word": "індЫчкін",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "indyčkin",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "индейкин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20678,
+    "raw": "Індыюм, інд м. /jindyjum, jind/ - индий (In)",
+    "word": "Індыюм, інд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jindyjum, jind",
+    "is_link": false,
+    "ru_notes": [
+      "In"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "индий",
+        "ru_notes": [
+          "In"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20679,
+    "raw": "інкубатОр ж. /inkubator/ - инкубаторий",
+    "word": "інкубатОр",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inkubator",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инкубаторий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20680,
+    "raw": "Інны /inny/ - иный, другий [СН]",
+    "word": "Інны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иный, другий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20681,
+    "raw": "інОгды /inohdy/ - иногда [БН]",
+    "word": "інОгды",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inohdy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иногда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20682,
+    "raw": "інОкшы /inokšy/ - то же, что {ИнАкший} [СН]",
+    "word": "інОкшы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inokšy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ИнАкший}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20683,
+    "raw": "інОся /inosia/ - 1) пусть себе; 2) изволь, пожалуй; 3) иное дело [СН]",
+    "word": "інОся",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inosia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "пусть себе",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "изволь, пожалуй",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "иное дело",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20684,
+    "raw": "інОся /inosia/ - иное дело [БН]",
+    "word": "інОся",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inosia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иное дело",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20685,
+    "raw": "інструкцЫйны /instrukcyjny/ - инструктивный",
+    "word": "інструкцЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "instrukcyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инструктивный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20686,
+    "raw": "інструмЕнт м. /instrumient/ - 1) музыкальное орудие; 2) всякое орудие, относящееся к художествам и рукоделиям [СН]",
+    "word": "інструмЕнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "instrumient",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "музыкальное орудие",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "всякое орудие, относящееся к художествам и рукоделиям",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20687,
+    "raw": "інструмэнтОвы /instrumentovy/ - инструментальный [БН]",
+    "word": "інструмэнтОвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "instrumentovy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инструментальный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20688,
+    "raw": "інстЫкт м. /instykt/ - 1) внушение; 2) влечение, внутреннее побуждение [СН]",
+    "word": "інстЫкт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "instykt",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "внушение",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "влечение, внутреннее побуждение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20689,
+    "raw": "інстЫнкт м. /instynkt/ - инстинкт [БН]",
+    "word": "інстЫнкт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "instynkt",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инстинкт",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20690,
+    "raw": "інсэктАр м. /insektar/ - инсектарий",
+    "word": "інсэктАр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "insektar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инсектарий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20691,
+    "raw": "інтарЭс м. /intares/ - дело, нужда [СН]",
+    "word": "інтарЭс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intares",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "дело, нужда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20692,
+    "raw": "інтарЭс, інтЭрас м. /intares, interas/ - интерес; нужда, дело [БН]",
+    "word": "інтарЭс, інтЭрас",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intares, interas",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "интерес; нужда, дело",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20693,
+    "raw": "інтарЭсны /intaresny/ - интересный, выгодный [БН]",
+    "word": "інтарЭсны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intaresny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "интересный, выгодный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20694,
+    "raw": "інтралігАтар м. /intralihatar/ - переплётчик [СБ]",
+    "word": "інтралігАтар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intralihatar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "переплётчик",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20695,
+    "raw": "інтрЫга ж. /intryha/ - интрига [БН]",
+    "word": "інтрЫга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intryha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "интрига",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20696,
+    "raw": "інтуіцЫйна, інтуіцЫйне /intujicyjna, intujicyjnie/ - интуитивно",
+    "word": "інтуіцЫйна, інтуіцЫйне",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intujicyjna, intujicyjnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "интуитивно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20697,
+    "raw": "інтуіцЫйны /intujicyjny/ - интуитивный",
+    "word": "інтуіцЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intujicyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "интуитивный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20698,
+    "raw": "інтЭнцыя ж. /intencyja/ - намерение",
+    "word": "інтЭнцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "intencyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "намерение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20699,
+    "raw": "інтэрвіЮ н. /interviju/ - 1) интервью; 2) собеседование",
+    "word": "інтэрвіЮ",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "interviju",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "интервью",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "собеседование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20700,
+    "raw": "інфармацЫйны /infarmacyjny/ - 1) информационный; 2) информативный",
+    "word": "інфармацЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "infarmacyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "информационный",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "информативный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20701,
+    "raw": "інфэкавАны /infekavany/ - инфицированный",
+    "word": "інфэкавАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "infekavany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инфицированный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20702,
+    "raw": "інфэкавАць /infekavać/ - инфицировать",
+    "word": "інфэкавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "infekavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "инфицировать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20703,
+    "raw": "інфЭкцыя: таксЫчная інфЭкцыя ж. /taksyčnaja infekcyja/ - токсикоинфекция",
+    "word": "інфЭкцыя: таксЫчная інфЭкцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "taksyčnaja infekcyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "токсикоинфекция",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20704,
+    "raw": "Інша /inša/ - иначе [СН]",
+    "word": "Інша",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inša",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иначе",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20705,
+    "raw": "іншаскАз м. /inšaskaz/ - иносказание, аллегория [БН]",
+    "word": "іншаскАз",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšaskaz",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иносказание, аллегория",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20706,
+    "raw": "іншасказАлны /inšaskazałny/ = (гл. \"іншасказальны\") [ДЛ]",
+    "word": "іншасказАлны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšaskazałny",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "іншасказальны"
+  },
+  {
+    "line": 20707,
+    "raw": "іншасказАльны, іншаскАзны /inšaskazalny, inšaskazny/ - иносказательный, аллегорический [БН]",
+    "word": "іншасказАльны, іншаскАзны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšaskazalny, inšaskazny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иносказательный, аллегорический",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20708,
+    "raw": "іншаскАзна /inšaskazna/ - иносказательно [БН]",
+    "word": "іншаскАзна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšaskazna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иносказательно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20709,
+    "raw": "Іншы /inšy/ - иный, другий [СН]",
+    "word": "Іншы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иный, другий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20710,
+    "raw": "Іншы /inšy/ = (гл. \"інАкшы\") [БН]",
+    "word": "Іншы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšy",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [],
+    "link": "інАкшы"
+  },
+  {
+    "line": 20711,
+    "raw": "Іншыць /inšyć/ - то же, что {ИнАкшиць} [СН]",
+    "word": "Іншыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ИнАкшиць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20712,
+    "raw": "іншЭць /inšeć/ - становиться иным, изменяться [СН]",
+    "word": "іншЭць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "inšeć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "становиться иным, изменяться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20713,
+    "raw": "іпадрОм м. /ipadrom/ - ипподром [СБ] (рн. \"гіпадром\")",
+    "word": "іпадрОм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ipadrom",
+    "is_link": false,
+    "ru_notes": [
+      "рн. \"гіпадром\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ипподром",
+        "ru_notes": [
+          "рн. \"гіпадром\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20714,
+    "raw": "іпАлуб м. /ipałub/ = (гл. \"палуба\") [СБ] (ах.)",
+    "word": "іпАлуб",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ipałub",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "палуба"
+  },
+  {
+    "line": 20715,
+    "raw": "іпатам м. /ipatam/ = (гл. \"гіпапатам\") [СБ] (ах. \"иппотамъ\")",
+    "word": "іпатам",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ipatam",
+    "is_link": true,
+    "ru_notes": [
+      "ах. \"иппотамъ\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "гіпапатам"
+  },
+  {
+    "line": 20716,
+    "raw": "Ірад м. /irad/ - 1) враг, безбожный человек; 2) скупец, скряга; 3) неверный, Еврей [СН]",
+    "word": "Ірад",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irad",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "враг, безбожный человек",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "скупец, скряга",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "неверный, Еврей",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20717,
+    "raw": "Ірадаўскі, Ірадскі /iradaŭski, iradski/ - варварский, безбожный [СН]",
+    "word": "Ірадаўскі, Ірадскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iradaŭski, iradski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "варварский, безбожный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20718,
+    "raw": "Ірадка ж. /iradka/ - безбожная женщина [СН]",
+    "word": "Ірадка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iradka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "безбожная женщина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20719,
+    "raw": "ірвАкі ж. /irvaki/ - рвота, блевотина [СН]",
+    "word": "ірвАкі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irvaki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рвота, блевотина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20720,
+    "raw": "ірвАкі ж.мн. /irvaki/ - рвота, блевотина [БН]",
+    "word": "ірвАкі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "irvaki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рвота, блевотина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20721,
+    "raw": "ірвАцца /irvacca/ - 1) рваться; 2) бросаться [СН]",
+    "word": "ірвАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irvacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "рваться",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "бросаться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20722,
+    "raw": "ірвАць (што) /irvać/ - рвать, щипать [БН]",
+    "word": "ірвАць",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irvać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рвать, щипать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20723,
+    "raw": "ірвАць /irvać/ - рвать [СН]",
+    "word": "ірвАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irvać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рвать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20724,
+    "raw": "ірвЕ /irvie/ - рвет [СН]",
+    "word": "ірвЕ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irvie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рвет",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20725,
+    "raw": "ірвОта ж. /irvota/ - рвота [СН]",
+    "word": "ірвОта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irvota",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рвота",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20726,
+    "raw": "ірдАнь ж. /irdań/ = (гл. \"ярдань\") [СН]",
+    "word": "ірдАнь",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irdań",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ярдань"
+  },
+  {
+    "line": 20727,
+    "raw": "ірдзЕль а. /irdziel/ - краснорожий, краснощокий, здоровый, мужчина; краснощокая, здоровая женщина [СН]",
+    "word": "ірдзЕль",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irdziel",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "краснорожий, краснощокий, здоровый, мужчина; краснощокая, здоровая женщина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20728,
+    "raw": "ірдзЕль а. /irdziel/ - краснощекий, краснощекая [БН]",
+    "word": "ірдзЕль",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irdziel",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "краснощекий, краснощекая",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20729,
+    "raw": "ірдзЕнь а. /irdzień/ - то же, что {ИрдзЕль}, но более говорится о мужчине [СН]",
+    "word": "ірдзЕнь",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irdzień",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ИрдзЕль}, но более говорится о мужчине",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20730,
+    "raw": "ірдзІцца /irdzicca/ - рдеть [БН]",
+    "word": "ірдзІцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irdzicca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рдеть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20731,
+    "raw": "іржА ж. /irža/ - ржа, ржавчина [СН]",
+    "word": "іржА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irža",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржа, ржавчина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20732,
+    "raw": "іржА ж. /irža/ - ржа, ржавщина [БН]",
+    "word": "іржА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irža",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржа, ржавщина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20733,
+    "raw": "іржавЕць /iržavieć/ - ржаветь [БН]",
+    "word": "іржавЕць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržavieć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржаветь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20734,
+    "raw": "іржАвіньне н. /iržavińnie/ - заплесневелое болото [БН]",
+    "word": "іржАвіньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržavińnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "заплесневелое болото",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20735,
+    "raw": "іржАвіньне н. /iržavińnie/ - ржавчиною покрытое болото [СН]",
+    "word": "іржАвіньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržavińnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржавчиною покрытое болото",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20736,
+    "raw": "іржАвы /iržavy/ - ржавый [БН]",
+    "word": "іржАвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržavy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржавый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20737,
+    "raw": "іржАньне н. /iržańnie/ - ржание [СН]",
+    "word": "іржАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20738,
+    "raw": "іржАньне н. /iržańnie/ - ржанье [БН]",
+    "word": "іржАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржанье",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20739,
+    "raw": "іржАць /iržać/ - 1) ржать, свойственно лошади; 2) настоятельно, назойливо просить, требовать, добиваться (говорится укорительно) [СН]",
+    "word": "іржАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržać",
+    "is_link": false,
+    "ru_notes": [
+      "говорится укорительно"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ржать, свойственно лошади",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "настоятельно, назойливо просить, требовать, добиваться",
+        "ru_notes": [
+          "говорится укорительно"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20740,
+    "raw": "іржАць /iržać/ - ржать [БН]",
+    "word": "іржАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20741,
+    "raw": "іржЫшча н. /iržyšča/ - ржище [СН]",
+    "word": "іржЫшча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržyšča",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржище",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20742,
+    "raw": "іржЫшча н. /iržyšča/ - ржище, ржаная стерна [БН]",
+    "word": "іржЫшча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržyšča",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ржище, ржаная стерна",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20743,
+    "raw": "іржЫшчны /iržyščny/ - относящийся к ржищу [СН]",
+    "word": "іржЫшчны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržyščny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "относящийся к ржищу",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20744,
+    "raw": "Ірта ж. /irta/ - лыжа",
+    "word": "Ірта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irta",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лыжа",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20745,
+    "raw": "іртОвы, Іртавы /irtovy, irtavy/ - лыжный",
+    "word": "іртОвы, Іртавы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irtovy, irtavy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лыжный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20746,
+    "raw": "Ірты мн. /irty/ - лыжи",
+    "word": "Ірты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "irty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лыжи",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20747,
+    "raw": "іршЫць /iršyć/ - обкладывать, оторачивать что тесьмою [СН]",
+    "word": "іршЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iršyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "обкладывать, оторачивать что тесьмою",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20748,
+    "raw": "ірЫдыюм, ірЫд м. /irydyjum, iryd/ - иридий [НТ:2] (Ir)",
+    "word": "ірЫдыюм, ірЫд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "irydyjum, iryd",
+    "is_link": false,
+    "ru_notes": [
+      "Ir"
+    ],
+    "sources": [
+      "НТ:2"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иридий",
+        "ru_notes": [
+          "Ir"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20749,
+    "raw": "ІрЭна, ІрЫна, РЭнька ж.ул. /Irena, Iryna, Reńka/ - Ирина",
+    "word": "ІрЭна, ІрЫна, РЭнька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Irena, Iryna, Reńka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ирина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20750,
+    "raw": "іск м. /isk/ - вылет пчёл на поиски цветов [ЗС]",
+    "word": "іск",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ЗС"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вылет пчёл на поиски цветов",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20751,
+    "raw": "Іскаркі ж.мн. /iskarki/ - гвоздика (Dianthus L) [БН]",
+    "word": "Іскаркі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "iskarki",
+    "is_link": false,
+    "ru_notes": [
+      "Dianthus L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "гвоздика",
+        "ru_notes": [
+          "Dianthus L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20752,
+    "raw": "іскаркОвыя /iskarkovyja/ - гвоздичные (растения) [БН]",
+    "word": "іскаркОвыя",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iskarkovyja",
+    "is_link": false,
+    "ru_notes": [
+      "растения"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "гвоздичные",
+        "ru_notes": [
+          "растения"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20753,
+    "raw": "іскАцца /iskacca/ - искать в голове вши [ВБ]",
+    "word": "іскАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iskacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ВБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "искать в голове вши",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20754,
+    "raw": "іскрАк м. /iskrak/ - колчедан [БН]",
+    "word": "іскрАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iskrak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "колчедан",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20755,
+    "raw": "іскрАк: сЕрчаны іскрАк м. /sierčany iskrak/ - колчедан [БН]",
+    "word": "іскрАк: сЕрчаны іскрАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "sierčany iskrak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "колчедан",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20756,
+    "raw": "існавАньне н. /isnavańnie/ - существование [БН]",
+    "word": "існавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isnavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20757,
+    "raw": "існавАць /isnavać/ - существовать [БН]",
+    "word": "існавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isnavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существовать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20758,
+    "raw": "Існасьць ж. /isnaść/ - сущность [БН]",
+    "word": "Існасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isnaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сущность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20759,
+    "raw": "існУючы /isnujučy/ - существующий [БН]",
+    "word": "існУючы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isnujučy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существующий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20760,
+    "raw": "іспадОк м. /ispadok/ - 1) блюдечко; 2) нижняя часть малого сосуда [СН]",
+    "word": "іспадОк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ispadok",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "блюдечко",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "нижняя часть малого сосуда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20761,
+    "raw": "іспАш ж. /ispaš/ - порча скотом засеянного поля [СН]",
+    "word": "іспАш",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ispaš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "порча скотом засеянного поля",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20762,
+    "raw": "іспОд м. /ispod/ - нижняя часть какого либо сосуда [СН]",
+    "word": "іспОд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ispod",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "нижняя часть какого либо сосуда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20763,
+    "raw": "іспОд м. /ispod/ = (гл. \"спод\") [БН]",
+    "word": "іспОд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ispod",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [],
+    "link": "спод"
+  },
+  {
+    "line": 20764,
+    "raw": "іспОдак м. /ispodak/ = (гл. \"спОдак\") [БН]",
+    "word": "іспОдак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ispodak",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [],
+    "link": "спОдак"
+  },
+  {
+    "line": 20765,
+    "raw": "іспОдкі ж. /ispodki/ - варежки [СН]",
+    "word": "іспОдкі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ispodki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "варежки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20766,
+    "raw": "іспрАва ж. /isprava/ - 1) исправление; 2) выполнение [СН]",
+    "word": "іспрАва",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isprava",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "исправление",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "выполнение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20767,
+    "raw": "Іста ж. /ista/ - суть, сущность; основной капитал [БН]",
+    "word": "Іста",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ista",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "суть, сущность; основной капитал",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20768,
+    "raw": "Істасьць ж. /istaść/ - чистосердечие [СН]",
+    "word": "Істасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чистосердечие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20769,
+    "raw": "істОта ж. /istota/ - истинное положение чего [СН]",
+    "word": "істОта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istota",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "истинное положение чего",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20770,
+    "raw": "істОта ж. /istota/ - существо [БН]",
+    "word": "істОта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istota",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существо",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20771,
+    "raw": "істОтна /istotna/ - существенно [БН]",
+    "word": "істОтна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istotna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существенно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20772,
+    "raw": "істОтнасьць ж. /istotnaść/ - существенность [БН]",
+    "word": "істОтнасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istotnaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существенность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20773,
+    "raw": "істОтне /istotnie/ - истинно [СН]",
+    "word": "істОтне",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istotnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "истинно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20774,
+    "raw": "істОтны /istotny/ - истинный [СН]",
+    "word": "істОтны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istotny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "истинный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20775,
+    "raw": "істОтны /istotny/ - существенный [БН]",
+    "word": "істОтны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istotny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "существенный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20776,
+    "raw": "істрОп м. /istrop/ - стропило, крыша [СН]",
+    "word": "істрОп",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istrop",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стропило, крыша",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20777,
+    "raw": "істрУб, істрУбчык м. /istrub, istrubčyk/ - сруб [СН]",
+    "word": "істрУб, істрУбчык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istrub, istrubčyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сруб",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20778,
+    "raw": "істрЫць /istryć/ - острить, точить [СН]",
+    "word": "істрЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "острить, точить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20779,
+    "raw": "істУжка ж. /istužka/ - лента [БН]",
+    "word": "істУжка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "istužka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лента",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20780,
+    "raw": "ІсУс м.ул. /Isus/ - Иисус (гл. \"Езус\")",
+    "word": "ІсУс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Isus",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"Езус\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иисус",
+        "ru_notes": [
+          "гл. \"Езус\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20781,
+    "raw": "ісхОднік м. /ischodnik/ - лазутчик, шпион [СБ]",
+    "word": "ісхОднік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ischodnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лазутчик, шпион",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20782,
+    "raw": "ісцА ж. /isca/ - подкожный зуд на пятах или ладоне [СН]",
+    "word": "ісцА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "isca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подкожный зуд на пятах или ладоне",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20783,
+    "raw": "ісьцІ н. /iści/ - идти [СН]",
+    "word": "ісьцІ",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iści",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "идти",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20784,
+    "raw": "ісьцІ: ісьцІ ў грУдкі /iści ŭ hrudki/ - вступать в драку [БН]",
+    "word": "ісьцІ: ісьцІ ў грУдкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iści ŭ hrudki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вступать в драку",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20785,
+    "raw": "ісьцІ: ісьцІ ў рОжкі /iści ŭ rožki/ - вступать в драку [БН]",
+    "word": "ісьцІ: ісьцІ ў рОжкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iści ŭ rožki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вступать в драку",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20786,
+    "raw": "ісьцІзна ж. /iścizna/ - правое дело, правый иск, истинная принадлежность [СН]",
+    "word": "ісьцІзна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iścizna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "правое дело, правый иск, истинная принадлежность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20787,
+    "raw": "Ісьціна ж. /iścina/ - истина [БН]",
+    "word": "Ісьціна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iścina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "истина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20788,
+    "raw": "Ісьцінна ж. /iścinna/ - 1) истина; 2) истинное количество чего либо взятого или одолженнаго, истинник [СН]",
+    "word": "Ісьцінна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iścinna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "истина",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "истинное количество чего либо взятого или одолженнаго, истинник",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20789,
+    "raw": "Ісьціцца /iścicca/ - 1) исполняться; 2) выплачивать свой долг [СН]",
+    "word": "Ісьціцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iścicca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "исполняться",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "выплачивать свой долг",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20790,
+    "raw": "Ісьціць /iścić/ - 1) исполнять в точности; 2) отдавать взятое, или одолженное количество; 3) удовлетворять; 4) поступать по чистой совести [СН]",
+    "word": "Ісьціць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iścić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "исполнять в точности",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "отдавать взятое, или одолженное количество",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "удовлетворять",
+        "ru_notes": []
+      },
+      {
+        "number": "4",
+        "text": "поступать по чистой совести",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20791,
+    "raw": "ІтАлія ж.ул. /Italija/ - Италия (гл. \"Валохі\")",
+    "word": "ІтАлія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Italija",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"Валохі\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Италия",
+        "ru_notes": [
+          "гл. \"Валохі\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20792,
+    "raw": "Ітрыюм, ітр м. /jitryjum, jitr/ - иттрий (Y)",
+    "word": "Ітрыюм, ітр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jitryjum, jitr",
+    "is_link": false,
+    "ru_notes": [
+      "Y"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иттрий",
+        "ru_notes": [
+          "Y"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20793,
+    "raw": "ітэрацЫйны /iteracyjny/ - итеративный",
+    "word": "ітэрацЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iteracyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "итеративный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20794,
+    "raw": "ітЭрбіюм, ітЭрб м. /iterbijum, iterb/ - иттербий (Yb)",
+    "word": "ітЭрбіюм, ітЭрб",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iterbijum, iterb",
+    "is_link": false,
+    "ru_notes": [
+      "Yb"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иттербий",
+        "ru_notes": [
+          "Yb"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 20795,
+    "raw": "Іўе ж.ул. /Jiŭje/ - Ивье",
+    "word": "Іўе",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jiŭje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ивье",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20796,
+    "raw": "Іўеўскі /jiŭjeŭski/ - ивьвский",
+    "word": "Іўеўскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jiŭjeŭski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ивьвский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20797,
+    "raw": "Іўеўшчына ж.ул. /Jiŭjeŭščyna/ - Ивьевский район",
+    "word": "Іўеўшчына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jiŭjeŭščyna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ивьевский район",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20798,
+    "raw": "Іхні /ichni/ - их, им принадлежащий [СН]",
+    "word": "Іхні",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ichni",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "их, им принадлежащий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20799,
+    "raw": "Іхны /ichny/ - им свойственный [СН]",
+    "word": "Іхны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ichny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "им свойственный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20800,
+    "raw": "іцІ /ici/ - то же что {ИсцИ} [СН]",
+    "word": "іцІ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ici",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же что {ИсцИ}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20801,
+    "raw": "іцІць /icić/ - идти [СН]",
+    "word": "іцІць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "icić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "идти",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20802,
+    "raw": "ішОўшы /išoŭšy/ - идя, по пути [БН]",
+    "word": "ішОўшы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "išoŭšy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "идя, по пути",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 20803,
+    "raw": "ішОўшы, ішОччы /išoŭšy, išoččy/ - идя, шедши [СН]",
+    "word": "ішОўшы, ішОччы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "išoŭšy, išoččy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "идя, шедши",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56517,
+    "raw": "імшАра ж. /imšara/ = (гл. \"амшара\") (дл.)",
+    "word": "імшАра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšara",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "амшара"
+  },
+  {
+    "line": 56524,
+    "raw": "імшАрышча н. /imšaryšča/ = (гл. \"амшарынне\") (дл.)",
+    "word": "імшАрышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšaryšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "амшарынне"
+  },
+  {
+    "line": 56665,
+    "raw": "ілОк м. /iłok/ = (гл. \"бегунок\") (дл.)",
+    "word": "ілОк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iłok",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "бегунок"
+  },
+  {
+    "line": 56945,
+    "raw": "Ірай м. /iraj/ = (гл. \"вырай\") (дл.)",
+    "word": "Ірай",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iraj",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "вырай"
+  },
+  {
+    "line": 56946,
+    "raw": "Ірый м. /iryj/ = (гл. \"выпук\") (дл. \"ірій\")",
+    "word": "Ірый",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iryj",
+    "is_link": true,
+    "ru_notes": [
+      "дл. \"ірій\""
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "выпук"
+  },
+  {
+    "line": 57695,
+    "raw": "імшАр м. /imšar/ = (гл. \"імшара\") (дл.)",
+    "word": "імшАр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšar",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "імшара"
+  },
+  {
+    "line": 57696,
+    "raw": "імшАрына ж. /imšaryna/ = (гл. \"імшара\") (дл.)",
+    "word": "імшАрына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšaryna",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "імшара"
+  },
+  {
+    "line": 57697,
+    "raw": "імшАрнік м. /imšarnik/ = (гл. \"імшара\") (дл.)",
+    "word": "імшАрнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšarnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "імшара"
+  },
+  {
+    "line": 57698,
+    "raw": "імшарЫна ж. /imšaryna/ = (гл. \"імшара\") (дл.)",
+    "word": "імшарЫна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšaryna",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "імшара"
+  },
+  {
+    "line": 57699,
+    "raw": "імшАрышча н. /imšaryšča/ = (гл. \"амшарынне\") (дл.)",
+    "word": "імшАрышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "imšaryšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "амшарынне"
+  },
+  {
+    "line": 57700,
+    "raw": "іржАвец м. /iržaviec/ = (гл. \"іржавіна\") (дл.)",
+    "word": "іржАвец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržaviec",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржавіна"
+  },
+  {
+    "line": 57701,
+    "raw": "іржАўка ж. /iržaŭka/ = (гл. \"іржавіна\") (дл.)",
+    "word": "іржАўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržaŭka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржавіна"
+  },
+  {
+    "line": 57702,
+    "raw": "іржАўліньне н. /iržaŭłińnie/ = (гл. \"іржавіна\") (дл.)",
+    "word": "іржАўліньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržaŭłińnie",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржавіна"
+  },
+  {
+    "line": 57703,
+    "raw": "іржавІньне н. /iržavińnie/ = (гл. \"іржавінне\") (дл.)",
+    "word": "іржавІньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržavińnie",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржавінне"
+  },
+  {
+    "line": 57704,
+    "raw": "іржЭўе н. /iržeŭje/ = (гл. \"іржышча\") (дл.)",
+    "word": "іржЭўе",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržeŭje",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржышча"
+  },
+  {
+    "line": 57705,
+    "raw": "іржЭўнік м. /iržeŭnik/ = (гл. \"іржышча\") (дл.)",
+    "word": "іржЭўнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržeŭnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржышча"
+  },
+  {
+    "line": 57706,
+    "raw": "іржОньне н. /iržońnie/ = (гл. \"іржышча\") (дл.)",
+    "word": "іржОньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržońnie",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржышча"
+  },
+  {
+    "line": 57707,
+    "raw": "іржЭўе н. /iržeŭje/ = (гл. \"іржышча\") (дл.)",
+    "word": "іржЭўе",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržeŭje",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржышча"
+  },
+  {
+    "line": 57708,
+    "raw": "іржЭўнік м. /iržeŭnik/ = (гл. \"іржышча\") (дл.)",
+    "word": "іржЭўнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "iržeŭnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "іржышча"
+  }
+]

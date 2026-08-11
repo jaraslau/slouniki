@@ -1,0 +1,1253 @@
+[
+  {
+    "line": 15031,
+    "raw": "ё /jo/ - есть. (в Минск. и Гродн. губерн. Е) [СН]",
+    "word": "ё",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jo",
+    "is_link": false,
+    "ru_notes": [
+      "в Минск. и Гродн. губерн. Е"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "есть.",
+        "ru_notes": [
+          "в Минск. и Гродн. губерн. Е"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15032,
+    "raw": "Ёга /joha/ = (гл. \"яго\")(дл.)",
+    "word": "Ёга",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "joha",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яго"
+  },
+  {
+    "line": 15033,
+    "raw": "Ёдка /jodka/ - больно от холода [СН]",
+    "word": "Ёдка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jodka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "больно от холода",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15034,
+    "raw": "Ёдка /jodka/ - больно от холода; морозно [БН]",
+    "word": "Ёдка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jodka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "больно от холода; морозно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15035,
+    "raw": "Ёдкасьць ж. /jodkaść/ - чувство боли в пальцах от холода [СН]",
+    "word": "Ёдкасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jodkaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чувство боли в пальцах от холода",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15036,
+    "raw": "Ёдкі /jodki/ - холодом причиняющий боль [СН]",
+    "word": "Ёдкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jodki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "холодом причиняющий боль",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15037,
+    "raw": "Ёжык м. /jožyk/ - то же, что {Вожик} [СН]",
+    "word": "Ёжык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jožyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {Вожик}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15038,
+    "raw": "Ёзда а. /jozda/ - 1) живой, не сидящий на одном месте; ерзун, -нья; 2) вмешивающийся в чужия дела, не дающий покоя своим вмешательством; 3) непотребная женщина, кокетка [СН]",
+    "word": "Ёзда",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jozda",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "живой, не сидящий на одном месте; ерзун, -нья",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вмешивающийся в чужия дела, не дающий покоя своим вмешательством",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "непотребная женщина, кокетка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15039,
+    "raw": "ёк /jok/ - 1) неожиданное икание; 2) неожиданный удар; 3) испуг [СН]",
+    "word": "ёк",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jok",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "неожиданное икание",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "неожиданный удар",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "испуг",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15040,
+    "raw": "ёк /jok/ - ик [СН]",
+    "word": "ёк",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jok",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ик",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15041,
+    "raw": "Ёкаецца /jokajecca/ - сильно икается [СН]",
+    "word": "Ёкаецца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokajecca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сильно икается",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15042,
+    "raw": "Ёканьне н. /jokańnie/ - икание [СН]",
+    "word": "Ёканьне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "икание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15043,
+    "raw": "Ёкат м. /jokat/ - 1) пронзительный стон; 2) вопль [БН]",
+    "word": "Ёкат",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokat",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "пронзительный стон",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вопль",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15044,
+    "raw": "Ёкацца /jokacca/ - 1) упадать, производя звук при падении; 2) удариться [СН]",
+    "word": "Ёкацца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "упадать, производя звук при падении",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "удариться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15045,
+    "raw": "Ёкаць /jokać/ - 1) икать сильно; 2) биться, быть в сильном движении; 3) бить в спину так, чтобы слышался звук, как бы от иканья [СН]",
+    "word": "Ёкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "икать сильно",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "биться, быть в сильном движении",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "бить в спину так, чтобы слышался звук, как бы от иканья",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15046,
+    "raw": "Ёкаць /jokać/ - 1) икать; 2) стучать, биться; 3) бить чем либо тупым, кулаком [СН]",
+    "word": "Ёкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "икать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "стучать, биться",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "бить чем либо тупым, кулаком",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15047,
+    "raw": "Ёкаць, Ёкнуць /jokać, joknuć/ - 1) икать, икнуть; 2) биться (о сердце) [БН]",
+    "word": "Ёкаць, Ёкнуць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jokać, joknuć",
+    "is_link": false,
+    "ru_notes": [
+      "о сердце"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "икать, икнуть",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "биться",
+        "ru_notes": [
+          "о сердце"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15048,
+    "raw": "Ёкнуцца /joknucca/ - удариться, особенно головою [СН]",
+    "word": "Ёкнуцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "joknucca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "удариться, особенно головою",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15049,
+    "raw": "ёлапень м. /jołapień/ - 1) еловый пень; 2) остолоп [БН]",
+    "word": "ёлапень",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołapień",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "еловый пень",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "остолоп",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15050,
+    "raw": "Ёлка /jołka/ - горько [БН]",
+    "word": "Ёлка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горько",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15051,
+    "raw": "Ёлкасьць ж. /jołkaść/ - горечь [БН]",
+    "word": "Ёлкасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołkaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горечь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15052,
+    "raw": "Ёлкасьць ж. /jołkaść/ - горечь, как бы от еловой смолы [СН]",
+    "word": "Ёлкасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołkaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горечь, как бы от еловой смолы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15053,
+    "raw": "Ёлкі /jołki/ - горький [БН]",
+    "word": "Ёлкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горький",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15054,
+    "raw": "Ёлкі /jołki/ - от порчи получивший горький вкус, как бы похожий на вкус еловой смолы [СН]",
+    "word": "Ёлкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "от порчи получивший горький вкус, как бы похожий на вкус еловой смолы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15055,
+    "raw": "Ёлкнуць /jołknuć/ - портиться во вкусе, горькнуть [СН]",
+    "word": "Ёлкнуць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołknuć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "портиться во вкусе, горькнуть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15056,
+    "raw": "Ёлуп м. /jołup/ - 1) человек молодой с выпученными глазами; 2) дурак, человек, имеющий глупый взгляд [СН]",
+    "word": "Ёлуп",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołup",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "человек молодой с выпученными глазами",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "дурак, человек, имеющий глупый взгляд",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15057,
+    "raw": "Ёлуп м. /jołup/ - остолоп, олух [БН]",
+    "word": "Ёлуп",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołup",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "остолоп, олух",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15058,
+    "raw": "Ёлупак, Ёлупачак, Ёлупчык м. /jołupak, jołupačak, jołupčyk/ - ребёнок с выпученными, быстрыми или глуповатыми глазами. (Слово ругат.) [СН]",
+    "word": "Ёлупак, Ёлупачак, Ёлупчык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołupak, jołupačak, jołupčyk",
+    "is_link": false,
+    "ru_notes": [
+      "Слово ругат."
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ребёнок с выпученными, быстрыми или глуповатыми глазами.",
+        "ru_notes": [
+          "Слово ругат."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15059,
+    "raw": "Ёлупіць /jołupić/ - вылУпливать глаза, пальцами отворачивая нижния веки, по шалости [СН]",
+    "word": "Ёлупіць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołupić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вылУпливать глаза, пальцами отворачивая нижния веки, по шалости",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15060,
+    "raw": "Ёлуплівы /jołuplivy/ - 1) выпученный, говорится о глазах; 2) глуповатый, хлопающий глазами [СН]",
+    "word": "Ёлуплівы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jołuplivy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "выпученный, говорится о глазах",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "глуповатый, хлопающий глазами",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15061,
+    "raw": "Ёмасьць ж. /jomaść/ - вместимость [БН]",
+    "word": "Ёмасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вместимость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15062,
+    "raw": "Ёмістасьць ж. /jomistaść/ - вместительность [БН]",
+    "word": "Ёмістасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomistaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вместительность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15063,
+    "raw": "Ёмісты /jomisty/ - 1) уемистый; 2) вместительный [СН]",
+    "word": "Ёмісты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomisty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "уемистый",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вместительный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15064,
+    "raw": "Ёмісты /jomisty/ - вместительный [БН]",
+    "word": "Ёмісты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomisty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вместительный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15065,
+    "raw": "Ёмка /jomka/ - 1) ловко, метко; 2) удобно, комфортно [БН]",
+    "word": "Ёмка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ловко, метко",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "удобно, комфортно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15066,
+    "raw": "Ёмка /jomka/ - ловко, метко, сильно [СН]",
+    "word": "Ёмка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ловко, метко, сильно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15067,
+    "raw": "Ёмкасьць ж. /jomkaść/ - ловкость [СН]",
+    "word": "Ёмкасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomkaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ловкость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15068,
+    "raw": "Ёмкасьць ж. /jomkaść/ - ловкость, меткость [БН]",
+    "word": "Ёмкасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomkaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ловкость, меткость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15069,
+    "raw": "Ёмкі /jomki/ - ловкий, меткий [БН]",
+    "word": "Ёмкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ловкий, меткий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15070,
+    "raw": "Ёмкі /jomki/ - ловкий, меткий, донимающий [СН]",
+    "word": "Ёмкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jomki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ловкий, меткий, донимающий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15071,
+    "raw": "ён /jon/ - он. (После предлогов не принимает приставки н: за им, об ем, к ему, з ёю, на их) [СН]",
+    "word": "ён",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jon",
+    "is_link": false,
+    "ru_notes": [
+      "После предлогов не принимает приставки н: за им, об ем, к ему, з ёю, на их"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "он.",
+        "ru_notes": [
+          "После предлогов не принимает приставки н: за им, об ем, к ему, з ёю, на их"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15072,
+    "raw": "Ёніюм м. /jonijum/ - ионий",
+    "word": "Ёніюм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jonijum",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ионий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15073,
+    "raw": "Ёрза а. /jorza/ - 1) беспокойное дитя, беспрестанно ползающее взад и вперед па коленях матери, не сидящее спокойно на месте; 2) шалун [СН]",
+    "word": "Ёрза",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jorza",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "беспокойное дитя, беспрестанно ползающее взад и вперед па коленях матери, не сидящее спокойно на месте",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "шалун",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15074,
+    "raw": "Ёрзаньне н. /jorzańnie/ - ползание взад и вперед [СН]",
+    "word": "Ёрзаньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jorzańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ползание взад и вперед",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15075,
+    "raw": "Ёрзаць /jorzać/ - 1) ползать, лазить взад и вперед; 2) возиться, шалить [СН]",
+    "word": "Ёрзаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jorzać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ползать, лазить взад и вперед",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "возиться, шалить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15076,
+    "raw": "Ёрк: НОвы Ёрк м.ул. /Novy Jork/ - Нью Йорк",
+    "word": "Ёрк: НОвы Ёрк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Novy Jork",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Нью Йорк",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15077,
+    "raw": "ёсьць, Ёсьцека /jość, jościeka/ - есть (глагол вспомогательный) [БН]",
+    "word": "ёсьць, Ёсьцека",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jość, jościeka",
+    "is_link": false,
+    "ru_notes": [
+      "глагол вспомогательный"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "есть",
+        "ru_notes": [
+          "глагол вспомогательный"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15078,
+    "raw": "ёсьць, Ёсьцяка, ё, ёсь, Ёсьцека /jość, jości, jościaka, jo, joś, jościeka/ - есть (гл. \"есьць\")",
+    "word": "ёсьць, Ёсьцяка, ё, ёсь, Ёсьцека",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jość, jości, jościaka, jo, joś, jościeka",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"есьць\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "есть",
+        "ru_notes": [
+          "гл. \"есьць\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15079,
+    "raw": "Ёўна, Еўня, Ёўня ж. /joŭna, jeŭnia, joŭnia/ - овин [СН]",
+    "word": "Ёўна, Еўня, Ёўня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "joŭna, jeŭnia, joŭnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "овин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15080,
+    "raw": "Ёўня ж. /joŭnia/ - овин [БН]",
+    "word": "Ёўня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "joŭnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "овин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15081,
+    "raw": "Ёхер /jochier/ - хитрец, надувало. (Происходит от {Хериць} – говорить по херам) [СН]",
+    "word": "Ёхер",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jochier",
+    "is_link": false,
+    "ru_notes": [
+      "Происходит от {Хериць} – говорить по херам"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрец, надувало.",
+        "ru_notes": [
+          "Происходит от {Хериць} – говорить по херам"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15082,
+    "raw": "Ёхеры м. /jochiery/ - хитрость, лукавство, надувательство [СН]",
+    "word": "Ёхеры",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jochiery",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрость, лукавство, надувательство",
+        "ru_notes": []
+      }
+    ]
+  }
+]

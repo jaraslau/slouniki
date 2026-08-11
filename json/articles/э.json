@@ -1,0 +1,1569 @@
+[
+  {
+    "line": 55968,
+    "raw": "э /e/ - а, ба [СН]",
+    "word": "э",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "e",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "а, ба",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55969,
+    "raw": "Эва /eva/ - эк, вот как [СН]",
+    "word": "Эва",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эк, вот как",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55970,
+    "raw": "Эва, Эўця, Эўка, Эўга ж.ул. /Eva, Eŭcia, Eŭka, Eŭha/ - Ева",
+    "word": "Эва, Эўця, Эўка, Эўга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Eva, Eŭcia, Eŭka, Eŭha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ева",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55971,
+    "raw": "ЭвэлІна, ЭвэлІнка ж.ул. /Evelina, Evelinka/ - Эвелина",
+    "word": "ЭвэлІна, ЭвэлІнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Evelina, Evelinka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Эвелина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55972,
+    "raw": "эгЕ, эгЭ /ehie, ehe/ - 1) ага; 2) о! [СН:1][БН:2] (удивление)",
+    "word": "эгЕ, эгЭ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ehie, ehe",
+    "is_link": false,
+    "ru_notes": [
+      "удивление"
+    ],
+    "sources": [
+      "СН:1",
+      "БН:2"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ага",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "о!",
+        "ru_notes": [
+          "удивление"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55973,
+    "raw": "эгІпскі /egipski/ - египетский [СБ] (ах.)",
+    "word": "эгІпскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "egipski",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "египетский",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55974,
+    "raw": "Эдвард, Эдзісь, Эдзька, Эдзюк, Эдзя м.ул. /Edvard, Edziś, Edźka, Edziuk, Edzia/ - Эдуард",
+    "word": "Эдвард, Эдзісь, Эдзька, Эдзюк, Эдзя",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Edvard, Edziś, Edźka, Edziuk, Edzia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Эдуард",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55975,
+    "raw": "эдукавАньне н. /edukavańnie/ - образование [СН]",
+    "word": "эдукавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "edukavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "образование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55976,
+    "raw": "эдукавАцца /edukavacca/ - воспитываться, образовываться, учиться [СН]",
+    "word": "эдукавАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "edukavacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "воспитываться, образовываться, учиться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55977,
+    "raw": "эдукавАць /edukavać/ - воспитывать, обучать [СН]",
+    "word": "эдукавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "edukavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "воспитывать, обучать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55978,
+    "raw": "эдукАцыя ж. /edukacyja/ - воспитание, учение [СН]",
+    "word": "эдукАцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "edukacyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "воспитание, учение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55979,
+    "raw": "эдукОваны /edukovany/ - образованный [СН]",
+    "word": "эдукОваны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "edukovany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "образованный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55980,
+    "raw": "эй /ej/ - слушай [БН]",
+    "word": "эй",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ej",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "слушай",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55981,
+    "raw": "эканОм м. /ekanom/ - 1) управляющий имением; 2) эконом в монастыре; 3) хозяин расчетливый, бережливый [СН]",
+    "word": "эканОм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekanom",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "управляющий имением",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "эконом в монастыре",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "хозяин расчетливый, бережливый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55982,
+    "raw": "эканОмка ж. /ekanomka/ - экономическое распоряжение [СН]",
+    "word": "эканОмка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekanomka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "экономическое распоряжение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55983,
+    "raw": "эканОмна /ekanomna/ - бережливо, расчетливо, не делая излишних расходов [СН]",
+    "word": "эканОмна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekanomna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бережливо, расчетливо, не делая излишних расходов",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55984,
+    "raw": "эканОмны /ekanomny/ - бережливый, расчетливый, хозяйственный [СН]",
+    "word": "эканОмны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekanomny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бережливый, расчетливый, хозяйственный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55985,
+    "raw": "эканОмства н. /ekanomstva/ - должность эконома [СН]",
+    "word": "эканОмства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekanomstva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "должность эконома",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55986,
+    "raw": "эканОмша ж. /ekanomša/ - жена эконома [СН]",
+    "word": "эканОмша",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekanomša",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жена эконома",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55987,
+    "raw": "экзартАцыя ж. /ekzartacyja/ - побуждение [СБ] (ах.)(рн.пол. \"ekshortacja\", лац. \"exhortatio\")",
+    "word": "экзартАцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekzartacyja",
+    "is_link": false,
+    "ru_notes": [
+      "ах.",
+      "рн.пол. \"ekshortacja\", лац. \"exhortatio\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "побуждение",
+        "ru_notes": [
+          "ах.",
+          "рн.пол. \"ekshortacja\", лац. \"exhortatio\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55988,
+    "raw": "экзэкУтар м. /ekzekutar/ - душеприказчик, судовый исполнитель [СБ]",
+    "word": "экзэкУтар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekzekutar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "душеприказчик, судовый исполнитель",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55989,
+    "raw": "экіпавАлны /ekipavałny/ = (гл. \"экіпавальны\") [ДЛ]",
+    "word": "экіпавАлны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekipavałny",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "экіпавальны"
+  },
+  {
+    "line": 55990,
+    "raw": "экіпавАльны /ekipavalny/ - экипировочный",
+    "word": "экіпавАльны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekipavalny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "экипировочный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55991,
+    "raw": "экіпавАны /ekipavany/ - экипированный",
+    "word": "экіпавАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekipavany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "экипированный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55992,
+    "raw": "экіпавАньне н. /ekipavańnie/ - экипирование, экипировка (процесс)",
+    "word": "экіпавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekipavańnie",
+    "is_link": false,
+    "ru_notes": [
+      "процесс"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "экипирование, экипировка",
+        "ru_notes": [
+          "процесс"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55993,
+    "raw": "экіпавАць /ekipavać/ - экипировать",
+    "word": "экіпавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekipavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "экипировать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55994,
+    "raw": "экспУлсія ж. /ekspułsija/ = (гл. \"экспульсія\")",
+    "word": "экспУлсія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspułsija",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "экспульсія"
+  },
+  {
+    "line": 55995,
+    "raw": "экспУльсія ж. /ekspulsija/ - изгнание, исключение, отстранение [СБ] (ах.)",
+    "word": "экспУльсія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspulsija",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "изгнание, исключение, отстранение",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55996,
+    "raw": "экспургавАць /ekspurgavać/ - ? [СБ] (ах. \"експуркговати\")",
+    "word": "экспургавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspurgavać",
+    "is_link": false,
+    "ru_notes": [
+      "ах. \"експуркговати\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "?",
+        "ru_notes": [
+          "ах. \"експуркговати\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55997,
+    "raw": "экспэктатЫва ж. /ekspektatyva/ - королевский привилей [СБ] (ах.)",
+    "word": "экспэктатЫва",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspektatyva",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "королевский привилей",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55998,
+    "raw": "Экспэнс м. /ekspens/ - издержки [СН]",
+    "word": "Экспэнс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspens",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "издержки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55999,
+    "raw": "экспэнсавАньне н. /ekspensavańnie/ - расходование [СН]",
+    "word": "экспэнсавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspensavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "расходование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56000,
+    "raw": "экспэнсавАцца /ekspensavacca/ - тратиться, издерживаться [СН]",
+    "word": "экспэнсавАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspensavacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "тратиться, издерживаться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56001,
+    "raw": "экспэнсавАць /ekspensavać/ - издерживать [СН]",
+    "word": "экспэнсавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspensavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "издерживать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56002,
+    "raw": "экспэнсОваны /ekspensovany/ - издержанный [СН]",
+    "word": "экспэнсОваны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspensovany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "издержанный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56003,
+    "raw": "экспэнсОўна /ekspensoŭna/ - с излишними издержками, роскошно [СН]",
+    "word": "экспэнсОўна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspensoŭna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "с излишними издержками, роскошно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56004,
+    "raw": "экспэнсОўны /ekspensoŭny/ - 1) требующий издержек; 2) любящий делать издержки [СН]",
+    "word": "экспэнсОўны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekspensoŭny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "требующий издержек",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "любящий делать издержки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56005,
+    "raw": "экстОрсія ж. /ekstorsija/ - вымогательство [СБ] (ах. \"ексторсыя\")",
+    "word": "экстОрсія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekstorsija",
+    "is_link": false,
+    "ru_notes": [
+      "ах. \"ексторсыя\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вымогательство",
+        "ru_notes": [
+          "ах. \"ексторсыя\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56006,
+    "raw": "экстэндавАць /ekstendavać/ - расширять [СБ] (ах.)",
+    "word": "экстэндавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekstendavać",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "расширять",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56007,
+    "raw": "эксьпіравАць /ekśpiravać/ - истекать, терять правовую силу (о документе) [СБ] (ах.)",
+    "word": "эксьпіравАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ekśpiravać",
+    "is_link": false,
+    "ru_notes": [
+      "о документе",
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "истекать, терять правовую силу",
+        "ru_notes": [
+          "о документе",
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56008,
+    "raw": "электравІк м. /elektravik/ - электропоезд, электричка [ЗС]",
+    "word": "электравІк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elektravik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ЗС"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "электропоезд, электричка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56009,
+    "raw": "электрацяплОўня ж. /elektraciapłoŭnia/ - теплоэлектроцентраль, теплоэлектроцентраль [АН] (рн.пол. \"elektrociepłownia\")",
+    "word": "электрацяплОўня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elektraciapłoŭnia",
+    "is_link": false,
+    "ru_notes": [
+      "рн.пол. \"elektrociepłownia\""
+    ],
+    "sources": [
+      "АН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "теплоэлектроцентраль, теплоэлектроцентраль",
+        "ru_notes": [
+          "рн.пол. \"elektrociepłownia\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56010,
+    "raw": "электрОўня ж. /elektroŭnia/ - электростанция",
+    "word": "электрОўня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elektroŭnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "электростанция",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56011,
+    "raw": "электрЫчнасьць ж. /elektryčnaść/ - электричество [БН]",
+    "word": "электрЫчнасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elektryčnaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "электричество",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56012,
+    "raw": "электрЫчны /elektryčny/ - электрический [БН]",
+    "word": "электрЫчны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elektryčny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "электрический",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56013,
+    "raw": "элекцЫйны /elekcyjny/ - элективный, избирательный, относящийся к выборам",
+    "word": "элекцЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elekcyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "элективный, избирательный, относящийся к выборам",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56014,
+    "raw": "элЕкцыя ж. /elekcyja/ - выборы [СБ]",
+    "word": "элЕкцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elekcyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "выборы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56015,
+    "raw": "элепАнт м. /elepant/ - слон [СБ] (ах.)(рн.пол. \"elefant\")",
+    "word": "элепАнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elepant",
+    "is_link": false,
+    "ru_notes": [
+      "ах.",
+      "рн.пол. \"elefant\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "слон",
+        "ru_notes": [
+          "ах.",
+          "рн.пол. \"elefant\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56016,
+    "raw": "элефАнцыя ж. /elefancyja/ - элефантиаз, слоновая болезнь, слоновость [СБ] (ах.)",
+    "word": "элефАнцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "elefancyja",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "элефантиаз, слоновая болезнь, слоновость",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56017,
+    "raw": "ЭлізабЭта ж.ул. /Elizabeta/ - Елизавета, Лизавета",
+    "word": "ЭлізабЭта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Elizabeta",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Елизавета, Лизавета",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56018,
+    "raw": "элЮвіюм м. /eluvijum/ - элювий",
+    "word": "элЮвіюм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eluvijum",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "элювий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56019,
+    "raw": "эмблемАт м. /emblemat/ = (гл. \"эмблема\") [СБ] (ах.)(рн.пол. \"emblemat\")",
+    "word": "эмблемАт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "emblemat",
+    "is_link": true,
+    "ru_notes": [
+      "ах.",
+      "рн.пол. \"emblemat\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "эмблема"
+  },
+  {
+    "line": 56020,
+    "raw": "эндакАрп м. /endakarp/ - эндокарпий",
+    "word": "эндакАрп",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "endakarp",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эндокарпий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56021,
+    "raw": "эндатЭль м. /endatel/ - эндотелий",
+    "word": "эндатЭль",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "endatel",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эндотелий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56022,
+    "raw": "эпАрхія ж. /eparchija/ - епархия",
+    "word": "эпАрхія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eparchija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "епархия",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56023,
+    "raw": "эпІскап м. /episkap/ - епископ (православной церкви)",
+    "word": "эпІскап",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "episkap",
+    "is_link": false,
+    "ru_notes": [
+      "православной церкви"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "епископ",
+        "ru_notes": [
+          "православной церкви"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56024,
+    "raw": "эпіскапАлны /episkapałny/ = (гл. \"эпіскапальны\") [ДЛ]",
+    "word": "эпіскапАлны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "episkapałny",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "эпіскапальны"
+  },
+  {
+    "line": 56025,
+    "raw": "эпіскапАльны /episkapalny/ - епископальный",
+    "word": "эпіскапАльны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "episkapalny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "епископальный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56026,
+    "raw": "эпіскапАт м. /episkapat/ - епископат (православный)",
+    "word": "эпіскапАт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "episkapat",
+    "is_link": false,
+    "ru_notes": [
+      "православный"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "епископат",
+        "ru_notes": [
+          "православный"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56027,
+    "raw": "эпІскапскі /episkapski/ - епископский",
+    "word": "эпІскапскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "episkapski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "епископский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56028,
+    "raw": "эпІскапства н. /episkapstva/ - епископство (православное)",
+    "word": "эпІскапства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "episkapstva",
+    "is_link": false,
+    "ru_notes": [
+      "православное"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "епископство",
+        "ru_notes": [
+          "православное"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56029,
+    "raw": "Эрбіюм, эрб м. /erbijum, erb/ - эрбий (Er)",
+    "word": "Эрбіюм, эрб",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "erbijum, erb",
+    "is_link": false,
+    "ru_notes": [
+      "Er"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эрбий",
+        "ru_notes": [
+          "Er"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56030,
+    "raw": "этар м. /etar/ - эфир [БН]",
+    "word": "этар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "etar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эфир",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56031,
+    "raw": "этАрны /etarny/ - эфирный [БН]",
+    "word": "этАрны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "etarny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эфирный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56032,
+    "raw": "эўравІзія ж. /eŭravizija/ - евровидение",
+    "word": "эўравІзія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eŭravizija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "евровидение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56033,
+    "raw": "эўрапарлямэнтАр м. /eŭraparlamentar/ - европарламентарий",
+    "word": "эўрапарлямэнтАр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eŭraparlamentar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "европарламентарий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56034,
+    "raw": "эўрапЕйскі /eŭrapiejski/ - европейский",
+    "word": "эўрапЕйскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eŭrapiejski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "европейский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56035,
+    "raw": "эўрОпіюм, эўрОп м. /eŭropijum, eŭrop/ - европий (Eu)",
+    "word": "эўрОпіюм, эўрОп",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eŭropijum, eŭrop",
+    "is_link": false,
+    "ru_notes": [
+      "Eu"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "европий",
+        "ru_notes": [
+          "Eu"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56036,
+    "raw": "эўрОпскі /eŭropski/ = (гл. \"эўрапейскі\") [СБ] (ах.)",
+    "word": "эўрОпскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eŭropski",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "эўрапейскі"
+  },
+  {
+    "line": 56037,
+    "raw": "Эўрэка! /eŭreka/ - эврика!",
+    "word": "Эўрэка!",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "eŭreka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эврика!",
+        "ru_notes": []
+      }
+    ]
+  }
+]

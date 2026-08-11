@@ -1,0 +1,1822 @@
+[
+  {
+    "line": 14956,
+    "raw": "евангелІста м. /jevanhielista/ - евангелист [СН]",
+    "word": "евангелІста",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jevanhielista",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "евангелист",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14957,
+    "raw": "евангЕлія ж. /jevanhielija/ - евангелие [СН]",
+    "word": "евангЕлія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jevanhielija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "евангелие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14958,
+    "raw": "едзь ж. /jedź/ - пища, ядь [СН]",
+    "word": "едзь",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jedź",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "пища, ядь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14959,
+    "raw": "Едка /jedka/ - 1) язвительно; 2) больно, невыносимо чувствительно [СН]",
+    "word": "Едка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jedka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "язвительно",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "больно, невыносимо чувствительно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14960,
+    "raw": "Едкі /jedki/ - употребляемый в пищу, съедобный [СН]",
+    "word": "Едкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jedki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "употребляемый в пищу, съедобный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14961,
+    "raw": "еднастАйна /jednastajna/ - однообразно [СН]",
+    "word": "еднастАйна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jednastajna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "однообразно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14962,
+    "raw": "еднастАйнасьць ж. /jednastajnaść/ - однообразие [СН]",
+    "word": "еднастАйнасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jednastajnaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "однообразие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14963,
+    "raw": "Еднасьць ж. /jednaść/ - единение [БН]",
+    "word": "Еднасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jednaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "единение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14964,
+    "raw": "Еднасьць ж. /jednaść/ - согласие, единодушие [СН]",
+    "word": "Еднасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jednaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "согласие, единодушие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14965,
+    "raw": "Едненькі /jednieńki/ - один-одинехонький [СН]",
+    "word": "Едненькі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jednieńki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "один-одинехонький",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14966,
+    "raw": "едынАчка ж. /jedynačka/ - то же, что {ЕднАчка} [СН]",
+    "word": "едынАчка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jedynačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ЕднАчка}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14967,
+    "raw": "Ежа ж. /ježa/ - еда [БН]",
+    "word": "Ежа",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ježa",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "еда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14968,
+    "raw": "Ежа ж. /ježa/ - пища [СН]",
+    "word": "Ежа",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ježa",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "пища",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14969,
+    "raw": "Ежджаньне н. /ježdžańnie/ - частая езда [СН]",
+    "word": "Ежджаньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ježdžańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "частая езда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14970,
+    "raw": "езда ж. /jezda/ - 1) неусидчивая женщина, вертушка, в доме не сидящая; 2) сводница [СН]",
+    "word": "езда",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jezda",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "неусидчивая женщина, вертушка, в доме не сидящая",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "сводница",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14971,
+    "raw": "Езус м.ул. /Jezus/ - Иисус",
+    "word": "Езус",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jezus",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иисус",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14972,
+    "raw": "Езус: Езус НазарАнскі, Езус НазарЭйскі м.ул. /Jezus Nazaranski, Jezus Nazarejski/ - Иисус Христос",
+    "word": "Езус: Езус НазарАнскі, Езус НазарЭйскі",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jezus Nazaranski, Jezus Nazarejski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иисус Христос",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14973,
+    "raw": "Езьдзіць /jeździć/ - ездить [БН]",
+    "word": "Езьдзіць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeździć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ездить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14974,
+    "raw": "Ейны /jejny/ - её, ей принадлежащий [ЯС] (гл. \"яейны\")",
+    "word": "Ейны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jejny",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"яейны\""
+    ],
+    "sources": [
+      "ЯС"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "её, ей принадлежащий",
+        "ru_notes": [
+          "гл. \"яейны\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 14975,
+    "raw": "Екатаньне н. /jekatańnie/ - стенание [БН]",
+    "word": "Екатаньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jekatańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стенание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14976,
+    "raw": "екатАньне н. /jekatańnie/ - стонание в голос, выражающее боль [СН]",
+    "word": "екатАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jekatańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стонание в голос, выражающее боль",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14977,
+    "raw": "екатАць /jekatać/ - стонать с плачем от боли [СН]",
+    "word": "екатАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jekatać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стонать с плачем от боли",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14978,
+    "raw": "екатАць /jekatać/ - стонать, визжать [БН]",
+    "word": "екатАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jekatać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стонать, визжать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14979,
+    "raw": "екатУн м. /jekatun/ - неумолкный плакса от боли [СН]",
+    "word": "екатУн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jekatun",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "неумолкный плакса от боли",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14980,
+    "raw": "Елачка ж. /jełačka/ - елочка [БН]",
+    "word": "Елачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jełačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "елочка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14981,
+    "raw": "Еле /jele/ - 1) едва, чуть; 2) насилу [СН]",
+    "word": "Еле",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jele",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "едва, чуть",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "насилу",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14982,
+    "raw": "Елка ж. /jełka/ - ель, елка [БН]",
+    "word": "Елка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jełka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ель, елка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14983,
+    "raw": "Елніца ж. /jełnica/ = (гл. \"ельніца\") [ДЛ]",
+    "word": "Елніца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jełnica",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "ельніца"
+  },
+  {
+    "line": 14984,
+    "raw": "Елніцавыя /jełnicavyja/ = (гл. \"ельніцавыя\") [ДЛ]",
+    "word": "Елніцавыя",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jełnicavyja",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "ельніцавыя"
+  },
+  {
+    "line": 14985,
+    "raw": "Ельніца ж. /jelnica/ - пихта (Abies Tourn.) [БН]",
+    "word": "Ельніца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jelnica",
+    "is_link": false,
+    "ru_notes": [
+      "Abies Tourn."
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "пихта",
+        "ru_notes": [
+          "Abies Tourn."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 14986,
+    "raw": "Ельніцавыя /jelnicavyja/ - елевые (Abietaceae) [БН]",
+    "word": "Ельніцавыя",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jelnicavyja",
+    "is_link": false,
+    "ru_notes": [
+      "Abietaceae"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "елевые",
+        "ru_notes": [
+          "Abietaceae"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 14987,
+    "raw": "Еме н. /jemie/ - употребление в пищу, ядение [СН]",
+    "word": "Еме",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jemie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "употребление в пищу, ядение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14988,
+    "raw": "Еміна ж. /jemina/ - продовольствие, харчи [БН]",
+    "word": "Еміна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jemina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "продовольствие, харчи",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14989,
+    "raw": "Ендза ж. /jendza/ - ведьма [СБ] (ах.)(рн.ах.пол. \"jędza\")",
+    "word": "Ендза",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jendza",
+    "is_link": false,
+    "ru_notes": [
+      "ах.",
+      "рн.ах.пол. \"jędza\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ведьма",
+        "ru_notes": [
+          "ах.",
+          "рн.ах.пол. \"jędza\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 14990,
+    "raw": "енерАлства, енерАльства н. /jenierałstva, jenieralstva/ - генеральский чин [СН]",
+    "word": "енерАлства, енерАльства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenierałstva, jenieralstva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "генеральский чин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14991,
+    "raw": "енерАлша ж. /jenierałša/ - генеральша [СН]",
+    "word": "енерАлша",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenierałša",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "генеральша",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14992,
+    "raw": "Енза а. /jenza/ - 1) любящий, -ая каждого уколоть, дерзкий, -кая; 2) задирщик, -щица [СН]",
+    "word": "Енза",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenza",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "любящий, -ая каждого уколоть, дерзкий, -кая",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "задирщик, -щица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14993,
+    "raw": "Ензаць /jenzać/ - 1) ездить по коленам, лазить, не сидеть спокойно; 2) вздорить, задевать каждаго, говорить каждому дерзости; 3) клеветать [СН]",
+    "word": "Ензаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenzać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ездить по коленам, лазить, не сидеть спокойно",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вздорить, задевать каждаго, говорить каждому дерзости",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "клеветать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14994,
+    "raw": "енк м. /jenk/ - 1) жалобный стон; 2) дребезжащий звук струны оть сильного удара пальцем или чем либо [СН]",
+    "word": "енк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "жалобный стон",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "дребезжащий звук струны оть сильного удара пальцем или чем либо",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14995,
+    "raw": "енк м. /jenk/ - жалобный стон [БН]",
+    "word": "енк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жалобный стон",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14996,
+    "raw": "Енканьне н. /jenkańnie/ - стенание от боли или от неудовлетворения просьбы [СН]",
+    "word": "Енканьне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenkańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стенание от боли или от неудовлетворения просьбы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14997,
+    "raw": "Енканьне н. /jenkańnie/ - стонание [БН]",
+    "word": "Енканьне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenkańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стонание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14998,
+    "raw": "Енкаць /jenkać/ - 1) стонать от боли; 2) плакать, свойственно дитяти [СН]",
+    "word": "Енкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenkać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "стонать от боли",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "плакать, свойственно дитяти",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 14999,
+    "raw": "Енкаць /jenkać/ - стонать [БН]",
+    "word": "Енкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenkać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стонать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15000,
+    "raw": "Енства н. /jenstva/ - неволя [СБ] (ах. \"енство\")(рн.ах.пол. \"jeństwo\", \"jęctwo\")",
+    "word": "Енства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenstva",
+    "is_link": false,
+    "ru_notes": [
+      "ах. \"енство\"",
+      "рн.ах.пол. \"jeństwo\", \"jęctwo\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "неволя",
+        "ru_notes": [
+          "ах. \"енство\"",
+          "рн.ах.пол. \"jeństwo\", \"jęctwo\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 15001,
+    "raw": "Енчаньне н. /jenčańnie/ - измучивание [СН]",
+    "word": "Енчаньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenčańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "измучивание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15002,
+    "raw": "Енчаньне н. /jenčańnie/ - мучение, истязание [БН]",
+    "word": "Енчаньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenčańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мучение, истязание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15003,
+    "raw": "Енчыцца /jenčycca/ - 1) мучиться, издавая жалобный крик или писк, или зык; 2) стонат при последнем издыхании [СН]",
+    "word": "Енчыцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenčycca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "мучиться, издавая жалобный крик или писк, или зык",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "стонат при последнем издыхании",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15004,
+    "raw": "Енчыцца /jenčycca/ - мучиться [БН]",
+    "word": "Енчыцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenčycca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мучиться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15005,
+    "raw": "Енчыць /jenčyć/ - мучить, заставляя стонать или зычать [СН]",
+    "word": "Енчыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenčyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мучить, заставляя стонать или зычать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15006,
+    "raw": "Енчыць /jenčyć/ - мучить, истязать [БН]",
+    "word": "Енчыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jenčyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мучить, истязать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15007,
+    "raw": "Ены /jeny/ - этот [СН]",
+    "word": "Ены",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "этот",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15008,
+    "raw": "ЕрусалІм, ЕрузалІм м.ул. /Jerusalim, Jeruzalim/ - Иерусалим [ВЛ:2]",
+    "word": "ЕрусалІм, ЕрузалІм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jerusalim, Jeruzalim",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ВЛ:2"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иерусалим",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15009,
+    "raw": "ерусалІмскі /jerusalimski/ - иерусалимский",
+    "word": "ерусалІмскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jerusalimski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иерусалимский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15010,
+    "raw": "ерш м. /jerš/ - ерш [БН]",
+    "word": "ерш",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jerš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ерш",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15011,
+    "raw": "Есны /jesny/ - съестной, съедобный [БН]",
+    "word": "Есны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jesny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "съестной, съедобный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15012,
+    "raw": "Есны /jesny/ - съестный, к пище относящийся [СН]",
+    "word": "Есны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jesny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "съестный, к пище относящийся",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15013,
+    "raw": "Естанькі, Есьцінькі, Есьцічкі, Есьцькі /jestańki, jeścińki, jeścički, jeśćki/ - употребляемое, вместо {есьць}, для выражения нежности к дитяти [СН]",
+    "word": "Естанькі, Есьцінькі, Есьцічкі, Есьцькі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jestańki, jeścińki, jeścički, jeśćki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "употребляемое, вместо {есьць}, для выражения нежности к дитяти",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15014,
+    "raw": "Есца /jesca/ - 1) употребляется много в пищу, естся; 2) кусается, грызет [СН]",
+    "word": "Есца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jesca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "употребляется много в пищу, естся",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "кусается, грызет",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15015,
+    "raw": "Еська м.ул. /Jeśka/ - Иосиф, Осип",
+    "word": "Еська",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jeśka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иосиф, Осип",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15016,
+    "raw": "Есьці (што) /jeści/ - есть, кушать [БН]",
+    "word": "Есьці",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeści",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "есть, кушать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15017,
+    "raw": "Есьці /jeści/ - 1) есть, кушать; 2) употреблять в пищу; 3) журить, грызть; 4) губить [СН]",
+    "word": "Есьці",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeści",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "есть, кушать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "употреблять в пищу",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "журить, грызть",
+        "ru_notes": []
+      },
+      {
+        "number": "4",
+        "text": "губить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15018,
+    "raw": "Есьці: зямлЮ Есьці /ziamlu jeści/ - клясться землею [СН]",
+    "word": "Есьці: зямлЮ Есьці",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ziamlu jeści",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "клясться землею",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15019,
+    "raw": "Есьціся /jeścisia/ - 1) быть употребляему в пищу; 2) щипать, производить раздражение [СН]",
+    "word": "Есьціся",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeścisia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "быть употребляему в пищу",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "щипать, производить раздражение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15020,
+    "raw": "есьць, Есьцяка, Есьцека, е /jeść, jeściaka, jeścieka, je/ = (гл. \"ёсьць\")",
+    "word": "есьць, Есьцяка, Есьцека, е",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeść, jeściaka, jeścieka, je",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "ёсьць"
+  },
+  {
+    "line": 15021,
+    "raw": "Есьцюхны /jeściuchny/ - то же, что {естухны} [СН]",
+    "word": "Есьцюхны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeściuchny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {естухны}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15022,
+    "raw": "Ета /jeta/ = (гл. \"гэта\") [СН] (дл.)",
+    "word": "Ета",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeta",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "гэта"
+  },
+  {
+    "line": 15023,
+    "raw": "Етак /jetak/ - этак, таким образом [СН]",
+    "word": "Етак",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jetak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "этак, таким образом",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15024,
+    "raw": "Етакі /jetaki/ - этакий [СН]",
+    "word": "Етакі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jetaki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "этакий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15025,
+    "raw": "Етуды /jetudy/ - сюда [СН]",
+    "word": "Етуды",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jetudy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сюда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15026,
+    "raw": "Еты /jety/ = (гл. \"гэты\") [СН] (дл.)",
+    "word": "Еты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jety",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "гэты"
+  },
+  {
+    "line": 15027,
+    "raw": "Еўця, Еўка, Еўга ж.ул. /Jeŭcia, Jeŭka, Jeŭha/ - Ева",
+    "word": "Еўця, Еўка, Еўга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jeŭcia, Jeŭka, Jeŭha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ева",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15028,
+    "raw": "Еханькі /jechańki/ - неопред. накл. смягченное вместо {ехаць}, употребляемое в разговоре с малыми детьми. Сличи {Дэ} [СН]",
+    "word": "Еханькі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jechańki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "неопред. накл. смягченное вместо {ехаць}, употребляемое в разговоре с малыми детьми. Сличи {Дэ}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15029,
+    "raw": "Еханьне н. /jechańnie/ - езда [СН]",
+    "word": "Еханьне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jechańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "езда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 15030,
+    "raw": "Ехаць /jechać/ - 1) ехать; 2) двигаться, свойственно не усидчивому ребенку [СН]",
+    "word": "Ехаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jechać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ехать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "двигаться, свойственно не усидчивому ребенку",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 57330,
+    "raw": "Ельня ж. /jelnia/ = (гл. \"елна\") (дл.)",
+    "word": "Ельня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jelnia",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "елна"
+  },
+  {
+    "line": 57331,
+    "raw": "Елнік м. /jełnik/ = (гл. \"ельнік\") (дл.)",
+    "word": "Елнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jełnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ельнік"
+  },
+  {
+    "line": 57332,
+    "raw": "Ельле н. /jelle/ = (гл. \"ельнік\") (дл.)",
+    "word": "Ельле",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jelle",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ельнік"
+  },
+  {
+    "line": 57333,
+    "raw": "Елнік м. /jełnik/ = (гл. \"ельнік\") (дл.)",
+    "word": "Елнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jełnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ельнік"
+  },
+  {
+    "line": 57335,
+    "raw": "ельняччО н. /jelniaččo/ = (гл. \"ельнік\") (дл.)",
+    "word": "ельняччО",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jelniaččo",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ельнік"
+  },
+  {
+    "line": 57343,
+    "raw": "ерУга ж. /jeruha/ = (гл. \"ерык\") (дл.)",
+    "word": "ерУга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jeruha",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ерык"
+  }
+]

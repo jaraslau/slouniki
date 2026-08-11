@@ -1,0 +1,898 @@
+[
+  {
+    "line": 30692,
+    "raw": "о-хо-хОх /o-cho-choch/ - усиливающее восклицание {Ох}! [СН]",
+    "word": "о-хо-хОх",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "o-cho-choch",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "усиливающее восклицание {Ох}!",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30693,
+    "raw": "Обак /obak/ - 1) по одной стороне; 2) подле [СН]",
+    "word": "Обак",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "по одной стороне",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "подле",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30694,
+    "raw": "Обач /obač/ - то же, что {ВОбочь} [СН]",
+    "word": "Обач",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obač",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ВОбочь}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30695,
+    "raw": "Обель, Обел /obiel, obieł/ = (гл. \"абель\") [СБ] (ах.)",
+    "word": "Обель, Обел",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obiel, obieł",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "абель"
+  },
+  {
+    "line": 30696,
+    "raw": "Обліг м. /oblih/ - письменное обязательство, вексель [СН]",
+    "word": "Обліг",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oblih",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "письменное обязательство, вексель",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30697,
+    "raw": "Обліў м. /obliŭ/ - гололедица [СН]",
+    "word": "Обліў",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obliŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "гололедица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30698,
+    "raw": "облы /obły/ - круглый, овальный [СБ] (ах.)",
+    "word": "облы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obły",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "круглый, овальный",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 30699,
+    "raw": "Обрус м. /obrus/ — брусок (дл.)",
+    "word": "Обрус",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obrus",
+    "is_link": false,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "брусок",
+        "ru_notes": [
+          "дл."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 30700,
+    "raw": "Обу /obu/ - обоих, обеих [СН]",
+    "word": "Обу",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obu",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "обоих, обеих",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30701,
+    "raw": "Обуў м. /obuŭ/ - обувь [СН]",
+    "word": "Обуў",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "obuŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "обувь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30702,
+    "raw": "Огнік ж. /ohnik/ - то же, что {ВОгник} [СН]",
+    "word": "Огнік",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ohnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ВОгник}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30703,
+    "raw": "огО /oho/ - о-о [СН]",
+    "word": "огО",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oho",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "о-о",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30704,
+    "raw": "огО /oho/ - ого",
+    "word": "огО",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oho",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ого",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30705,
+    "raw": "Одліг м. /odlih/ - то же, что {ОтлИга} во всех знач [СН]",
+    "word": "Одліг",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "odlih",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ОтлИга} во всех знач",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30706,
+    "raw": "Одпіс м. /odpis/ - письменный ответь [СН]",
+    "word": "Одпіс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "odpis",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "письменный ответь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30707,
+    "raw": "Одпуст м. /odpust/ - 1) окончательная молитва при Богослужении; 2) отпуск [СН]",
+    "word": "Одпуст",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "odpust",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "окончательная молитва при Богослужении",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "отпуск",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30708,
+    "raw": "Ожаг м. /ožah/ - кочерга",
+    "word": "Ожаг",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ožah",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "кочерга",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30709,
+    "raw": "Ойчанька м. /ojčańka/ - 1) почтительное название священника, духовного отца; 2) нежное название отца, особенно употребляемое в песнях [СН]",
+    "word": "Ойчанька",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ojčańka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "почтительное название священника, духовного отца",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "нежное название отца, особенно употребляемое в песнях",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30710,
+    "raw": "Окліп /oklip/ - без седла верхом. См. {ВОклип} [СН]",
+    "word": "Окліп",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oklip",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "без седла верхом. См. {ВОклип}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30711,
+    "raw": "Олцік /ołcik/ = (гл. \"ольцік\") [ДЛ]",
+    "word": "Олцік",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ołcik",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "ольцік"
+  },
+  {
+    "line": 30712,
+    "raw": "Ольстра, Олстра н. /olstra, ołstra/ = (гл. \"вольстра\") [СБ][ДЛ:2] (ах. \"ольстро\", \"олстро\")",
+    "word": "Ольстра, Олстра",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "olstra, ołstra",
+    "is_link": true,
+    "ru_notes": [
+      "ах. \"ольстро\", \"олстро\""
+    ],
+    "sources": [
+      "СБ",
+      "ДЛ:2"
+    ],
+    "definitions": [],
+    "link": "вольстра"
+  },
+  {
+    "line": 30713,
+    "raw": "Ольцік, Олек м.ул. /Olcik, Olek/ - Александр",
+    "word": "Ольцік, Олек",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Olcik, Olek",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Александр",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30714,
+    "raw": "Опадзь ж. /opadź/ - падеж скота. Слич. {ВОпадзь} [СН]",
+    "word": "Опадзь",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "opadź",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "падеж скота. Слич. {ВОпадзь}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30715,
+    "raw": "Опіс м. /opis/ - опись [СН]",
+    "word": "Опіс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "opis",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "опись",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30716,
+    "raw": "Оргіш м. /orhiš/ - крупный ячмень особенного рода [СН]",
+    "word": "Оргіш",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "orhiš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "крупный ячмень особенного рода",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30717,
+    "raw": "Осва, Оксва ж. /osva, oksva/ - оса (дл.)",
+    "word": "Осва, Оксва",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "osva, oksva",
+    "is_link": false,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "оса",
+        "ru_notes": [
+          "дл."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 30718,
+    "raw": "Осхлы /oschły/ - высохший, иссякший [СН]",
+    "word": "Осхлы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oschły",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "высохший, иссякший",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30719,
+    "raw": "Осьміюм, осм м. /ośmijum, osm/ - осмий (Os)",
+    "word": "Осьміюм, осм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ośmijum, osm",
+    "is_link": false,
+    "ru_notes": [
+      "Os"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "осмий",
+        "ru_notes": [
+          "Os"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 30720,
+    "raw": "Осьці ж. /ości/ - рыболовное орудие, острога [СН]",
+    "word": "Осьці",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ości",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рыболовное орудие, острога",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30721,
+    "raw": "отО /oto/ - вот [СН]",
+    "word": "отО",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oto",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вот",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30722,
+    "raw": "ото тЭй /oto tej/ - вот тот [СН]",
+    "word": "ото тЭй",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oto tej",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вот тот",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30723,
+    "raw": "Ото, от /oto, ot/ - вот",
+    "word": "Ото, от",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oto, ot",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вот",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30724,
+    "raw": "Отчыньнік м. /otčyńnik/ - наследник до отцу [СН]",
+    "word": "Отчыньнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "otčyńnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "наследник до отцу",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30725,
+    "raw": "Оцат м. /ocat/ — уксус (дл.)",
+    "word": "Оцат",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ocat",
+    "is_link": false,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "уксус",
+        "ru_notes": [
+          "дл."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 30726,
+    "raw": "Оцэт м. /ocet/ - уксус. См. {ВОцэт} [СН]",
+    "word": "Оцэт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ocet",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "уксус. См. {ВОцэт}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30727,
+    "raw": "Очанна /očanna/ - очень, весьма [СН]",
+    "word": "Очанна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "očanna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "очень, весьма",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30728,
+    "raw": "Ошва ж. /ošva/ - обшивка [СН]",
+    "word": "Ошва",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ošva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "обшивка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 30729,
+    "raw": "Ошуст м. /ošust/ - плут, мот [СН]",
+    "word": "Ошуст",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ošust",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "плут, мот",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56572,
+    "raw": "Оўсішча н. /oŭsišča/ = (гл. \"аўсянішча\") (дл.)",
+    "word": "Оўсішча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oŭsišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "аўсянішча"
+  },
+  {
+    "line": 56577,
+    "raw": "Оўсіска н. /oŭsiska/ = (гл. \"аўсянішча\") (дл.)",
+    "word": "Оўсіска",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oŭsiska",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "аўсянішча"
+  },
+  {
+    "line": 58396,
+    "raw": "Оўсішча н. /oŭsišča/ = (гл. \"аўсянішча\") (дл.)",
+    "word": "Оўсішча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "oŭsišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "аўсянішча"
+  }
+]

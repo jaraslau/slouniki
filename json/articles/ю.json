@@ -1,0 +1,2108 @@
+[
+  {
+    "line": 56038,
+    "raw": "югА ж. /juha/ - яга [СН]",
+    "word": "югА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яга",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56039,
+    "raw": "ЮгА, ЮгАта, ЮгАся ж.ул. /Juha, Juhata, Juhasia/ - Иоанна",
+    "word": "ЮгА, ЮгАта, ЮгАся",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juha, Juhata, Juhasia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иоанна",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56040,
+    "raw": "ЮгАш, ЮгАйла, ЮгАсь, ЮгУк, Югцік м.ул. /Juhaš, Juhajła, Juhaś, Juhuk, Juhcik/ - Иоанн",
+    "word": "ЮгАш, ЮгАйла, ЮгАсь, ЮгУк, Югцік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juhaš, Juhajła, Juhaś, Juhuk, Juhcik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иоанн",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56041,
+    "raw": "Юда а. /juda/ - 1) предатель, предательница [БН]; 2) еврей, жид [СН]",
+    "word": "Юда",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juda",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН",
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "предатель, предательница",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "еврей, жид",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56042,
+    "raw": "Юда м.ул. /Juda/ - Иуда [БН]",
+    "word": "Юда",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juda",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иуда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56043,
+    "raw": "юдаІзм м. /judajizm/ - иудаизм",
+    "word": "юдаІзм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judajizm",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иудаизм",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56044,
+    "raw": "юдаІзма ж. /judajizma/ = (гл. \"юдаізм\")",
+    "word": "юдаІзма",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judajizma",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "юдаізм"
+  },
+  {
+    "line": 56045,
+    "raw": "юдАскі /judaski/ = (гл. \"юдашаскі\") [СН]",
+    "word": "юдАскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judaski",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "юдашаскі"
+  },
+  {
+    "line": 56046,
+    "raw": "юдАства н. /judastva/ = (гл. \"юдашаства\") [СН]",
+    "word": "юдАства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judastva",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "юдашаства"
+  },
+  {
+    "line": 56047,
+    "raw": "Юдаўка ж. /judaŭka/ - 1) злодейка; 2) жидовка [СН]",
+    "word": "Юдаўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judaŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "злодейка",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "жидовка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56048,
+    "raw": "Юдачка, Юданька а. /judačka, judańka/ - льстивец, льстивица, притворщик, притворщица [СН]",
+    "word": "Юдачка, Юданька",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judačka, judańka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "льстивец, льстивица, притворщик, притворщица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56049,
+    "raw": "юдАш м. /judaš/ - лукавец [СН]",
+    "word": "юдАш",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judaš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лукавец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56050,
+    "raw": "юдАшаскі /judašaski/ - предательский [БН]",
+    "word": "юдАшаскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judašaski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "предательский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56051,
+    "raw": "юдАшаства н. /judašastva/ - 1) предательство, лукавство; 2) наушнечиство; 3) обман, плутовство, несправедливое стяжание с обидою других [СН] (рн. \"юдаства\")",
+    "word": "юдАшаства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judašastva",
+    "is_link": false,
+    "ru_notes": [
+      "рн. \"юдаства\""
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "предательство, лукавство",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "наушнечиство",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "обман, плутовство, несправедливое стяжание с обидою других",
+        "ru_notes": [
+          "рн. \"юдаства\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56052,
+    "raw": "юдАшка ж. /judaška/ - лукавица [СН]",
+    "word": "юдАшка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judaška",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лукавица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56053,
+    "raw": "юдАшык м. /judašyk/ = (гл. \"юдачкая\") [СН]",
+    "word": "юдАшык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judašyk",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "юдачкая"
+  },
+  {
+    "line": 56054,
+    "raw": "юдАшыць /judašyć/ - 1) хитрить, лукавить; 2) обманывать; 3) изменять по лукавству [СН]",
+    "word": "юдАшыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judašyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "хитрить, лукавить",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "обманывать",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "изменять по лукавству",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56055,
+    "raw": "юдАшыць /judašyć/ - лукавить, говорить ложь [БН]",
+    "word": "юдАшыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judašyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лукавить, говорить ложь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56056,
+    "raw": "Юдзіць /judzić/ - 1) (гл. \"юдашыць\"); 2) клеветать [СН]",
+    "word": "Юдзіць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judzić",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"юдашыць\""
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "",
+        "ru_notes": [
+          "гл. \"юдашыць\""
+        ]
+      },
+      {
+        "number": "2",
+        "text": "клеветать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56057,
+    "raw": "юдЫцыя ж. /judycyja/ - судебное решение [СБ] (ах.)",
+    "word": "юдЫцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judycyja",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "судебное решение",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56058,
+    "raw": "юдЭй м. /judej/ - иудей",
+    "word": "юдЭй",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judej",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иудей",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56059,
+    "raw": "юдЭйка ж. /judejka/ - иудейка",
+    "word": "юдЭйка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judejka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иудейка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56060,
+    "raw": "юдЭйскі /judejski/ - иудейский",
+    "word": "юдЭйскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judejski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иудейский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56061,
+    "raw": "юдЭйства н. /judejstva/ - иудейство",
+    "word": "юдЭйства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "judejstva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иудейство",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56062,
+    "raw": "ЮзУсь, ЮзУль, ЮзЮк, Юзік м.ул. /Juzuś, Juzul, Juziuk, Juzik/ - Иосиф, Осип",
+    "word": "ЮзУсь, ЮзУль, ЮзЮк, Юзік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juzuś, Juzul, Juziuk, Juzik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иосиф, Осип",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56063,
+    "raw": "ЮзЭфа, Юзька, Юзя ж.ул. /Juzefa, Juźka, Juzia/ - Жозефина",
+    "word": "ЮзЭфа, Юзька, Юзя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juzefa, Juźka, Juzia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Жозефина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56064,
+    "raw": "юк /juk/ - 1) конец чему, гибель чего; 2) удар [СН]",
+    "word": "юк",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "конец чему, гибель чего",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "удар",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56065,
+    "raw": "Юкаць /jukać/ - 1) стучать, рубить чем либо острым; 2) бить, производя звук от удара [СН]",
+    "word": "Юкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jukać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "стучать, рубить чем либо острым",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "бить, производя звук от удара",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56066,
+    "raw": "ЮкІм, ЮхІм, ЮкцІсь, ЮхцІсь, ЮхІмка, ЮкІмка м.ул. /Jukim, Juchim, Jukciś, Juchciś, Juchimka, Jukimka/ - Иоаким [ВЛ]",
+    "word": "ЮкІм, ЮхІм, ЮкцІсь, ЮхцІсь, ЮхІмка, ЮкІмка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jukim, Juchim, Jukciś, Juchciś, Juchimka, Jukimka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ВЛ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иоаким",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56067,
+    "raw": "Юкнуцца /juknucca/ - 1) удариться нечаянно, особенно головою; 2) столкнувшись, удариться [СН]",
+    "word": "Юкнуцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juknucca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "удариться нечаянно, особенно головою",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "столкнувшись, удариться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56068,
+    "raw": "Юкнуцца /juknucca/ - удариться, стукнуться [БН]",
+    "word": "Юкнуцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juknucca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "удариться, стукнуться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56069,
+    "raw": "Юкнуць /juknuć/ - 1) см. {Юкаць}; 2) юркнуть, пропасть; 3) умереть [СН]",
+    "word": "Юкнуць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juknuć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "см. {Юкаць}",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "юркнуть, пропасть",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "умереть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56070,
+    "raw": "юлА ж. /juła/ - 1) мелкая рыбка, очень вертлявая; 2) вертлявый, неспокойный мальчик или девочка [СН]",
+    "word": "юлА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juła",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "мелкая рыбка, очень вертлявая",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вертлявый, неспокойный мальчик или девочка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56071,
+    "raw": "юлЕньне н. /juleńnie/ - ухаживание, увивание около кого [СН]",
+    "word": "юлЕньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juleńnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ухаживание, увивание около кого",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56072,
+    "raw": "юлІла а. /juliła/ - 1) резвый мальчик или своевольная девочка; 2) вертопрах [СН]",
+    "word": "юлІла",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juliła",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "резвый мальчик или своевольная девочка",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вертопрах",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56073,
+    "raw": "Юліца ж. /julica/ = (гл. \"вуліца\")(дл.)",
+    "word": "Юліца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "julica",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "вуліца"
+  },
+  {
+    "line": 56074,
+    "raw": "юлІць /julić/ - 1) шалить, вертеться; 2) ухаживать; 3) неотступно просить, беспокоить безотвязными просьбами; 4) настаивать на чем [СН]",
+    "word": "юлІць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "julić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "шалить, вертеться",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "ухаживать",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "неотступно просить, беспокоить безотвязными просьбами",
+        "ru_notes": []
+      },
+      {
+        "number": "4",
+        "text": "настаивать на чем",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56075,
+    "raw": "юлІць /julić/ - беспокоитъ; в голове, в мыслях вертится [СН]",
+    "word": "юлІць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "julić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "беспокоитъ; в голове, в мыслях вертится",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56076,
+    "raw": "юлОнька ж. /jułońka/ - улочка (дл.)",
+    "word": "юлОнька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jułońka",
+    "is_link": false,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "улочка",
+        "ru_notes": [
+          "дл."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56077,
+    "raw": "юлОю /jułoju/ - 1) вертляво; 2) безотвязно [СН]",
+    "word": "юлОю",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jułoju",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "вертляво",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "безотвязно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56078,
+    "raw": "ЮлцІсь /Jułciś/ = (гл. \"Юльцісь\") [ДЛ]",
+    "word": "ЮлцІсь",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jułciś",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "Юльцісь"
+  },
+  {
+    "line": 56079,
+    "raw": "ЮлцІся, Юлка, Юлця ж.ул. /Jułcisia, Jułka, Jułcia/ = (гл. \"Юльціся\") [ДЛ]",
+    "word": "ЮлцІся, Юлка, Юлця",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jułcisia, Jułka, Jułcia",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "Юльціся"
+  },
+  {
+    "line": 56080,
+    "raw": "ЮльЯш, ЮльЯн, ЮлІсь, ЮцІсь, ЮлЮк, Юлік м.ул. /Juljaš, Juljan, Juliś, Juciś, Juluk, Julik/ - Юлиан, Иулиан",
+    "word": "ЮльЯш, ЮльЯн, ЮлІсь, ЮцІсь, ЮлЮк, Юлік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juljaš, Juljan, Juliś, Juciś, Juluk, Julik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Юлиан, Иулиан",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56081,
+    "raw": "ЮльЯш, ЮльЯн, ЮльцІсь, Юлюк м.ул. /Juljaš, Juljan, Julciś, Juluk/ - Юлий",
+    "word": "ЮльЯш, ЮльЯн, ЮльцІсь, Юлюк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juljaš, Juljan, Julciś, Juluk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Юлий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56082,
+    "raw": "ЮлЯся, Юля, ЮльцІся, Юлька, Юльця ж.ул. /Julasia, Jula, Julcisia, Julka, Julcia/ - Юлиания, Ульяна, Юлиана, Джулиана, Юльяния, Иулианна",
+    "word": "ЮлЯся, Юля, ЮльцІся, Юлька, Юльця",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Julasia, Jula, Julcisia, Julka, Julcia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Юлиания, Ульяна, Юлиана, Джулиана, Юльяния, Иулианна",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56083,
+    "raw": "юнАк м. /junak/ - юноша [БН]",
+    "word": "юнАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "junak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "юноша",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56084,
+    "raw": "юнАцкі /junacki/ - юношеский [БН]",
+    "word": "юнАцкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "junacki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "юношеский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56085,
+    "raw": "юнАцтва н. /junactva/ - юношество [БН]",
+    "word": "юнАцтва",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "junactva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "юношество",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56086,
+    "raw": "юр м. /jur/ - половое возбуждение, шалость [БН]",
+    "word": "юр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jur",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "половое возбуждение, шалость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56087,
+    "raw": "юр м. /jur/ - шалость, своевольство, выходящее из пределов благопристойности [СН]",
+    "word": "юр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jur",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шалость, своевольство, выходящее из пределов благопристойности",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56088,
+    "raw": "Юр'е н.ул. /Jurje/ - праздник св. Георгия [СН]",
+    "word": "Юр'е",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jurje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "праздник св. Георгия",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56089,
+    "raw": "Юр'еўшчына ж.ул. /Jurjeŭščyna/ - молебствие святому Георгию, сопровождаемое угощением [СН]",
+    "word": "Юр'еўшчына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jurjeŭščyna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "молебствие святому Георгию, сопровождаемое угощением",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56090,
+    "raw": "Юра, ЮрАсь, Юры, Юрка м.ул. /jura, juraś, jury, jurka/ - Юрий, Георгий, Егор [БН]",
+    "word": "Юра, ЮрАсь, Юры, Юрка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "jura, juraś, jury, jurka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Юрий, Георгий, Егор",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56091,
+    "raw": "юрАга ж. /juraha/ - подонки коноплянаго, деревянного и коровьяго масла [СН]",
+    "word": "юрАга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juraha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подонки коноплянаго, деревянного и коровьяго масла",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56092,
+    "raw": "юрАжка ж. /juražka/ - подонки [СН]",
+    "word": "юрАжка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juražka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подонки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56093,
+    "raw": "юрАжны /juražny/ - подонный, подоночный [СН]",
+    "word": "юрАжны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juražny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подонный, подоночный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56094,
+    "raw": "юрамЭнт м. /jurament/ - присяга [СБ] (ах.)",
+    "word": "юрамЭнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurament",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "присяга",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56095,
+    "raw": "ЮрАсеў /Jurasieŭ/ - принадлежащий Юрасю (Юрью), Юрьев [СН]",
+    "word": "ЮрАсеў",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jurasieŭ",
+    "is_link": false,
+    "ru_notes": [
+      "Юрью"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "принадлежащий Юрасю , Юрьев",
+        "ru_notes": [
+          "Юрью"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56096,
+    "raw": "ЮрАсь м. /Juraś/ - имя от крещения Георгий, Юрий [СН]",
+    "word": "ЮрАсь",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Juraś",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя от крещения Георгий, Юрий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56097,
+    "raw": "Юрачка м. /Juračka/ - егорушка [СН]",
+    "word": "Юрачка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Juračka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "егорушка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56098,
+    "raw": "юргЕльт м. /jurhielt/ - платежь, взимаемый по условию за содержание каких либо угодьев от Юрьева до Юрьева дня [СН]",
+    "word": "юргЕльт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurhielt",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "платежь, взимаемый по условию за содержание каких либо угодьев от Юрьева до Юрьева дня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56099,
+    "raw": "юргЕльтавы /jurhieltavy/ - платимый по срочно от дня св. Георгия до дня св. Георгия следующего года [СН]",
+    "word": "юргЕльтавы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurhieltavy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "платимый по срочно от дня св. Георгия до дня св. Георгия следующего года",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56100,
+    "raw": "юргІня ж. /jurhinia/ - георгина (Dahlia L) [БН]",
+    "word": "юргІня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurhinia",
+    "is_link": false,
+    "ru_notes": [
+      "Dahlia L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "георгина",
+        "ru_notes": [
+          "Dahlia L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56101,
+    "raw": "Юрка, ЮрАга, Юры, ЮрЫла, ЮрЫсь, ЮрУк, Юрык м.ул. /Jurka, Juraha, Jury, Juryła, Juryś, Juruk, Juryk/ - Георгий, Егор, Юрий",
+    "word": "Юрка, ЮрАга, Юры, ЮрЫла, ЮрЫсь, ЮрУк, Юрык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jurka, Juraha, Jury, Juryła, Juryś, Juruk, Juryk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Георгий, Егор, Юрий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56102,
+    "raw": "юрлІвы /jurlivy/ - юркий, подвижной, игривый [БН]",
+    "word": "юрлІвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurlivy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "юркий, подвижной, игривый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56103,
+    "raw": "юрОк м. /jurok/ - 1) вьюрок, то есть палочка с проушинами по концам, для мотки через нее ниток, шелку, чтобы не было закрутин; 2) птичка, своим писком предвещающая, по мнению простолюдинов, дождь; 3) шалун, вертлявый мальчик [СН]",
+    "word": "юрОк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurok",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "вьюрок, то есть палочка с проушинами по концам, для мотки через нее ниток, шелку, чтобы не было закрутин",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "птичка, своим писком предвещающая, по мнению простолюдинов, дождь",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "шалун, вертлявый мальчик",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56104,
+    "raw": "юрОчак м. /juročak/ = (гл. \"юрок\") [СН] (уменьшительное)",
+    "word": "юрОчак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juročak",
+    "is_link": true,
+    "ru_notes": [
+      "уменьшительное"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "юрок"
+  },
+  {
+    "line": 56105,
+    "raw": "юрУха ж. /jurucha/ - 1) досадительница [БН][ВБ]; 2) злая, кусачая [ВБ][ВЛ]; 3) самогон, самогонка; бражка, брага [ВБ] (гл. \"яруха\")",
+    "word": "юрУха",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurucha",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"яруха\""
+    ],
+    "sources": [
+      "БН",
+      "ВБ",
+      "ВБ",
+      "ВЛ",
+      "ВБ"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "досадительница",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "злая, кусачая",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "самогон, самогонка; бражка, брага",
+        "ru_notes": [
+          "гл. \"яруха\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56106,
+    "raw": "юрчАць /jurčać/ - петь свойственно зяблику [БН]",
+    "word": "юрчАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jurčać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "петь свойственно зяблику",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56107,
+    "raw": "Юрый м.ул. /Juryj/ - св. Георгий [СН]",
+    "word": "Юрый",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juryj",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "св. Георгий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56108,
+    "raw": "юрЫла м. /juryła/ - назойливый, неугомонный шалун [СН]",
+    "word": "юрЫла",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juryła",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "назойливый, неугомонный шалун",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56109,
+    "raw": "юрЫць /juryć/ - 1) шалить, заигривать; 2) надоедать шалостями; 3) предпринимать что либо непременно [СН]",
+    "word": "юрЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "шалить, заигривать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "надоедать шалостями",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "предпринимать что либо непременно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56110,
+    "raw": "юрЫць /juryć/ - вожделеть, высказывать половое возбуждение, шалить, заигрывать [БН]",
+    "word": "юрЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вожделеть, высказывать половое возбуждение, шалить, заигрывать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56111,
+    "raw": "юс! /jus!/ - марш! [СН] (призыв к движению)",
+    "word": "юс!",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jus!",
+    "is_link": false,
+    "ru_notes": [
+      "призыв к движению"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "марш!",
+        "ru_notes": [
+          "призыв к движению"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56112,
+    "raw": "Юсенька, Юсечка ж. /jusieńka, jusiečka/ - ласкат. назвавие свиньи [СН]",
+    "word": "Юсенька, Юсечка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jusieńka, jusiečka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ласкат. назвавие свиньи",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56113,
+    "raw": "Юста, ЮстЫна ЮстУся, Юсьця ж.ул. /Justa, Justyna, Justusia, Juścia/ - Устинья, Иустина, Юстина",
+    "word": "Юста, ЮстЫна ЮстУся, Юсьця",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Justa, Justyna, Justusia, Juścia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Устинья, Иустина, Юстина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56114,
+    "raw": "юстыфікавАць /justyfikavać/ - оправдать [СБ]",
+    "word": "юстыфікавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "justyfikavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "оправдать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56115,
+    "raw": "Юстыян, Юстын, Юстып, Юстусь, ЮстУк, Юсьцік м.ул. /Justyjan, Justyn, Justyp, Justuś, Justuk, Juścik/ - Юстин, Иустин",
+    "word": "Юстыян, Юстын, Юстып, Юстусь, ЮстУк, Юсьцік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Justyjan, Justyn, Justyp, Justuś, Justuk, Juścik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Юстин, Иустин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56116,
+    "raw": "Ютра н. /jutra/ - 1) утро; 2) завтрашний день [СН]",
+    "word": "Ютра",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jutra",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "утро",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "завтрашний день",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56117,
+    "raw": "Ютраня, Ютранька ж. /jutrania, jutrańka/ - утреня [СН]",
+    "word": "Ютраня, Ютранька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jutrania, jutrańka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "утреня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56118,
+    "raw": "Юха а. /jucha/ - молодец [СН]",
+    "word": "Юха",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jucha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "молодец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56119,
+    "raw": "ЮхА ж. /jucha/ - 1) уха (похлёбка); 2) кровь [БН]",
+    "word": "ЮхА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jucha",
+    "is_link": false,
+    "ru_notes": [
+      "похлёбка"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "уха",
+        "ru_notes": [
+          "похлёбка"
+        ]
+      },
+      {
+        "number": "2",
+        "text": "кровь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56120,
+    "raw": "ЮхнО, ЮхІнт, ЮхцІсь, ЮхнУк м.ул. /Juchno, Juchint, Juchciś, Juchnuk/ - Иакинф, Акинфий, Гиацинт",
+    "word": "ЮхнО, ЮхІнт, ЮхцІсь, ЮхнУк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juchno, Juchint, Juchciś, Juchnuk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иакинф, Акинфий, Гиацинт",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56121,
+    "raw": "Юхта ж. /juchta/ - юфть [БН]",
+    "word": "Юхта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juchta",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "юфть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56122,
+    "raw": "юхтОвікі мн. /juchtoviki/ - юфтевые, юфтяные сапоги [ВБ]",
+    "word": "юхтОвікі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "juchtoviki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ВБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "юфтевые, юфтяные сапоги",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56123,
+    "raw": "Юхціна ж. /juchcina/ = (гл. \"юхт\") (дл.)",
+    "word": "Юхціна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juchcina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "юхт"
+  },
+  {
+    "line": 56124,
+    "raw": "Юхша, ЮхІм, ЮктУк м.ул. /Juchša, Juchim, Juktuk/ - Аким",
+    "word": "Юхша, ЮхІм, ЮктУк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Juchša, Juchim, Juktuk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Аким",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56125,
+    "raw": "Юшка ж. /juška/ - 1) ушица, сок от чего либо варенаго; 2) кровь; 3) вьюшка [СН]",
+    "word": "Юшка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juška",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ушица, сок от чего либо варенаго",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "кровь",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "вьюшка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56126,
+    "raw": "Юшка ж. /juška/ - ушица, соус [БН]",
+    "word": "Юшка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "juška",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ушица, соус",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56127,
+    "raw": "Юшна /jušna/ - довольно водяно [СН]",
+    "word": "Юшна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jušna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "довольно водяно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56128,
+    "raw": "юшЫць /jušyć/ - бить по ушам, заушать [СН]",
+    "word": "юшЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jušyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бить по ушам, заушать",
+        "ru_notes": []
+      }
+    ]
+  }
+]

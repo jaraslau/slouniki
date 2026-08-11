@@ -1,0 +1,7128 @@
+[
+  {
+    "line": 56129,
+    "raw": "Ябка н. /jabka/ - яблочко, говорится, обращаясь к детям [СН]",
+    "word": "Ябка",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблочко, говорится, обращаясь к детям",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56130,
+    "raw": "Ябланка ж. /jabłanka/ - яблонька [СН]",
+    "word": "Ябланка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłanka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблонька",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56131,
+    "raw": "Ябланя ж. /jabłania/ - яблонь [СН]",
+    "word": "Ябланя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłania",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблонь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56132,
+    "raw": "Яблык м. /jabłyk/ - яблоко [БН]",
+    "word": "Яблык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблоко",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56133,
+    "raw": "Яблыка н. /jabłyka/ - яблоко [БН][ВЛ] (дл.)",
+    "word": "Яблыка",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłyka",
+    "is_link": false,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [
+      "БН",
+      "ВЛ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблоко",
+        "ru_notes": [
+          "дл."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56134,
+    "raw": "Яблыніна ж. /jabłynina/ - яблочное дерево [БН]",
+    "word": "Яблыніна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłynina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблочное дерево",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56135,
+    "raw": "Яблынка ж. /jabłynka/ - яблонька [БН]",
+    "word": "Яблынка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłynka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблонька",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56136,
+    "raw": "Яблыня ж. /jabłynia/ - яблоня [БН]",
+    "word": "Яблыня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jabłynia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яблоня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56137,
+    "raw": "Ява ж. /java/ - явление, дивное происшествие [СН]",
+    "word": "Ява",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "java",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "явление, дивное происшествие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56138,
+    "raw": "Явар м. /javar/ - 1) аир; 2) дерево Ива [СН]",
+    "word": "Явар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "аир",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "дерево Ива",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56139,
+    "raw": "Явар м. /javar/ - вид тополя [БН]",
+    "word": "Явар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вид тополя",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56140,
+    "raw": "Яваравы /javaravy/ - аирный, ирный [СН]",
+    "word": "Яваравы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javaravy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "аирный, ирный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56141,
+    "raw": "Яварына ж. /javaryna/ - аирина [СН]",
+    "word": "Яварына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javaryna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "аирина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56142,
+    "raw": "Яварына ж. /javaryna/ - яворовое дерево [БН]",
+    "word": "Яварына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javaryna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яворовое дерево",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56143,
+    "raw": "явОравы /javoravy/ - ивовый [СН]",
+    "word": "явОравы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javoravy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ивовый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56144,
+    "raw": "ягА ж. /jaha/ - злая женщина, ведьма [СН]",
+    "word": "ягА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "злая женщина, ведьма",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56145,
+    "raw": "ЯгА, ЯгАта, ЯгАся ж.ул. /Jaha, Jahata, Jahasia/ - Иоанна",
+    "word": "ЯгА, ЯгАта, ЯгАся",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jaha, Jahata, Jahasia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иоанна",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56146,
+    "raw": "Ягада ж. /jahada/ - ягода [БН]",
+    "word": "Ягада",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahada",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ягода",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56147,
+    "raw": "Ягадка ж. /jahadka/ - 1) ягодка; 2) круглая возвышенность щеки у человека [СН]",
+    "word": "Ягадка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahadka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ягодка",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "круглая возвышенность щеки у человека",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56148,
+    "raw": "ягамОсьцеў /jahamościeŭ/ - баринов, его милости [СН]",
+    "word": "ягамОсьцеў",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahamościeŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "баринов, его милости",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56149,
+    "raw": "ягамОсьцін /jahamościn/ - барынинь [СН]",
+    "word": "ягамОсьцін",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahamościn",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "барынинь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56150,
+    "raw": "ЯгАш, ЯгАйла, ЯгАсь, ЯгУк, Ягцік, ЯсЮль, Яська, ЯсЮк, Ясь, ЯнУш, ЯнУль, Янка, ЯнУк, Янцік м.ул. /Jahaš, Jahajła, Jahaś, Jahuk, Jahcik, Jasiul, Jaśka, Jasiuk, Jaś, Januš, Janul, Janka, Januk, Jancik/ - Иоанн",
+    "word": "ЯгАш, ЯгАйла, ЯгАсь, ЯгУк, Ягцік, ЯсЮль, Яська, ЯсЮк, Ясь, ЯнУш, ЯнУль, Янка, ЯнУк, Янцік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jahaš, Jahajła, Jahaś, Jahuk, Jahcik, Jasiul, Jaśka, Jasiuk, Jaś, Januš, Janul, Janka, Januk, Jancik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иоанн",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56151,
+    "raw": "ягдА-ніягдА /jahda-nijahda/ - изредка, редко-когда [СН]",
+    "word": "ягдА-ніягдА",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahda-nijahda",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "изредка, редко-когда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56152,
+    "raw": "Ягленьне н. /jahleńnie/ - упорное, сильное желание чего, сопровождаемое настойчивою просьбою [СН]",
+    "word": "Ягленьне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahleńnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "упорное, сильное желание чего, сопровождаемое настойчивою просьбою",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56153,
+    "raw": "Ягліцца /jahlicca/ - 1) усиливаться к достижению желания своего; 2) зариться [СН]",
+    "word": "Ягліцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahlicca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "усиливаться к достижению желания своего",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "зариться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56154,
+    "raw": "Ягліцца /jahlicca/ - зариться [БН]",
+    "word": "Ягліцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahlicca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "зариться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56155,
+    "raw": "Ягліць /jahlić/ - упорно желать чего с настойчивою просьбою [СН]",
+    "word": "Ягліць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahlić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "упорно желать чего с настойчивою просьбою",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56156,
+    "raw": "ягнЯ, ягнЁ н. /jahnia, jahnio/ - ягнёнок [БН:1]",
+    "word": "ягнЯ, ягнЁ",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahnia, jahnio",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН:1"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ягнёнок",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56157,
+    "raw": "ягОмасьць, ягамОсьць м. /jahomaść/ - его милость, сударь, барин [БН:1]",
+    "word": "ягОмасьць, ягамОсьць",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahomaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН:1"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "его милость, сударь, барин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56158,
+    "raw": "ядА ж. /jada/ - 1) едение; 2) пища, еда [СН]",
+    "word": "ядА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jada",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "едение",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "пища, еда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56159,
+    "raw": "ядА ж. /jada/ - еда (гл. \"Ежа\") [БН]",
+    "word": "ядА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jada",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"Ежа\""
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "еда",
+        "ru_notes": [
+          "гл. \"Ежа\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56160,
+    "raw": "ядамАшак м. /jadamašak/ = (гл. \"адамашка\") [СБ] (ах. \"едамашокъ\")",
+    "word": "ядамАшак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadamašak",
+    "is_link": true,
+    "ru_notes": [
+      "ах. \"едамашокъ\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "адамашка"
+  },
+  {
+    "line": 56161,
+    "raw": "ядамАшкавы /jadamaškavy/ = (гл. \"адамашкавы\") [СБ] (ах. \"едамашковый\")",
+    "word": "ядамАшкавы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadamaškavy",
+    "is_link": true,
+    "ru_notes": [
+      "ах. \"едамашковый\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "адамашкавы"
+  },
+  {
+    "line": 56162,
+    "raw": "ядвАб ж. /jadvab/ - шёлк, шёлковая материя [СН]",
+    "word": "ядвАб",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadvab",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шёлк, шёлковая материя",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56163,
+    "raw": "ядвАбнік м. /jadvabnik/ - шелкопряд [БН]",
+    "word": "ядвАбнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadvabnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шелкопряд",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56164,
+    "raw": "ядвАбны /jadvabny/ - шёлковый [БН]",
+    "word": "ядвАбны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadvabny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шёлковый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56165,
+    "raw": "ядвабны: ЯдвАбны Шлях м.ул. /Jadvabny Šlach/ - Великий Шёлковый Путь",
+    "word": "ядвабны: ЯдвАбны Шлях",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jadvabny Šlach",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Великий Шёлковый Путь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56166,
+    "raw": "ядзЕньне н. /jadzieńnie/ - употребление пищи, едение, кушание [СН]",
+    "word": "ядзЕньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadzieńnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "употребление пищи, едение, кушание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56167,
+    "raw": "ядзЕрка м. /jadzierka/ - ядрышко [БН]",
+    "word": "ядзЕрка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadzierka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ядрышко",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56168,
+    "raw": "ядзІла а. /jadziła/ - харя, рыло (дл. \"едила\")",
+    "word": "ядзІла",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadziła",
+    "is_link": false,
+    "ru_notes": [
+      "дл. \"едила\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "харя, рыло",
+        "ru_notes": [
+          "дл. \"едила\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56169,
+    "raw": "ядзь ж. /jadź/ - подножный корм [СН]",
+    "word": "ядзь",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadź",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подножный корм",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56170,
+    "raw": "ядзяньнЁ н. /jadziańnio/ - ядь, яства, кушанье [СН]",
+    "word": "ядзяньнЁ",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadziańnio",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ядь, яства, кушанье",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56171,
+    "raw": "ядкавАты /jadkavaty/ - причиняющий некоторую боль холодом, холодноватый [СН]",
+    "word": "ядкавАты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadkavaty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "причиняющий некоторую боль холодом, холодноватый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56172,
+    "raw": "ядкЕй /jadkiej/ = (гл. \"ядкі\")",
+    "word": "ядкЕй",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadkiej",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "ядкі"
+  },
+  {
+    "line": 56173,
+    "raw": "ядкІ /jadki/ - съедобный [БН]",
+    "word": "ядкІ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "съедобный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56174,
+    "raw": "яднАкава /jadnakava/ - 1) все равно, ведь; 2) однакож [СН]",
+    "word": "яднАкава",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnakava",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "все равно, ведь",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "однакож",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56175,
+    "raw": "яднАльны /jadnalny/ - мировой, примирительный [СН]",
+    "word": "яднАльны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnalny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мировой, примирительный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56176,
+    "raw": "яднАны /jadnany/ - примиренный, склонённый к миру [СН]",
+    "word": "яднАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "примиренный, склонённый к миру",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56177,
+    "raw": "яднАньне н. /jadnańnie/ - 1) единение [БН]; 2) примирение [СН]",
+    "word": "яднАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН",
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "единение",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "примирение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56178,
+    "raw": "яднАцца /jadnacca/ - 1) мириться; 2) соглашаться в условиях или мнениях [СН]; 3) объединяться [БН]",
+    "word": "яднАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН",
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "мириться",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "соглашаться в условиях или мнениях",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "объединяться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56179,
+    "raw": "яднАць (каго) /jadnać/ - объединять, соглашать [БН]",
+    "word": "яднАць",
+    "be_notes": [
+      "каго"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "объединять, соглашать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56180,
+    "raw": "яднАць /jadnać/ - мирить [СН]",
+    "word": "яднАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мирить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56181,
+    "raw": "яднАч м. /jadnač/ - арбитр, посредник, третейский судья [СБ] (ах. \"едначъ\")",
+    "word": "яднАч",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnač",
+    "is_link": false,
+    "ru_notes": [
+      "ах. \"едначъ\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "арбитр, посредник, третейский судья",
+        "ru_notes": [
+          "ах. \"едначъ\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56182,
+    "raw": "яднАчак м. /jadnačak/ - единственный [СН]",
+    "word": "яднАчак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnačak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "единственный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56183,
+    "raw": "яднАчка ж. /jadnačka/ - единственная [СН]",
+    "word": "яднАчка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "единственная",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56184,
+    "raw": "яднАчны /jadnaczny/ = (гл. \"яднальны\") [СБ] (ах. \"едначный\")",
+    "word": "яднАчны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnaczny",
+    "is_link": true,
+    "ru_notes": [
+      "ах. \"едначный\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "яднальны"
+  },
+  {
+    "line": 56185,
+    "raw": "яднАчыцца /jadnačycca/ - равняться [СН]",
+    "word": "яднАчыцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnačycca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "равняться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56186,
+    "raw": "яднАчыць /jadnačyć/ - равнять кого сь кем [СН]",
+    "word": "яднАчыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadnačyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "равнять кого сь кем",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56187,
+    "raw": "ядОмы /jadomy/ - годный к употреблению в пищу, съедобный [СН]",
+    "word": "ядОмы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadomy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "годный к употреблению в пищу, съедобный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56188,
+    "raw": "ядОмы /jadomy/ - съедобный [БН]",
+    "word": "ядОмы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadomy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "съедобный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56189,
+    "raw": "Ядрана /jadrana/ - свежо, морозно, холодновато [БН]",
+    "word": "Ядрана",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadrana",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "свежо, морозно, холодновато",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56190,
+    "raw": "ядранЕе /jadranieje/ - делается свежее, морознее [СН]",
+    "word": "ядранЕе",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadranieje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "делается свежее, морознее",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56191,
+    "raw": "ядранЕц м. /jadraniec/ - ядранец (Thesium L) [БН]",
+    "word": "ядранЕц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadraniec",
+    "is_link": false,
+    "ru_notes": [
+      "Thesium L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ядранец",
+        "ru_notes": [
+          "Thesium L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56192,
+    "raw": "ядранЕцца /jadraniecca/ - рдеться [СН]",
+    "word": "ядранЕцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadraniecca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рдеться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56193,
+    "raw": "ядранЕць /jadranieć/ - 1) становиться свежее, холоднее (о погоде); 2) становиться холоднее, резче; 3) делаться плотнее, ядристее [СН]",
+    "word": "ядранЕць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadranieć",
+    "is_link": false,
+    "ru_notes": [
+      "о погоде"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "становиться свежее, холоднее",
+        "ru_notes": [
+          "о погоде"
+        ]
+      },
+      {
+        "number": "2",
+        "text": "становиться холоднее, резче",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "делаться плотнее, ядристее",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56194,
+    "raw": "Ядраны /jadrany/ - 1) свежий, холодный; ветренный; 2) твёрдый, крепкий, ядрёный [БН]; 3) ядристый; 4) недозрелый [СН]",
+    "word": "Ядраны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadrany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН",
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "свежий, холодный; ветренный",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "твёрдый, крепкий, ядрёный",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "ядристый",
+        "ru_notes": []
+      },
+      {
+        "number": "4",
+        "text": "недозрелый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56195,
+    "raw": "ядрОнкі ж.мн. /jadronki/ - ядрышки семян [БН]",
+    "word": "ядрОнкі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jadronki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ядрышки семян",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56196,
+    "raw": "ядрОнкі мн. /jadronki/ - ядрышки конопляных семян, нарочито очищаемых от шелухи для постного пирожного [СН]",
+    "word": "ядрОнкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jadronki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ядрышки конопляных семян, нарочито очищаемых от шелухи для постного пирожного",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56197,
+    "raw": "ядрОны /jadrony/ - растаковский [СН]",
+    "word": "ядрОны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadrony",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "растаковский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56198,
+    "raw": "ядрУшка ж. /jadruška/ - кокушник (Gymnadenia R. Br.) [БН]",
+    "word": "ядрУшка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadruška",
+    "is_link": false,
+    "ru_notes": [
+      "Gymnadenia R. Br."
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "кокушник",
+        "ru_notes": [
+          "Gymnadenia R. Br."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56199,
+    "raw": "ядрУшкі мн. /jadruški/ = (гл. \"ядронкі\") [СН] (уменьшительное)",
+    "word": "ядрУшкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jadruški",
+    "is_link": true,
+    "ru_notes": [
+      "уменьшительное"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ядронкі"
+  },
+  {
+    "line": 56200,
+    "raw": "Ядры н. /jadry/ - яйца (testicula) [СН]",
+    "word": "Ядры",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadry",
+    "is_link": false,
+    "ru_notes": [
+      "testicula"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яйца",
+        "ru_notes": [
+          "testicula"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56201,
+    "raw": "Ядрыцы ж.мн. /jadrycy/ = (гл. \"ядронкі\") [СН] (уменьшительное)",
+    "word": "Ядрыцы",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jadrycy",
+    "is_link": true,
+    "ru_notes": [
+      "уменьшительное"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ядронкі"
+  },
+  {
+    "line": 56202,
+    "raw": "ядУн м. /jadun/ - едок [БН]",
+    "word": "ядУн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadun",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "едок",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56203,
+    "raw": "ядЫна /jadyna/ - одинаково [СН]",
+    "word": "ядЫна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadyna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "одинаково",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56204,
+    "raw": "ядЫнка ж. /jadynka/ - йод",
+    "word": "ядЫнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadynka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "йод",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56205,
+    "raw": "ядЫны /jadyny/ - единый [СН]",
+    "word": "ядЫны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadyny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "единый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56206,
+    "raw": "яЕйны /jajejny/ = (гл. \"ейны\") [ВБ] (дл.)",
+    "word": "яЕйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jajejny",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [
+      "ВБ"
+    ],
+    "definitions": [],
+    "link": "ейны"
+  },
+  {
+    "line": 56207,
+    "raw": "Яер м. /jajer/ = (гл. \"явар\") [СН]",
+    "word": "Яер",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jajer",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "явар"
+  },
+  {
+    "line": 56208,
+    "raw": "Яеравы /jajeravy/ = (гл. \"яворавы\") [СН]",
+    "word": "Яеравы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jajeravy",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "яворавы"
+  },
+  {
+    "line": 56209,
+    "raw": "яЕчка м. /jaječka/ - яичко, яйцо [БН]",
+    "word": "яЕчка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaječka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яичко, яйцо",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56210,
+    "raw": "яЕчка н. /jaječka/ - яичко [СН]",
+    "word": "яЕчка",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaječka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яичко",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56211,
+    "raw": "яЕчны /jaječny/ - яичный [БН]",
+    "word": "яЕчны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaječny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яичный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56212,
+    "raw": "яЕчня, яЕшня ж. /jaječnia, jaješnia/ - яичница [БН]",
+    "word": "яЕчня, яЕшня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaječnia, jaješnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яичница",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56213,
+    "raw": "яз м. /jaz/ - закол для ловли рыбы [БН]",
+    "word": "яз",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaz",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "закол для ловли рыбы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56214,
+    "raw": "Язва а. /jazva/ - злой, язвительный, злоречивый человек [СН]",
+    "word": "Язва",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "злой, язвительный, злоречивый человек",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56215,
+    "raw": "яздА ж. /jazda/ - езда, поездка [БН]",
+    "word": "яздА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazda",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "езда, поездка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56216,
+    "raw": "яздУн, яздОк м. /jazdun, jazdok/ - ездок [БН]",
+    "word": "яздУн, яздОк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazdun, jazdok",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ездок",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56217,
+    "raw": "яздУн, яздУньня м. /jazdun, jazduńnia/ - дитя, не сидящее на руках спокойно, но ползающее туда и сюда [СН]",
+    "word": "яздУн, яздУньня",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazdun, jazduńnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "дитя, не сидящее на руках спокойно, но ползающее туда и сюда",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56218,
+    "raw": "ЯзУс м.ул. /Jazus/ = (гл. \"Езус\")",
+    "word": "ЯзУс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jazus",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "Езус"
+  },
+  {
+    "line": 56219,
+    "raw": "язЫк м. /jazyk/ - язык (анат.) [БН] (звательный падеж \"языча\")",
+    "word": "язЫк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyk",
+    "is_link": false,
+    "ru_notes": [
+      "анат.",
+      "звательный падеж \"языча\""
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "язык",
+        "ru_notes": [
+          "анат.",
+          "звательный падеж \"языча\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56220,
+    "raw": "языкавАты /jazykavaty/ - язычковый [БН]",
+    "word": "языкавАты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazykavaty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "язычковый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56221,
+    "raw": "языкАты /jazykaty/ - сплетник [БН]",
+    "word": "языкАты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazykaty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сплетник",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56222,
+    "raw": "язЫчлівасьць ж. /jazyčlivaść/ - осуждение других, склонность оговаривать других [СН]",
+    "word": "язЫчлівасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyčlivaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "осуждение других, склонность оговаривать других",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56223,
+    "raw": "язЫчлівы /jazyčlivy/ - склонный к осуждению других [СН]",
+    "word": "язЫчлівы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyčlivy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "склонный к осуждению других",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56224,
+    "raw": "язЫчнік, язЫчніца м. /jazyčnik, jazyčnica/ - сплетник, -ница, наушник, -ница, клеветник, -ница [СН]",
+    "word": "язЫчнік, язЫчніца",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyčnik, jazyčnica",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сплетник, -ница, наушник, -ница, клеветник, -ница",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56225,
+    "raw": "язЫчнічаць /jazyčničać/ - клеветать, осуждать за глаза [СН]",
+    "word": "язЫчнічаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyčničać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "клеветать, осуждать за глаза",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56226,
+    "raw": "язЫчны /jazyčny/ - 1) невоздержный на язык, любящий говорить колкости; 2) любящий сплетничать или осуждать других [СН]",
+    "word": "язЫчны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyčny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "невоздержный на язык, любящий говорить колкости",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "любящий сплетничать или осуждать других",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56227,
+    "raw": "язЫчны, язЫчлівы /jazyčny, jazyčlivy/ - домоязычный, невоздержанный на язык [БН]",
+    "word": "язЫчны, язЫчлівы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazyčny, jazyčlivy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "домоязычный, невоздержанный на язык",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56228,
+    "raw": "Язьвіна ж. /jaźvina/ - прорытая в земле галлерея [БН]",
+    "word": "Язьвіна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaźvina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "прорытая в земле галлерея",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56229,
+    "raw": "язьвІць (каго) /jaźvić/ - укорять, выговаривать [БН]",
+    "word": "язьвІць",
+    "be_notes": [
+      "каго"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaźvić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "укорять, выговаривать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56230,
+    "raw": "язьдзЕц м. /jaździec/ - наездник, алькор [БН][СБ]",
+    "word": "язьдзЕц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaździec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН",
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "наездник, алькор",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56231,
+    "raw": "язьмЕн м. /jaźmien/ - жасмин [БН]",
+    "word": "язьмЕн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaźmien",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жасмин",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56232,
+    "raw": "язьмЕнны /jaźmienny/ - жасминный [БН]",
+    "word": "язьмЕнны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaźmienny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жасминный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56233,
+    "raw": "ЯзЭп, ЯзЭпус м.ул. /Jazep, Jazepus/ - Иосиф, Осиф",
+    "word": "ЯзЭп, ЯзЭпус",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jazep, Jazepus",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иосиф, Осиф",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56234,
+    "raw": "Яйка м. /jajka/ - яйцо, яичко [БН]",
+    "word": "Яйка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jajka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яйцо, яичко",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56235,
+    "raw": "як /jak/ - 1) как; 2) нежели (при сравн. ст.); 3) в качестве, в роли [БН]",
+    "word": "як",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak",
+    "is_link": false,
+    "ru_notes": [
+      "при сравн. ст."
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "как",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "нежели",
+        "ru_notes": [
+          "при сравн. ст."
+        ]
+      },
+      {
+        "number": "3",
+        "text": "в качестве, в роли",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56236,
+    "raw": "як захацЯ /jak zachacia/ - как угодно, сколько угодно [СН]",
+    "word": "як захацЯ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak zachacia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "как угодно, сколько угодно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56237,
+    "raw": "Як-бы /jak-by/ - как бы, будто бы [БН]",
+    "word": "Як-бы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-by",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "как бы, будто бы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56238,
+    "raw": "як-кОлвек /jak-kołviek/ = (гл. \"як-кольвек\") [ДЛ][СБ]",
+    "word": "як-кОлвек",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-kołviek",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ",
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "як-кольвек"
+  },
+  {
+    "line": 56239,
+    "raw": "як-кОлечы /jak-kolečy/ - как-нибудь [БН]",
+    "word": "як-кОлечы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-kolečy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "как-нибудь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56240,
+    "raw": "як-кОльвек, як-кОльве /jak-kolviek, jak-kolvie/ - 1) как-нибудь; 2) сколь возможно [СН]",
+    "word": "як-кОльвек, як-кОльве",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-kolviek, jak-kolvie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "как-нибудь",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "сколь возможно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56241,
+    "raw": "Як-ліба /jak-liba/ - 1) кое-как; 2) как-нибудь [СН]",
+    "word": "Як-ліба",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-liba",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "кое-как",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "как-нибудь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56242,
+    "raw": "як-нЕбудзь /jak-niebudź/ - 1) как-нибудь [БН]; 2) наскоро; 3) как-угодно [СН]",
+    "word": "як-нЕбудзь",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-niebudź",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН",
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "как-нибудь",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "наскоро",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "как-угодно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56243,
+    "raw": "як-нІбудзь /jak-nibudź/ = (гл. \"як-нібудзь\") [СН]",
+    "word": "як-нІбудзь",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-nibudź",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "як-нібудзь"
+  },
+  {
+    "line": 56244,
+    "raw": "як-хацЯ /jak-chacia/ - 1) как угодно; 2) сколько угодно [БН]",
+    "word": "як-хацЯ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jak-chacia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "как угодно",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "сколько угодно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56245,
+    "raw": "якавО /jakavo/ - каково [СН]",
+    "word": "якавО",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakavo",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "каково",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56246,
+    "raw": "ЯкАнт м.ул. /Jakant/ - Иакин, Акинфий, Гиацинт",
+    "word": "ЯкАнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jakant",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иакин, Акинфий, Гиацинт",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56247,
+    "raw": "Якар м. /jakar/ - 1) питательная часть зерна, в противоположность отрубям; 2) отборныя, лучшего сорта зерна [СН]",
+    "word": "Якар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "питательная часть зерна, в противоположность отрубям",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "отборныя, лучшего сорта зерна",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56248,
+    "raw": "Якар м. /jakar/ - 1) якорь; 2) отборные семена [БН]",
+    "word": "Якар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "якорь",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "отборные семена",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56249,
+    "raw": "Якарка а. /jakarka/ - злой укоритель, -ница, не пропускающий, -ая ничего без упрека или выговора [СН]",
+    "word": "Якарка",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakarka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "злой укоритель, -ница, не пропускающий, -ая ничего без упрека или выговора",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56250,
+    "raw": "Якарны /jakarny/ - отборный, отличный, говорится о хлебных семенах [СН]",
+    "word": "Якарны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakarny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "отборный, отличный, говорится о хлебных семенах",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56251,
+    "raw": "Якарыць /jakaryć/ - укорять, журить [СН]",
+    "word": "Якарыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakaryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "укорять, журить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56252,
+    "raw": "Якасны /jakasny/ - качественный [БН]",
+    "word": "Якасны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakasny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "качественный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56253,
+    "raw": "Якась /jakaś/ - как-то [БН]",
+    "word": "Якась",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakaś",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "как-то",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56254,
+    "raw": "Якасьць ж. /jakaść/ - качество [БН]",
+    "word": "Якасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "качество",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56255,
+    "raw": "якЕй /jakiej/ = (гл. \"які\")",
+    "word": "якЕй",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakiej",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "які"
+  },
+  {
+    "line": 56256,
+    "raw": "якІ /jaki/ - какой [БН]",
+    "word": "якІ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "какой",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56257,
+    "raw": "які-кОлечы /jaki-kolečy/ - какой-нибудь",
+    "word": "які-кОлечы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaki-kolečy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "какой-нибудь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56258,
+    "raw": "які-нЕбудзь /jaki-niebudź/ - какой-либо, какой-нибудь [БН]",
+    "word": "які-нЕбудзь",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaki-niebudź",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "какой-либо, какой-нибудь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56259,
+    "raw": "якІйся /jakijsia/ - какой-то [СН]",
+    "word": "якІйся",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakijsia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "какой-то",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56260,
+    "raw": "ЯкІм м.ул. /Jakim/ - Аким",
+    "word": "ЯкІм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jakim",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Аким",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56261,
+    "raw": "якІсь /jakiś/ - какой-то [БН]",
+    "word": "якІсь",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakiś",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "какой-то",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56262,
+    "raw": "якОў /jakoŭ/ - каков [СН]",
+    "word": "якОў",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakoŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "каков",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56263,
+    "raw": "якОўскі /jakoŭski/ - 1) каковый; 2) как великий [СН]",
+    "word": "якОўскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakoŭski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "каковый",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "как великий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56264,
+    "raw": "якрАз /jakraz/ - 1) точь в точь, именно так; 2) как бы не так; 3) как-же [СН]",
+    "word": "якрАз",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jakraz",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "точь в точь, именно так",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "как бы не так",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "как-же",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56265,
+    "raw": "яксамІт м. /jaksamit/ = (гл. \"аксаміт\") [СБ] (ах.)",
+    "word": "яксамІт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaksamit",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "аксаміт"
+  },
+  {
+    "line": 56266,
+    "raw": "ЯкУб м. /Jakub/ - имя от крещения Яков [СН]",
+    "word": "ЯкУб",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jakub",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя от крещения Яков",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56267,
+    "raw": "ЯкУбка м. /Jakubka/ - яшка [СН]",
+    "word": "ЯкУбка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jakubka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яшка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56268,
+    "raw": "ЯкУбчык м. /Jakubčyk/ - якушка [СН]",
+    "word": "ЯкУбчык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jakubčyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "якушка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56269,
+    "raw": "Якуш, Якаў, ЯкУб, ЯкУсь, Якута м.ул. /Jakuš, Jakaŭ, Jakub, Jakuś, Jakuta/ - Яков, Иаков, Яаков",
+    "word": "Якуш, Якаў, ЯкУб, ЯкУсь, Якута",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jakuš, Jakaŭ, Jakub, Jakuś, Jakuta",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Яков, Иаков, Яаков",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56270,
+    "raw": "Якша, ЯкІм, ЯхІм, ЯкцІсь, ЯхцІсь, ЯкІмка, ЯхІмка м.ул. /Jakša, Jakim, Jachim, Jakciś, Jachciś, Jakimka, Jachimka/ - Иоаким",
+    "word": "Якша, ЯкІм, ЯхІм, ЯкцІсь, ЯхцІсь, ЯкІмка, ЯхІмка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jakša, Jakim, Jachim, Jakciś, Jachciś, Jakimka, Jachimka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иоаким",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56271,
+    "raw": "ялавЕц, ялОвец, ялЕнец м. /jałaviec, jałoviec, jaleniec/ - можжевельник (Iuniperus L) [БН]",
+    "word": "ялавЕц, ялОвец, ялЕнец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałaviec, jałoviec, jaleniec",
+    "is_link": false,
+    "ru_notes": [
+      "Iuniperus L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "можжевельник",
+        "ru_notes": [
+          "Iuniperus L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56272,
+    "raw": "Ялавіна ж. /jałavina/ - поле, много лет находящееся под паром [БН]",
+    "word": "Ялавіна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałavina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "поле, много лет находящееся под паром",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56273,
+    "raw": "Ялавіца, Ялаўка ж. /jałavica, jałaŭka/ - нетельная корова [БН]",
+    "word": "Ялавіца, Ялаўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałavica, jałaŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "нетельная корова",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56274,
+    "raw": "Ялаўка ж. /jałaŭka/ - яловица, не тельная корова [СН]",
+    "word": "Ялаўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałaŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яловица, не тельная корова",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56275,
+    "raw": "ялЕнец м. /jaleniec/ - можжевельник и можжевеловыя ягоды [СН]",
+    "word": "ялЕнец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaleniec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "можжевельник и можжевеловыя ягоды",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56276,
+    "raw": "ялЕц м. /jalec/ - гарда [СБ] (ах. \"елецъ\")(рн.пол. \"jelec\")",
+    "word": "ялЕц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalec",
+    "is_link": false,
+    "ru_notes": [
+      "ах. \"елецъ\"",
+      "рн.пол. \"jelec\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "гарда",
+        "ru_notes": [
+          "ах. \"елецъ\"",
+          "рн.пол. \"jelec\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56277,
+    "raw": "ялІна /jalina/ - ель [СН]",
+    "word": "ялІна",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ель",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56278,
+    "raw": "ялІна, ялІнка ж. /jalina, jalinka/ - 1) ель; 2) еловый шест [БН]",
+    "word": "ялІна, ялІнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalina, jalinka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ель",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "еловый шест",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56279,
+    "raw": "ялІначка ж. /jalinačka/ - ёлочка, ёлка [СН]",
+    "word": "ялІначка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalinačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ёлочка, ёлка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56280,
+    "raw": "ялІты, ялІткі ж. /jality, jalitki/ - яйца (testicula) у самца животных, ядра [СН]",
+    "word": "ялІты, ялІткі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jality, jalitki",
+    "is_link": false,
+    "ru_notes": [
+      "testicula"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яйца у самца животных, ядра",
+        "ru_notes": [
+          "testicula"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56281,
+    "raw": "Яліцца /jalicca/ = (гл. \"ягліцца\") [СН]",
+    "word": "Яліцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalicca",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ягліцца"
+  },
+  {
+    "line": 56282,
+    "raw": "ялІць /jalić/ - 1) колоть, подобно еловой игле, натирать садно; 2) докучать, надоедать [СН]",
+    "word": "ялІць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "колоть, подобно еловой игле, натирать садно",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "докучать, надоедать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56283,
+    "raw": "ялІць /jalić/ - 1) увертываться, делать увертки; 2) вертеться, юлить, быть беспокойну; 3) сильно домогаться, настаивать [СН]",
+    "word": "ялІць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "увертываться, делать увертки",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "вертеться, юлить, быть беспокойну",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "сильно домогаться, настаивать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56284,
+    "raw": "Яліць /jalić/ - имеется желание, сильно хочется [СН]",
+    "word": "Яліць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имеется желание, сильно хочется",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56285,
+    "raw": "ялкАва /jałkava/ - горьковато [БН]",
+    "word": "ялкАва",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałkava",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горьковато",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56286,
+    "raw": "ялкАвасьць ж. /jałkavaść/ - горьковатость, горьковатый вкус [СН]",
+    "word": "ялкАвасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałkavaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горьковатость, горьковатый вкус",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56287,
+    "raw": "ялкАвець /jałkavieć/ - делаться горьковатым, неприятным на вкус [СН]",
+    "word": "ялкАвець",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałkavieć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "делаться горьковатым, неприятным на вкус",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56288,
+    "raw": "ялкАвець /jałkavieć/ - иметь горький привкус [БН]",
+    "word": "ялкАвець",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałkavieć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иметь горький привкус",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56289,
+    "raw": "ялкАвіць /jałkavić/ - допускать что либо прогорькнуть [СН]",
+    "word": "ялкАвіць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałkavić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "допускать что либо прогорькнуть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56290,
+    "raw": "ялкАвы /jałkavy/ - горьковатый, оставляющий неприятный вкус на языке [СН]",
+    "word": "ялкАвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałkavy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горьковатый, оставляющий неприятный вкус на языке",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56291,
+    "raw": "ялмУжная ж. /jałmužnaja/ - милостыня [СН]",
+    "word": "ялмУжная",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałmužnaja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "милостыня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56292,
+    "raw": "ялОвец м. /jałoviec/ - можжевеловыя ягоды [СН]",
+    "word": "ялОвец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałoviec",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "можжевеловыя ягоды",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56293,
+    "raw": "ялОўцавы /jałoŭcavy/ - можжевельниковый [БН]",
+    "word": "ялОўцавы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałoŭcavy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "можжевельниковый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56294,
+    "raw": "ялчЭць /jałčeć/ - горькнуть [БН]",
+    "word": "ялчЭць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałčeć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "горькнуть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56295,
+    "raw": "ялчЭць /jałčeć/ - портиться во вкусе [СН]",
+    "word": "ялчЭць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałčeć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "портиться во вкусе",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56296,
+    "raw": "Яміна ж. /jamina/ - яма [БН]",
+    "word": "Яміна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamina",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яма",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56297,
+    "raw": "Ямка ж. /jamka/ - 1) ямка; 2) место в печи для сгребания жару [БН]",
+    "word": "Ямка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ямка",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "место в печи для сгребания жару",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56298,
+    "raw": "Ямкі ж. /jamki/ - глаза, говорится презрительно [СН]",
+    "word": "Ямкі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "глаза, говорится презрительно",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56299,
+    "raw": "ямпУлка, ямпУлачка ж. /jampułka, jampułačka/ - сосудец с крышкою, в особенности оловянный или медный [СН]",
+    "word": "ямпУлка, ямпУлачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jampułka, jampułačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сосудец с крышкою, в особенности оловянный или медный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56300,
+    "raw": "Ян м. /Jan/ - имя от крещения Иван [СН]",
+    "word": "Ян",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jan",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя от крещения Иван",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56301,
+    "raw": "Янаў /Janaŭ/ - иванов [СН]",
+    "word": "Янаў",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Janaŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иванов",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56302,
+    "raw": "Янаў м.ул. /Janaŭ/ - Иваново",
+    "word": "Янаў",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Janaŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иваново",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56303,
+    "raw": "Яначка м. /Janačka/ - ваничка [СН]",
+    "word": "Яначка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Janačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ваничка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56304,
+    "raw": "яндОўка ж. /jandoŭka/ - яндова [СН]",
+    "word": "яндОўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jandoŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яндова",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56305,
+    "raw": "Янка м. /Janka/ - имя от крещения Иван [СН]",
+    "word": "Янка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Janka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя от крещения Иван",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56306,
+    "raw": "янО /jano/ - пусть [СН]",
+    "word": "янО",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jano",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "пусть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56307,
+    "raw": "янОт м. /janot/ - енот [БН]",
+    "word": "янОт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "janot",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "енот",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56308,
+    "raw": "янчАрка ж. /jančarka/ - короткая коса",
+    "word": "янчАрка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jančarka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "короткая коса",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56309,
+    "raw": "янчУк м. /jančuk/ - лесной жаворонок [БН]",
+    "word": "янчУк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jančuk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лесной жаворонок",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56310,
+    "raw": "янЫ мн. /jany/ - они ",
+    "word": "янЫ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "они",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56311,
+    "raw": "янЭрыка ж. /janeryka/ - щедрость [СБ] (ах. \"енерика\")",
+    "word": "янЭрыка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "janeryka",
+    "is_link": false,
+    "ru_notes": [
+      "ах. \"енерика\""
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "щедрость",
+        "ru_notes": [
+          "ах. \"енерика\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56312,
+    "raw": "ЯпОнія ж.ул. /Japonija/ - Япония [БН]",
+    "word": "ЯпОнія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Japonija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Япония",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56313,
+    "raw": "яравІны /jaraviny/ - яровой [СН]",
+    "word": "яравІны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaraviny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яровой",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56314,
+    "raw": "ярблЮд м. /jarblud/ - верблюд (гл. \"вярблюд\")",
+    "word": "ярблЮд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarblud",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"вярблюд\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "верблюд",
+        "ru_notes": [
+          "гл. \"вярблюд\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56315,
+    "raw": "ЯрдАн м.ул. /Jardan/ - Иордан (рн. \"ярдань\")",
+    "word": "ЯрдАн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jardan",
+    "is_link": false,
+    "ru_notes": [
+      "рн. \"ярдань\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иордан",
+        "ru_notes": [
+          "рн. \"ярдань\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56316,
+    "raw": "ЯрдАнія ж.ул. /Jardanija/ - Иордания",
+    "word": "ЯрдАнія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jardanija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иордания",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56317,
+    "raw": "ярдАнскі /jardanski/ - иорданский",
+    "word": "ярдАнскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jardanski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иорданский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56318,
+    "raw": "ярдАнь ж. /jardań/ - место, где в день Богоявления освящают воду [СН]",
+    "word": "ярдАнь",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jardań",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "место, где в день Богоявления освящают воду",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56319,
+    "raw": "ярдАньскі /jardański/ - освященный в день Богоявления, крещенский [СН]",
+    "word": "ярдАньскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jardański",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "освященный в день Богоявления, крещенский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56320,
+    "raw": "ярзУн м. /jarzun/ = (гл. \"ёрза\") [СН]",
+    "word": "ярзУн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarzun",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ёрза"
+  },
+  {
+    "line": 56321,
+    "raw": "ЯрмАк м. /Jarmak/ - имя от крещения Ермолай [СН]",
+    "word": "ЯрмАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jarmak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имя от крещения Ермолай",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56322,
+    "raw": "Ярмалак, Ярманак м. /jarmałak, jarmanak/ = (гл. \"ярмарак\") [СБ] (ах.)",
+    "word": "Ярмалак, Ярманак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmałak, jarmanak",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "ярмарак"
+  },
+  {
+    "line": 56323,
+    "raw": "Ярмалка ж. /jarmałka/ = (гл. \"ярмарка\") [СН]",
+    "word": "Ярмалка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmałka",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ярмарка"
+  },
+  {
+    "line": 56324,
+    "raw": "ярмалкОвае н. /jarmałkovaje/ - 1) пошлина за позволение торговать на ярмарке; 2) подарок привезенный с ярмарки [СН]",
+    "word": "ярмалкОвае",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmałkovaje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "пошлина за позволение торговать на ярмарке",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "подарок привезенный с ярмарки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56325,
+    "raw": "ярмалкОвы /jarmałkovy/ - ярмарочный [СН]",
+    "word": "ярмалкОвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmałkovy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ярмарочный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56326,
+    "raw": "Ярмарак м. /jarmarak/ - ярмарка, базар [БН][СБ]",
+    "word": "Ярмарак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmarak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН",
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ярмарка, базар",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56327,
+    "raw": "Ярмарка ж. /jarmarka/ - ярмарка, базар [СБ]",
+    "word": "Ярмарка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmarka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ярмарка, базар",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56328,
+    "raw": "ярмаркавАць /jarmarkavać/ - учавствовать в ярмарке, базаре [СБ]",
+    "word": "ярмаркавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmarkavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "учавствовать в ярмарке, базаре",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56329,
+    "raw": "ярмІсты /jarmisty/ - прилагательное от \"ярмо\" ?",
+    "word": "ярмІсты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmisty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "прилагательное от \"ярмо\" ?",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56330,
+    "raw": "ЯрмОйла, ЯрмОл м.ул. /Jarmojła, Jarmoł/ - Ермолай",
+    "word": "ЯрмОйла, ЯрмОл",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jarmojła, Jarmoł",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ермолай",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56331,
+    "raw": "ярмОлачка ж. /jarmołačka/ = (гл. \"ярмолка\") [СН]",
+    "word": "ярмОлачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmołačka",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ярмолка"
+  },
+  {
+    "line": 56332,
+    "raw": "ярмОлка ж. /jarmołka/ - ермолка [БН]",
+    "word": "ярмОлка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmołka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ермолка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56333,
+    "raw": "ЯрмУк м.ул. /Jarmuk/ - 1) Еремий; 2) Ермолай",
+    "word": "ЯрмУк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jarmuk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "Еремий",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "Ермолай",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56334,
+    "raw": "ярмУлка ж. /jarmułka/ - еврейская скуфейка, которою Евреи, кроме шапки, покрывают голову [СН]",
+    "word": "ярмУлка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarmułka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "еврейская скуфейка, которою Евреи, кроме шапки, покрывают голову",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56335,
+    "raw": "ярУха ж. /jarucha/ - 1) досадительница [БН][ВБ]; 2) злая, кусачая [ВБ][ВЛ]; 3) самогон, самогонка; бражка, брага [ВБ] (гл. \"юруха\")",
+    "word": "ярУха",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarucha",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"юруха\""
+    ],
+    "sources": [
+      "БН",
+      "ВБ",
+      "ВБ",
+      "ВЛ",
+      "ВБ"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "досадительница",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "злая, кусачая",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "самогон, самогонка; бражка, брага",
+        "ru_notes": [
+          "гл. \"юруха\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56336,
+    "raw": "яршЫць /jaršyć/ - колоть [СН]",
+    "word": "яршЫць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaršyć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "колоть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56337,
+    "raw": "ярЫга а. /jaryha/ - 1) бродяга, таскающийся по шинкам; 2) взяточник, сутяга [СН]",
+    "word": "ярЫга",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "бродяга, таскающийся по шинкам",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "взяточник, сутяга",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56338,
+    "raw": "ярЫжка м. /jaryžka/ - плутишка, воришка [СН]",
+    "word": "ярЫжка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryžka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "плутишка, воришка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56339,
+    "raw": "ярЫжнік м. /jaryžnik/ = (гл. \"ярыга\") [СН]",
+    "word": "ярЫжнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryžnik",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ярыга"
+  },
+  {
+    "line": 56340,
+    "raw": "ярЫжнічаства н. /jaryžničastva/ - бездельничество [СН]",
+    "word": "ярЫжнічаства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryžničastva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бездельничество",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56341,
+    "raw": "ярЫжнічаць /jaryžničać/ - бездельничать, таскаясь по шинкам [СН]",
+    "word": "ярЫжнічаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryžničać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бездельничать, таскаясь по шинкам",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56342,
+    "raw": "ярЫжны /jaryžny/ - бездельнический, свойственный бродяге [СН]",
+    "word": "ярЫжны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryžny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бездельнический, свойственный бродяге",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56343,
+    "raw": "ЯрЫла, Ярысь, ЯрУк, Ярык м.ул. /Jaryła, Jaryś, Jaruk, Jaryk/ - 1) Ярослав; 2) Георгий, Егор, Юрий",
+    "word": "ЯрЫла, Ярысь, ЯрУк, Ярык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jaryła, Jaryś, Jaruk, Jaryk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "Ярослав",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "Георгий, Егор, Юрий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56344,
+    "raw": "ярЫнА ж. /jaryna/ - яровой хлеб [БН]",
+    "word": "ярЫнА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яровой хлеб",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56345,
+    "raw": "ярЫначка ж. /jarynačka/ = (гл. \"ярына\") [СН] (уменьшительное)",
+    "word": "ярЫначка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarynačka",
+    "is_link": true,
+    "ru_notes": [
+      "уменьшительное"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ярына"
+  },
+  {
+    "line": 56346,
+    "raw": "Ярыца ж. /jaryca/ - яровая рожь [БН]",
+    "word": "Ярыца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яровая рожь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56347,
+    "raw": "ЯрЭма, Ярка м.ул. /Jarema, Jarka/ - Еремей, Еремий, Иеремий",
+    "word": "ЯрЭма, Ярка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jarema, Jarka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Еремей, Еремий, Иеремий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56348,
+    "raw": "ЯсакАр м. /jasakar/ - осокорь (Populus nigra L) [БН][СН]",
+    "word": "ЯсакАр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasakar",
+    "is_link": false,
+    "ru_notes": [
+      "Populus nigra L"
+    ],
+    "sources": [
+      "БН",
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "осокорь",
+        "ru_notes": [
+          "Populus nigra L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56349,
+    "raw": "ясаУл м. /jasauł/ = (гл. \"есаул\") [СБ] (ах.)",
+    "word": "ясаУл",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasauł",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "есаул"
+  },
+  {
+    "line": 56350,
+    "raw": "Ясен м. /jasien/ - ясень (Fraxinus L) [БН]",
+    "word": "Ясен",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasien",
+    "is_link": false,
+    "ru_notes": [
+      "Fraxinus L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ясень",
+        "ru_notes": [
+          "Fraxinus L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56351,
+    "raw": "Ясенька, Ясечка м. /Jasieńka, Jasiečka/ - ваничка, Ваня [СН]",
+    "word": "Ясенька, Ясечка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jasieńka, Jasiečka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ваничка, Ваня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56352,
+    "raw": "Яскарка ж. /jaskarka/ - искорка [БН][СН] (также как нежное обращение)",
+    "word": "Яскарка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaskarka",
+    "is_link": false,
+    "ru_notes": [
+      "также как нежное обращение"
+    ],
+    "sources": [
+      "БН",
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "искорка",
+        "ru_notes": [
+          "также как нежное обращение"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56353,
+    "raw": "яскрАва, яскрАвы /jaskrava, jaskravy/ - ярко, яркий [БН]",
+    "word": "яскрАва, яскрАвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaskrava, jaskravy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ярко, яркий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56354,
+    "raw": "яснавОкі /jasnavoki/ - светлоглазый [БН]",
+    "word": "яснавОкі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasnavoki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "светлоглазый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56355,
+    "raw": "яснаправялЕбны /jasnapravialebny/ - преподобный [СБ] (ах.)",
+    "word": "яснаправялЕбны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasnapravialebny",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "преподобный",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56356,
+    "raw": "яснОта ж. /jasnota/ - ясность [БН]",
+    "word": "яснОта",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasnota",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ясность",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56357,
+    "raw": "яснОтка ж. /jasnotka/ - яснотка (Lamium L) [БН]",
+    "word": "яснОтка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasnotka",
+    "is_link": false,
+    "ru_notes": [
+      "Lamium L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яснотка",
+        "ru_notes": [
+          "Lamium L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56358,
+    "raw": "Ястраб м. /jastrab/ - ястреб [БН]",
+    "word": "Ястраб",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jastrab",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ястреб",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56359,
+    "raw": "ястрабОк м. /jastrabok/ - ястребинка (Hieracium L) [БН]",
+    "word": "ястрабОк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jastrabok",
+    "is_link": false,
+    "ru_notes": [
+      "Hieracium L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ястребинка",
+        "ru_notes": [
+          "Hieracium L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56360,
+    "raw": "Ясь м. /Jaś/ - иван [СН]",
+    "word": "Ясь",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jaś",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "иван",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56361,
+    "raw": "Ясь, Яська м.ул. /Jaś, Jaśka/ - Ваня [БН]",
+    "word": "Ясь, Яська",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jaś, Jaśka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ваня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56362,
+    "raw": "Ясьлі м.мн. /jaśli/ - ясли [БН]",
+    "word": "Ясьлі",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jaśli",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ясли",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56363,
+    "raw": "Ясьпіс м. /jaśpis/ - яшма [БН]",
+    "word": "Ясьпіс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaśpis",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "яшма",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56364,
+    "raw": "ЯсЮк м. /Jasiuk/ - ванюха [СН]",
+    "word": "ЯсЮк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jasiuk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ванюха",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56365,
+    "raw": "ЯсЮленька, ЯсЮля ж.ул. /Jasiuleńka, Jasiula/ - Марусенька [СН]",
+    "word": "ЯсЮленька, ЯсЮля",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jasiuleńka, Jasiula",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Марусенька",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56366,
+    "raw": "ЯсЮта м. /Jasiuta/ - ванюшка [СН]",
+    "word": "ЯсЮта",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "Jasiuta",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ванюшка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56367,
+    "raw": "Ятка ж. /jatka/ - мелочная, подвижная, с харчевыми припасами лавочка [СН]",
+    "word": "Ятка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jatka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мелочная, подвижная, с харчевыми припасами лавочка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56368,
+    "raw": "Яткі ж.мн. /jatki/ - лотки с сметными припасами [БН]",
+    "word": "Яткі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jatki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лотки с сметными припасами",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56369,
+    "raw": "Ятрасьць ж. /jatraść/ - воспаление [БН]",
+    "word": "Ятрасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jatraść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "воспаление",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56370,
+    "raw": "ятрОў ж. /jatroŭ/ = (гл. \"ятроўка\") [СН]",
+    "word": "ятрОў",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jatroŭ",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [],
+    "link": "ятроўка"
+  },
+  {
+    "line": 56371,
+    "raw": "ятрОўка ж. /jatroŭka/ - жена братняя, невестка [СН]",
+    "word": "ятрОўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jatroŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жена братняя, невестка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56372,
+    "raw": "Ятрыцца /jatrycca/ - воспаляться (о ранах) [БН]",
+    "word": "Ятрыцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jatrycca",
+    "is_link": false,
+    "ru_notes": [
+      "о ранах"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "воспаляться",
+        "ru_notes": [
+          "о ранах"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56373,
+    "raw": "Ятрыць /jatryć/ - воспалять (рану), раздражать [БН]",
+    "word": "Ятрыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jatryć",
+    "is_link": false,
+    "ru_notes": [
+      "рану"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "воспалять , раздражать",
+        "ru_notes": [
+          "рану"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 56374,
+    "raw": "Яўкала а. /jaŭkała/ - 1) крикун, крикунья; 2) попрошайка [СН]",
+    "word": "Яўкала",
+    "be_notes": [],
+    "gender": "а",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaŭkała",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "крикун, крикунья",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "попрошайка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56375,
+    "raw": "Яўканьне н. /jaŭkańnie/ - 1) детский плач, сопровождаемый просьбами; 2) лаяние собаки, тявканье [СН]",
+    "word": "Яўканьне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaŭkańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "детский плач, сопровождаемый просьбами",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "лаяние собаки, тявканье",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56376,
+    "raw": "Яўкаць /jaŭkać/ - 1) тявкать, лаять; 2) попрошайничать, вымаливать, выпрашивать; 3) плакать от боли [СН]",
+    "word": "Яўкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaŭkać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "тявкать, лаять",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "попрошайничать, вымаливать, выпрашивать",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "плакать от боли",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56377,
+    "raw": "ЯўлІна, ЯўлІта, ЯўлІся, ЯўлЮта, ЯўлЮся ж.ул. /Jaŭlina, Jaŭlita, Jaŭlisia, Jaŭluta, Jaŭlusia/ - Эвелина [АН]",
+    "word": "ЯўлІна, ЯўлІта, ЯўлІся, ЯўлЮта, ЯўлЮся",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jaŭlina, Jaŭlita, Jaŭlisia, Jaŭluta, Jaŭlusia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "АН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Эвелина",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56378,
+    "raw": "Яўля ж. /jaŭla/ - появление, явка [СН]",
+    "word": "Яўля",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaŭla",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "появление, явка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56379,
+    "raw": "ЯўцІся ж.ул. /Jaŭcisia/ - Ева",
+    "word": "ЯўцІся",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jaŭcisia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ева",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56380,
+    "raw": "яхЕрнік м. /jachiernik/ - хитрец, лукавец [СН]",
+    "word": "яхЕрнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jachiernik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрец, лукавец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56381,
+    "raw": "яхЕрнічак м. /jachierničak/ - льстец [СН]",
+    "word": "яхЕрнічак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jachierničak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "льстец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56382,
+    "raw": "яхЕрства н. /jachierstva/ - лукавство, лесть [СН]",
+    "word": "яхЕрства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jachierstva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лукавство, лесть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56383,
+    "raw": "яхЕрыць /jachieryć/ - хитрить, лукавить, льстить, надувать [СН]",
+    "word": "яхЕрыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jachieryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрить, лукавить, льстить, надувать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56384,
+    "raw": "ЯхІм, ЯхІмка м.ул. /Jachim, Jachimka/ - Ефимий",
+    "word": "ЯхІм, ЯхІмка",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jachim, Jachimka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ефимий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56385,
+    "raw": "Яц, Якша, Якта, Якаў, Якуб, ЯкУта, ЯкУсь, ЯктУк, ЯкціЯк м.ул. /Jac, Jakša, Jakta, Jakaŭ, Jakub, Jakuta, Jakuś, Jaktuk, Jakcijak/ - Иаков",
+    "word": "Яц, Якша, Якта, Якаў, Якуб, ЯкУта, ЯкУсь, ЯктУк, ЯкціЯк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Jac, Jakša, Jakta, Jakaŭ, Jakub, Jakuta, Jakuś, Jaktuk, Jakcijak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Иаков",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56386,
+    "raw": "Яцтва н. /jactva/ = (гл. \"няцтва\") [СБ] (ах.)",
+    "word": "Яцтва",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jactva",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "няцтва"
+  },
+  {
+    "line": 56387,
+    "raw": "яцьвЕж м. /jaćviež/ = (гл. \"яцьвяг\") (дл. \"ятвеж\")",
+    "word": "яцьвЕж",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaćviež",
+    "is_link": true,
+    "ru_notes": [
+      "дл. \"ятвеж\""
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яцьвяг"
+  },
+  {
+    "line": 56388,
+    "raw": "Ячачка ж. /jačačka/ - ячейчка [БН]",
+    "word": "Ячачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ячейчка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56389,
+    "raw": "Ячка ж. /jačka/ - ячейка [БН]",
+    "word": "Ячка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ячейка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56390,
+    "raw": "Ячны /jačny/ - ячменный [БН]",
+    "word": "Ячны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ячменный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56391,
+    "raw": "Яшка ж. /jaška/ - шайка, деревянная посудина с ручкою для черпания воды, употребляемая в бане [СН]",
+    "word": "Яшка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaška",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шайка, деревянная посудина с ручкою для черпания воды, употребляемая в бане",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56392,
+    "raw": "Яшчар м. /jaščar/ - 1) ящер, дракон; 2) болезнь в горле [БН]",
+    "word": "Яшчар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaščar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ящер, дракон",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "болезнь в горле",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56393,
+    "raw": "Яшчарка ж. /jaščarka/ - 1) ящерица; 2) мальчик или девочка с вытаращенными живыми глазами, особенно любящие подсматривать [СН]",
+    "word": "Яшчарка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaščarka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ящерица",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "мальчик или девочка с вытаращенными живыми глазами, особенно любящие подсматривать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56394,
+    "raw": "Яшчарка ж. /jaščarka/ - ящерица [БН]",
+    "word": "Яшчарка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaščarka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ящерица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56395,
+    "raw": "яшчарЫны /jaščaryny/ - свойственный ящерице [СН]",
+    "word": "яшчарЫны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaščaryny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "свойственный ящерице",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56396,
+    "raw": "Яшчарыць /jaščaryć/ - таращить [СН]",
+    "word": "Яшчарыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaščaryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "таращить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 56642,
+    "raw": "Яма ж. /jama/ = (гл. \"баня\") (дл.)",
+    "word": "Яма",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jama",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "баня"
+  },
+  {
+    "line": 56789,
+    "raw": "Ялаў м. /jałaŭ/ = (гл. \"вадаскід\") (дл.)",
+    "word": "Ялаў",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałaŭ",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "вадаскід"
+  },
+  {
+    "line": 56790,
+    "raw": "Ялава н. /jałava/ = (гл. \"вадаскід\") (дл.)",
+    "word": "Ялава",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałava",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "вадаскід"
+  },
+  {
+    "line": 56791,
+    "raw": "ялавО н. /jałavo/ = (гл. \"вадаскід\") (дл.)",
+    "word": "ялавО",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałavo",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "вадаскід"
+  },
+  {
+    "line": 57334,
+    "raw": "яльлЁ н. /jallo/ = (гл. \"ельнік\") (дл.)",
+    "word": "яльлЁ",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jallo",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ельнік"
+  },
+  {
+    "line": 57336,
+    "raw": "Ярый м. /jaryj/ = (гл. \"ернік\") (дл.)",
+    "word": "Ярый",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryj",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57337,
+    "raw": "Явір м. /javir/ = (гл. \"ернік\") (дл.)",
+    "word": "Явір",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javir",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57338,
+    "raw": "явіррО н. /javirro/ = (гл. \"ернік\") (дл. \"явіррё\")",
+    "word": "явіррО",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javirro",
+    "is_link": true,
+    "ru_notes": [
+      "дл. \"явіррё\""
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57339,
+    "raw": "Явірнік м. /javirnik/ = (гл. \"ернік\") (дл.)",
+    "word": "Явірнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javirnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57340,
+    "raw": "ЯвірнІшча н. /javirnišča/ = (гл. \"ернік\") (дл.)",
+    "word": "ЯвірнІшча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javirnišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57341,
+    "raw": "Явірышча н. /javiryšča/ = (гл. \"ернік\") (дл.)",
+    "word": "Явірышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javiryšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57342,
+    "raw": "явірняччО н. /javirniaččo/ = (гл. \"ернік\") (дл.)",
+    "word": "явірняччО",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javirniaččo",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ернік"
+  },
+  {
+    "line": 57603,
+    "raw": "Яшчур м. /jaščur/ = (гл. \"застава\") (дл.)",
+    "word": "Яшчур",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaščur",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "застава"
+  },
+  {
+    "line": 57791,
+    "raw": "Ямка /jamka/ = (гл. \"капальня\") (дл.)",
+    "word": "Ямка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "капальня"
+  },
+  {
+    "line": 58157,
+    "raw": "Ямка /jamka/ = (гл. \"капальня\") (дл.)",
+    "word": "Ямка",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "капальня"
+  },
+  {
+    "line": 59522,
+    "raw": "ялавінА ж. /jałavina/ = (гл. \"цаліна\") (дл.)",
+    "word": "ялавінА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałavina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "цаліна"
+  },
+  {
+    "line": 59666,
+    "raw": "Ярай м. /jaraj/ = (гл. \"явар\") (дл.)",
+    "word": "Ярай",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaraj",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "явар"
+  },
+  {
+    "line": 59667,
+    "raw": "Яварышча н. /javaryšča/ = (гл. \"явар\") (дл.)",
+    "word": "Яварышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "javaryšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "явар"
+  },
+  {
+    "line": 59668,
+    "raw": "ягОднік м. /jahodnik/ = (гл. \"ягаднік\") (дл.)",
+    "word": "ягОднік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jahodnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ягаднік"
+  },
+  {
+    "line": 59669,
+    "raw": "ядлЕнец м. /jadleniec/ = (гл. \"ядловец\") (дл.)",
+    "word": "ядлЕнец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jadleniec",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ядловец"
+  },
+  {
+    "line": 59670,
+    "raw": "ялЯжнік м. /jalažnik/ = (гл. \"ядловец\") (дл.)",
+    "word": "ялЯжнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jalažnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ядловец"
+  },
+  {
+    "line": 59671,
+    "raw": "ялЕнец м. /jaleniec/ = (гл. \"ядловец\") (дл.)",
+    "word": "ялЕнец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaleniec",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ядловец"
+  },
+  {
+    "line": 59672,
+    "raw": "ялавЕц м. /jałaviec/ = (гл. \"ядловец\") (дл.)",
+    "word": "ялавЕц",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałaviec",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ядловец"
+  },
+  {
+    "line": 59673,
+    "raw": "язОвішча н. /jazovišča/ = (гл. \"яз\") (дл.)",
+    "word": "язОвішча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazovišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59674,
+    "raw": "язОўе н. /jazoŭje/ = (гл. \"яз\") (дл.)",
+    "word": "язОўе",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazoŭje",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59675,
+    "raw": "язЫ мн. /jazy/ = (гл. \"яз\") (дл.)",
+    "word": "язЫ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "jazy",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59676,
+    "raw": "Язік м. /jazik/ = (гл. \"яз\") (дл.)",
+    "word": "Язік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59677,
+    "raw": "язОк м. /jazok/ = (гл. \"яз\") (дл.)",
+    "word": "язОк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jazok",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59678,
+    "raw": "Ясачка ж. /jasačka/ = (гл. \"яз\") (дл.)",
+    "word": "Ясачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasačka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59679,
+    "raw": "ясва ж. /jasva/ = (гл. \"яз\") (дл.)",
+    "word": "ясва",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasva",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59680,
+    "raw": "Яска ж. /jaska/ = (гл. \"яз\") (дл.)",
+    "word": "Яска",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaska",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яз"
+  },
+  {
+    "line": 59681,
+    "raw": "ялавіна ж. /jałavina/ = (гл. \"цаліна\") (дл.)",
+    "word": "ялавіна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałavina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "цаліна"
+  },
+  {
+    "line": 59682,
+    "raw": "Ялавіньне н. /jałavińnie/ = (гл. \"ялавіна\") (дл.)",
+    "word": "Ялавіньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałavińnie",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ялавіна"
+  },
+  {
+    "line": 59684,
+    "raw": "Ялава ж. /jałava/ = (гл. \"вадаскід\") (дл.)",
+    "word": "Ялава",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałava",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "вадаскід"
+  },
+  {
+    "line": 59685,
+    "raw": "ялінА ж. /jałina/ = (гл. \"яліна\") (дл.)",
+    "word": "ялінА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jałina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яліна"
+  },
+  {
+    "line": 59686,
+    "raw": "Яміна ж. /jamina/ = (гл. \"яма\") (дл.)",
+    "word": "Яміна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яма"
+  },
+  {
+    "line": 59687,
+    "raw": "Ямінка ж. /jaminka/ = (гл. \"яма\") (дл.)",
+    "word": "Ямінка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaminka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яма"
+  },
+  {
+    "line": 59689,
+    "raw": "Ямка ж. /jamka/ = (гл. \"капальня\") (дл.)",
+    "word": "Ямка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "капальня"
+  },
+  {
+    "line": 59690,
+    "raw": "ЯмчынА ж. /jamčyna/ = (гл. \"яма\") (дл.)",
+    "word": "ЯмчынА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamčyna",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яма"
+  },
+  {
+    "line": 59691,
+    "raw": "Яміна ж. /jamina/ = (гл. \"яма\") (дл.)",
+    "word": "Яміна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яма"
+  },
+  {
+    "line": 59692,
+    "raw": "Ямка ж. /jamka/ = (гл. \"капальня\") (дл.)",
+    "word": "Ямка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamka",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "капальня"
+  },
+  {
+    "line": 59693,
+    "raw": "Ямнуцьце н. /jamnućcie/ = (гл. \"ямнае\") (дл.)",
+    "word": "Ямнуцьце",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamnućcie",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ямнае"
+  },
+  {
+    "line": 59694,
+    "raw": "Ямачча н. /jamačča/ = (гл. \"ямнае\") (дл.)",
+    "word": "Ямачча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamačča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ямнае"
+  },
+  {
+    "line": 59695,
+    "raw": "Ямкіньня н. /jamkińnia/ = (гл. \"ямнае\") (дл.)",
+    "word": "Ямкіньня",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jamkińnia",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ямнае"
+  },
+  {
+    "line": 59696,
+    "raw": "яравІна ж. /jaravina/ = (гл. \"яр\") (дл.)",
+    "word": "яравІна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaravina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яр"
+  },
+  {
+    "line": 59697,
+    "raw": "яравІшча н. /jaravišča/ = (гл. \"яр\") (дл.)",
+    "word": "яравІшча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaravišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яр"
+  },
+  {
+    "line": 59698,
+    "raw": "яравОе н. /jaravoje/ = (гл. \"яр\") (дл.)",
+    "word": "яравОе",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaravoje",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яр"
+  },
+  {
+    "line": 59699,
+    "raw": "ярынА ж. /jaryna/ = (гл. \"яр\") (дл.)",
+    "word": "ярынА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryna",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яр"
+  },
+  {
+    "line": 59700,
+    "raw": "Ярына ж. /jaryna/ = (гл. \"яр\") (дл.)",
+    "word": "Ярына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryna",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яр"
+  },
+  {
+    "line": 59702,
+    "raw": "яругА ж. /jaruha/ = (гл. \"яруга\") (дл.)",
+    "word": "яругА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaruha",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "яруга"
+  },
+  {
+    "line": 59703,
+    "raw": "Ярывічышча н. /jaryvičyšča/ = (гл. \"ярывішча\") (дл.)",
+    "word": "Ярывічышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryvičyšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ярывішча"
+  },
+  {
+    "line": 59704,
+    "raw": "Ярычышча н. /jaryčyšča/ = (гл. \"ярывішча\") (дл.)",
+    "word": "Ярычышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryčyšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ярывішча"
+  },
+  {
+    "line": 59705,
+    "raw": "Ярышча н. /jaryšča/ = (гл. \"ярывішча\") (дл.)",
+    "word": "Ярышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jaryšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ярывішча"
+  },
+  {
+    "line": 59706,
+    "raw": "Ярнае н. /jarnaje/ = (гл. \"ярывішча\") (дл.)",
+    "word": "Ярнае",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jarnaje",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ярывішча"
+  },
+  {
+    "line": 59707,
+    "raw": "Ясень м. /jasień/ = (гл. \"ясяніна\") (дл.)",
+    "word": "Ясень",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasień",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ясяніна"
+  },
+  {
+    "line": 59708,
+    "raw": "ясенінА ж. /jasienina/ = (гл. \"ясяніна\") (дл.)",
+    "word": "ясенінА",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasienina",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ясяніна"
+  },
+  {
+    "line": 59709,
+    "raw": "Ясеньнік м. /jasieńnik/ = (гл. \"ясяніна\") (дл.)",
+    "word": "Ясеньнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasieńnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ясяніна"
+  },
+  {
+    "line": 59710,
+    "raw": "ясяньнІк м. /jasiańnik/ = (гл. \"ясяніна\") (дл.)",
+    "word": "ясяньнІк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jasiańnik",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ясяніна"
+  },
+  {
+    "line": 59711,
+    "raw": "Ячаньне н. /jačańnie/ = (гл. \"ячнішча\") (дл.)",
+    "word": "Ячаньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačańnie",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ячнішча"
+  },
+  {
+    "line": 59712,
+    "raw": "ячмЕнічышча н. /jačmieničyšča/ = (гл. \"ячнішча\") (дл.)",
+    "word": "ячмЕнічышча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačmieničyšča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ячнішча"
+  },
+  {
+    "line": 59713,
+    "raw": "ячмЕнішча н. /jačmienišča/ = (гл. \"ячнішча\") (дл.)",
+    "word": "ячмЕнішча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačmienišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ячнішча"
+  },
+  {
+    "line": 59715,
+    "raw": "ячмЯнішча н. /jačmianišča/ = (гл. \"ячнішча\") (дл.)",
+    "word": "ячмЯнішча",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "jačmianišča",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "ячнішча"
+  }
+]

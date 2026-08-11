@@ -1,0 +1,4337 @@
+[
+  {
+    "line": 52151,
+    "raw": "фАбрыка ж. /fabryka/ - 1) фабрика; 2) завод [БН]",
+    "word": "фАбрыка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fabryka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фабрика",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "завод",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52152,
+    "raw": "фАбрыка ж. /fabryka/ - 1) фабрика; 2) завод [БН] (гл. \"хвабрыка\")",
+    "word": "фАбрыка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fabryka",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"хвабрыка\""
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фабрика",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "завод",
+        "ru_notes": [
+          "гл. \"хвабрыка\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52153,
+    "raw": "фабрыкАнт м. /fabrykant/ - 1) фабрикант; 2) заводчик [БН]",
+    "word": "фабрыкАнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fabrykant",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фабрикант",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "заводчик",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52154,
+    "raw": "фАер м. /fajer/ - жар, строгое взыскание [СН]",
+    "word": "фАер",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fajer",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жар, строгое взыскание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52155,
+    "raw": "фАйка ж. /fajka/ - трубка для курения",
+    "word": "фАйка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fajka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "трубка для курения",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52156,
+    "raw": "файт /fajt/ - хвать [СН]",
+    "word": "файт",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fajt",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хвать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52157,
+    "raw": "фалбОны ж.мн. /fałbony/ = (гл. \"фальбоны\") [ДЛ]",
+    "word": "фалбОны",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "fałbony",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальбоны"
+  },
+  {
+    "line": 52158,
+    "raw": "фалЕтар м. /faletar/ - форейтор [СН]",
+    "word": "фалЕтар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "faletar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "форейтор",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52159,
+    "raw": "фалш ж. /fałš/ = (гл. \"фальш\") [ДЛ]",
+    "word": "фалш",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałš",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальш"
+  },
+  {
+    "line": 52160,
+    "raw": "фалш м. /fałš/ - 1) ложь; 2) подлог; 3) недостаток [СН]",
+    "word": "фалш",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ложь",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "подлог",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "недостаток",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52161,
+    "raw": "фалшавАны /fałšavany/ - подделанный [СН]",
+    "word": "фалшавАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałšavany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подделанный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52162,
+    "raw": "фалшавАны /fałšavany/ = (гл. \"фальшаваны\") [ДЛ]",
+    "word": "фалшавАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałšavany",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальшаваны"
+  },
+  {
+    "line": 52163,
+    "raw": "фалшавАньне н. /fałšavańnie/ = (гл. \"фальшаваньне\") [ДЛ]",
+    "word": "фалшавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałšavańnie",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальшаваньне"
+  },
+  {
+    "line": 52164,
+    "raw": "фалшавАць (што) /fałšavać/ = (гл. \"фальшаваць\") [ДЛ]",
+    "word": "фалшавАць",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałšavać",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальшаваць"
+  },
+  {
+    "line": 52165,
+    "raw": "фалшЫвасьць ж. /fałšyvaść/ = (гл. \"фальшывасьць\") [ДЛ]",
+    "word": "фалшЫвасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałšyvaść",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальшывасьць"
+  },
+  {
+    "line": 52166,
+    "raw": "фалшЫвы /fałšyvy/ = (гл. \"фальшывы\") [ДЛ]",
+    "word": "фалшЫвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałšyvy",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фальшывы"
+  },
+  {
+    "line": 52167,
+    "raw": "фальбОны ж. /falbony/ - оборки [СН]",
+    "word": "фальбОны",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falbony",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "оборки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52168,
+    "raw": "фальбОны ж.мн. /falbony/ - оборки (рубашки) [БН]",
+    "word": "фальбОны",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "falbony",
+    "is_link": false,
+    "ru_notes": [
+      "рубашки"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "оборки",
+        "ru_notes": [
+          "рубашки"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52169,
+    "raw": "фАлька ж. /falka/ - см. {ФАля} [СН]",
+    "word": "фАлька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "см. {ФАля}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52170,
+    "raw": "фальш ж. /falš/ - фальшь, ложь, обман [БН]",
+    "word": "фальш",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фальшь, ложь, обман",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52171,
+    "raw": "фальшавАны /falšavany/ - подделанный [БН]",
+    "word": "фальшавАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšavany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подделанный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52172,
+    "raw": "фальшавАньне н. /falšavańnie/ - подделка, фальсификация [БН]",
+    "word": "фальшавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подделка, фальсификация",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52173,
+    "raw": "фальшавАць (што) /falšavać/ - подделывать [БН]",
+    "word": "фальшавАць",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подделывать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52174,
+    "raw": "фальшавАць /falšavać/ - 1) фальшивить, плутовать; 2) лукавить [СН]",
+    "word": "фальшавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фальшивить, плутовать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "лукавить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52175,
+    "raw": "фальшОваны /falšovany/ - то же, что {ФалшевАный} [СН]",
+    "word": "фальшОваны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšovany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ФалшевАный}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52176,
+    "raw": "фальшЫвасьць ж. /falšyvaść/ - неискренность, лукавство [БН]",
+    "word": "фальшЫвасьць",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšyvaść",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "неискренность, лукавство",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52177,
+    "raw": "фальшЫвы /falšyvy/ - фальшивый, лукавый [БН]",
+    "word": "фальшЫвы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falšyvy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фальшивый, лукавый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52178,
+    "raw": "фАля, фАлька ж. /fala, falka/ - дама в игральных картах [СН]",
+    "word": "фАля, фАлька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fala, falka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "дама в игральных картах",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52179,
+    "raw": "фамІлія ж. /familija/ - семья, род, родня",
+    "word": "фамІлія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "familija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "семья, род, родня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52180,
+    "raw": "фанабЭрысты /fanaberysty/ - чванный, спесивый [БН]",
+    "word": "фанабЭрысты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fanaberysty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чванный, спесивый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52181,
+    "raw": "фанабЭрыя ж. /fanaberyja/ - чванство, спесь [БН]",
+    "word": "фанабЭрыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fanaberyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чванство, спесь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52182,
+    "raw": "фанастЭнія ж. /fanastenija/ - фонастения",
+    "word": "фанастЭнія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fanastenija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фонастения",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52183,
+    "raw": "фантазьявАньне н. /fantaźjavańnie/ - фантазирование [БН]",
+    "word": "фантазьявАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fantaźjavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фантазирование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52184,
+    "raw": "фантазьявАць /fantaźjavać/ - фантазировать [БН]",
+    "word": "фантазьявАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fantaźjavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фантазировать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52185,
+    "raw": "фанцЫбэр м. /fancyber/ - чистое серебро, выжигаемое из парчи и галуновъ; выжига [СН]",
+    "word": "фанцЫбэр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fancyber",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чистое серебро, выжигаемое из парчи и галуновъ; выжига",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52186,
+    "raw": "фАра ж. /fara/ - городская, приходская римско-католическая церковь [СН]",
+    "word": "фАра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fara",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "городская, приходская римско-католическая церковь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52187,
+    "raw": "ФарангАйт м.ул. /Faranhajt/ - Фаренгейт",
+    "word": "ФарангАйт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Faranhajt",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Фаренгейт",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52188,
+    "raw": "фАрба ж. /farba/ - 1) краска; 2) краситель; 3) окраска; 4) карточная масть [СН]",
+    "word": "фАрба",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farba",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "краска",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "краситель",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "окраска",
+        "ru_notes": []
+      },
+      {
+        "number": "4",
+        "text": "карточная масть",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52189,
+    "raw": "фАрба ж. /farba/ - краска [БН]",
+    "word": "фАрба",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farba",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "краска",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52190,
+    "raw": "фарбавАньне н. /farbavańnie/ - окрашивание [БН]",
+    "word": "фарбавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "окрашивание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52191,
+    "raw": "фарбавАцца /farbavacca/ - 1) краситься, быть в окраске; 2) румяниться [СН]",
+    "word": "фарбавАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbavacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "краситься, быть в окраске",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "румяниться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52192,
+    "raw": "фарбавАцца /farbavacca/ - краситься [БН]",
+    "word": "фарбавАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbavacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "краситься",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52193,
+    "raw": "фарбавАць (што) /farbavać/ - красить [БН]",
+    "word": "фарбавАць",
+    "be_notes": [
+      "што"
+    ],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52194,
+    "raw": "фарбавАць /farbavać/ - 1) красить, покрывать краскою; 2) окрашивать; 3) подкрашивать, сурмить [СН]",
+    "word": "фарбавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "красить, покрывать краскою",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "окрашивать",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "подкрашивать, сурмить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52195,
+    "raw": "фарбОваны /farbovany/ - крашеный [СН]",
+    "word": "фарбОваны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbovany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "крашеный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52196,
+    "raw": "фарбОнкі ж. /farbonki/ - оборки, воланы, вышитые красною кумачною ниткою [СН]",
+    "word": "фарбОнкі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farbonki",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "оборки, воланы, вышитые красною кумачною ниткою",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52197,
+    "raw": "фарбОты ж. /farboty/ - простыя, ручныя кружева, с примесью красных ниток [СН]",
+    "word": "фарбОты",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farboty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "простыя, ручныя кружева, с примесью красных ниток",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52198,
+    "raw": "фарбОты ж.мн. /farboty/ - кружева [БН]",
+    "word": "фарбОты",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "farboty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "кружева",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52199,
+    "raw": "фарбОты мн. /farbota/ = (гл. \"карункі\") [СБ] (ах.)",
+    "word": "фарбОты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "farbota",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "карункі"
+  },
+  {
+    "line": 52200,
+    "raw": "фарбОўка ж. /farboŭka/ - окраска [БН]",
+    "word": "фарбОўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farboŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "окраска",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52201,
+    "raw": "фарбОўнік м. /farboŭnik/ - красящее вещество [БН]",
+    "word": "фарбОўнік",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farboŭnik",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красящее вещество",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52202,
+    "raw": "фарбОўны /farboŭny/ - красильный [БН]",
+    "word": "фарбОўны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farboŭny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красильный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52203,
+    "raw": "фарбОўня ж. /farboŭnia/ - красильня [БН]",
+    "word": "фарбОўня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farboŭnia",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красильня",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52204,
+    "raw": "фарбОўшчык м. /farboŭščyk/ - красильщик, -щица [СН]",
+    "word": "фарбОўшчык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farboŭščyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красильщик, -щица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52205,
+    "raw": "фармазОн м. /farmazon/ - масон, богоотступник [СН]",
+    "word": "фармазОн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farmazon",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "масон, богоотступник",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52206,
+    "raw": "фарнапІкс м. /farnapiks/ - жестокое истязание [СН]",
+    "word": "фарнапІкс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farnapiks",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жестокое истязание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52207,
+    "raw": "фарсІсты /farsisty/ - франтоватый [БН]",
+    "word": "фарсІсты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farsisty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франтоватый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52208,
+    "raw": "фарсІць /farsić/ - франтить [БН]",
+    "word": "фарсІць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farsić",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франтить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52209,
+    "raw": "фарсУн м. /farsun/ - франт [БН]",
+    "word": "фарсУн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farsun",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франт",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52210,
+    "raw": "фарсУха ж. /farsucha/ - франтиха [БН]",
+    "word": "фарсУха",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farsucha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франтиха",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52211,
+    "raw": "фартУна, фартУнка ж. /fartuna, fartunka/ - имение, поместье, поместьице [СН]",
+    "word": "фартУна, фартУнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fartuna, fartunka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "имение, поместье, поместьице",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52212,
+    "raw": "фартУна, фуртУна ж. /fartuna, furtuna/ - фортуна [СБ]",
+    "word": "фартУна, фуртУна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fartuna, furtuna",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фортуна",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52213,
+    "raw": "фартУх м. /fartuch/ - фартук [БН]",
+    "word": "фартУх",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fartuch",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фартук",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52214,
+    "raw": "фартЭца ж. /farteca/ - форт, фортеция (гл. \"форт\")",
+    "word": "фартЭца",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farteca",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"форт\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "форт, фортеция",
+        "ru_notes": [
+          "гл. \"форт\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52215,
+    "raw": "фАрфалі ж. /farfali/ - мелко изрубленное, высушенное пшеничное тесто, в роде перловых круп [СН]",
+    "word": "фАрфалі",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "farfali",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "мелко изрубленное, высушенное пшеничное тесто, в роде перловых круп",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52216,
+    "raw": "фарЫна ж. /faryna/ - бочка (дл.)",
+    "word": "фарЫна",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "faryna",
+    "is_link": false,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "бочка",
+        "ru_notes": [
+          "дл."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52217,
+    "raw": "фАска ж. /faska/ - кадочка с ушками [БН]",
+    "word": "фАска",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "faska",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "кадочка с ушками",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52218,
+    "raw": "фасОля ж. /fasola/ - фасоль (Phasolus L) [БН]",
+    "word": "фасОля",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fasola",
+    "is_link": false,
+    "ru_notes": [
+      "Phasolus L"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фасоль",
+        "ru_notes": [
+          "Phasolus L"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52219,
+    "raw": "фасОніцца /fasonicca/ - гнаться за модой, наряжаться, украшаться [ВБ]",
+    "word": "фасОніцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fasonicca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "ВБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "гнаться за модой, наряжаться, украшаться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52220,
+    "raw": "фастрЫга ж. /fastryha/ - 1) приметка; 2) нитка, которою приметано [СН]",
+    "word": "фастрЫга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fastryha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "приметка",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "нитка, которою приметано",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52221,
+    "raw": "фастрЫга ж. /fastryha/ - приметка (нитка) [БН]",
+    "word": "фастрЫга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fastryha",
+    "is_link": false,
+    "ru_notes": [
+      "нитка"
+    ],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "приметка",
+        "ru_notes": [
+          "нитка"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52222,
+    "raw": "фастрыгавАньне н. /fastryhavańnie/ - приметывание [СН]",
+    "word": "фастрыгавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fastryhavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "приметывание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52223,
+    "raw": "фастрыгавАньне н. /fastryhavańnie/ - примётывание ниток [БН]",
+    "word": "фастрыгавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fastryhavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "примётывание ниток",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52224,
+    "raw": "фатЫга ж. /fatyha/ - беспокойство, хлопоты [БН]",
+    "word": "фатЫга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fatyha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "беспокойство, хлопоты",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52225,
+    "raw": "фатЭля ж. /fatela/ - кресло (гл. \"фатэль\")",
+    "word": "фатЭля",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fatela",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"фатэль\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "кресло",
+        "ru_notes": [
+          "гл. \"фатэль\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52226,
+    "raw": "фацЭтны /facetny/ - смешной, забавный [БН]",
+    "word": "фацЭтны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "facetny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "смешной, забавный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52227,
+    "raw": "фІга ж. /fiha/ - шиш [СН]",
+    "word": "фІга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fiha",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шиш",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52228,
+    "raw": "фІга ж. /fiha/ = (гл. \"хвІга\") [БН]",
+    "word": "фІга",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fiha",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [],
+    "link": "хвІга"
+  },
+  {
+    "line": 52229,
+    "raw": "фІгля ж. /fihla/ - изворот (более употреб. во мн.) [СН]",
+    "word": "фІгля",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihla",
+    "is_link": false,
+    "ru_notes": [
+      "более употреб. во мн."
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "изворот",
+        "ru_notes": [
+          "более употреб. во мн."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52230,
+    "raw": "фіглявАць /fihlavać/ - делать извороты, хитрить [СН]",
+    "word": "фіглявАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihlavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "делать извороты, хитрить",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52231,
+    "raw": "фІгура ж. /fihura/ - 1) лице, особа, имеющая значение, важность; 2) стан, рост [СН]",
+    "word": "фІгура",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihura",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "лице, особа, имеющая значение, важность",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "стан, рост",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52232,
+    "raw": "фігУра ж. /fihura/ - 1) то же, что {ФИгура} в обоих знач; 2) наружный вид, очертание предмета, образец [СН]",
+    "word": "фігУра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihura",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "то же, что {ФИгура} в обоих знач",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "наружный вид, очертание предмета, образец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52233,
+    "raw": "фігуравАньне н. /fihuravańnie/ - жеманство [СН]",
+    "word": "фігуравАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihuravańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жеманство",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52234,
+    "raw": "фігуравАньне н. /fihuravańnie/ - рисовка, жеманство [БН]",
+    "word": "фігуравАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihuravańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "рисовка, жеманство",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52235,
+    "raw": "фігуравАцца /fihuravacca/ - жеманничать [БН]",
+    "word": "фігуравАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihuravacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жеманничать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52236,
+    "raw": "фігуравАцца /fihuravacca/ - представлять важное лицо или жеманиться [СН]",
+    "word": "фігуравАцца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihuravacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "представлять важное лицо или жеманиться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52237,
+    "raw": "фігуравАць /fihuravać/ - важничать [БН]",
+    "word": "фігуравАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihuravać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "важничать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52238,
+    "raw": "фігурАнт м. /fihurant/ - жеманник [БН]",
+    "word": "фігурАнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurant",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жеманник",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52239,
+    "raw": "фігурАнт м. /fihurant/ - франт [СН]",
+    "word": "фігурАнт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurant",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франт",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52240,
+    "raw": "фігурАнтка ж. /fihurantka/ - жеманница [БН]",
+    "word": "фігурАнтка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurantka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "жеманница",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52241,
+    "raw": "фігурАнтка ж. /fihurantka/ - франтиха [СН]",
+    "word": "фігурАнтка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurantka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франтиха",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52242,
+    "raw": "фігУрачка ж. /fihuračka/ - вещица красиво сделанная [СН]",
+    "word": "фігУрачка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihuračka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вещица красиво сделанная",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52243,
+    "raw": "фігУрка ж. /fihurka/ - 1) лице, особа, малорослый человек; 2) всякой эстамп, бюст [СН]",
+    "word": "фігУрка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "лице, особа, малорослый человек",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "всякой эстамп, бюст",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52244,
+    "raw": "фігУрыста /fihurysta/ - красиво [СН]",
+    "word": "фігУрыста",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurysta",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красиво",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52245,
+    "raw": "фігУрыста, фігУрысты /fihurysta, fihurysty/ - стройно, стройный [БН]",
+    "word": "фігУрыста, фігУрысты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurysta, fihurysty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "стройно, стройный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52246,
+    "raw": "фігУрысты /fihurysty/ - красивый [СН]",
+    "word": "фігУрысты",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fihurysty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "красивый",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52247,
+    "raw": "фікцЫйны /fikcyjny/ - фиктивный [НТ]",
+    "word": "фікцЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fikcyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "НТ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фиктивный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52248,
+    "raw": "філіжАнка ж. /filižanka/ - чайная чашечка [БН]",
+    "word": "філіжАнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filižanka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чайная чашечка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52249,
+    "raw": "філіжАнка, філіжАначка ж. /filižanka, filižanačka/ - чайная чашка [СН]",
+    "word": "філіжАнка, філіжАначка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filižanka, filižanačka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чайная чашка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52250,
+    "raw": "філм м. /fiłm/ = (гл. \"фільм\")",
+    "word": "філм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fiłm",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [],
+    "link": "фільм"
+  },
+  {
+    "line": 52251,
+    "raw": "філм м. /fiłm/ = (гл. \"фільм\") [ДЛ]",
+    "word": "філм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fiłm",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фільм"
+  },
+  {
+    "line": 52252,
+    "raw": "філцАк м. /fiłcak/ = (гл. \"фільцак\") [ДЛ]",
+    "word": "філцАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fiłcak",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фільцак"
+  },
+  {
+    "line": 52253,
+    "raw": "фільм м. /film/ - 1) фильм; 2) видео; 3) видеоплёнка, видеолента",
+    "word": "фільм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "film",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фильм",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "видео",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "видеоплёнка, видеолента",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52254,
+    "raw": "фільцАк м. /filcak/ - фетровый ботинок, валенок",
+    "word": "фільцАк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filcak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фетровый ботинок, валенок",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52255,
+    "raw": "філюмЭнія ж. /filumenija/ - филумения",
+    "word": "філюмЭнія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filumenija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "филумения",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52256,
+    "raw": "філЮт м. /filut/ - хитрец, лукавец [СН]",
+    "word": "філЮт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filut",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрец, лукавец",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52257,
+    "raw": "філютавАць /filutavać/ - 1) хитрить, не искренно действовать; 2) криводушничать, шутовски поступать [СН]",
+    "word": "філютавАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filutavać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "хитрить, не искренно действовать",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "криводушничать, шутовски поступать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52258,
+    "raw": "філЮтка ж. /filutka/ - хитрая, лукавица [СН]",
+    "word": "філЮтка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filutka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрая, лукавица",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52259,
+    "raw": "філЮты ж. /filuty/ - хитрость [СН]",
+    "word": "філЮты",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filuty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52260,
+    "raw": "філютЭрка ж. /filuterka/ - то же, что {ФилЮтка} [СН]",
+    "word": "філютЭрка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filuterka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ФилЮтка}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52261,
+    "raw": "філютЭрскі /filuterski/ - свойственный хитрецу, хитрецкий [СН]",
+    "word": "філютЭрскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filuterski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "свойственный хитрецу, хитрецкий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52262,
+    "raw": "філютЭрыць /filuteryć/ - то же, что {ФилютовАць} в 1-м знач [СН]",
+    "word": "філютЭрыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filuteryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ФилютовАць} в 1-м знач",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52263,
+    "raw": "філютЭрыя ж. /filuteryja/ - хитрость [СН]",
+    "word": "філютЭрыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filuteryja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52264,
+    "raw": "філЮцтва н. /filuctva/ - лукавство, ухищрение [СН]",
+    "word": "філЮцтва",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filuctva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "лукавство, ухищрение",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52265,
+    "raw": "філЯгЕнія ж. /filagienija/ - филогения [НТ]",
+    "word": "філЯгЕнія",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "filagienija",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "НТ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "филогения",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52266,
+    "raw": "фіндОс м. /findos/ - то же, что {ФИга} [СН]",
+    "word": "фіндОс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "findos",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ФИга}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52267,
+    "raw": "фіндОс м. /findos/ - шиш, кукиш [БН]",
+    "word": "фіндОс",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "findos",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "шиш, кукиш",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52268,
+    "raw": "фІнфа ж. /finfa/ - 1) бумажная трубочка, в роде продолговатой воронки, которой тонкий конец, зажегши ее с широкого конца, приставляют к носу спящаго; 2) неприятности [СН]",
+    "word": "фІнфа",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "finfa",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "бумажная трубочка, в роде продолговатой воронки, которой тонкий конец, зажегши ее с широкого конца, приставляют к носу спящаго",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "неприятности",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52269,
+    "raw": "ФІншчына ж.ул. /Finščyna/ - Финляндия (гл. \"Суомі\")",
+    "word": "ФІншчына",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Finščyna",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"Суомі\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Финляндия",
+        "ru_notes": [
+          "гл. \"Суомі\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52270,
+    "raw": "флЕгма ж. /flehma/ - 1) мокрота в груди; 2) хладнокровие [СН]",
+    "word": "флЕгма",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "flehma",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "мокрота в груди",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "хладнокровие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52271,
+    "raw": "флЕгма ж. /flehma/ - флегма, мокрота в груди [БН]",
+    "word": "флЕгма",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "flehma",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "флегма, мокрота в груди",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52272,
+    "raw": "флексІйны /fleksijny/ - флексийный, флективный",
+    "word": "флексІйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fleksijny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "флексийный, флективный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52273,
+    "raw": "флЕтня ж. /fletnia/ = (гл. \"флейта\") [СБ] (ах.)",
+    "word": "флЕтня",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fletnia",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "флейта"
+  },
+  {
+    "line": 52274,
+    "raw": "флЁрка ж. /florka/ - хлорка (гл. \"хлёрка\")",
+    "word": "флЁрка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "florka",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"хлёрка\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хлорка",
+        "ru_notes": [
+          "гл. \"хлёрка\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52275,
+    "raw": "флЯгма ж. /flahma/ - то же, что {ФлЕгма} в 1-м знач [СН]",
+    "word": "флЯгма",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "flahma",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ФлЕгма} в 1-м знач",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52276,
+    "raw": "флЯнкер м. /flankier/ - фланг, крыло",
+    "word": "флЯнкер",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "flankier",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фланг, крыло",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52277,
+    "raw": "формаслОўе н. /formasłoŭje/ - морфология [БН]",
+    "word": "формаслОўе",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "formasłoŭje",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "морфология",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52278,
+    "raw": "фОрса ж. /forsa/ - усилие [СН]",
+    "word": "фОрса",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "forsa",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "усилие",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52279,
+    "raw": "фОрт м. /fort/ - форт, фортеция (гл. \"фартэца\")",
+    "word": "фОрт",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fort",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"фартэца\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "форт, фортеция",
+        "ru_notes": [
+          "гл. \"фартэца\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52280,
+    "raw": "фОртэль м. /fortel/ - хитрость [СН]",
+    "word": "фОртэль",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fortel",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "хитрость",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52281,
+    "raw": "фрагмэнтАцыя ж. /frahmentacyja/ - 1) фрагментация; 2) осколки, оставленные взрывом",
+    "word": "фрагмэнтАцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frahmentacyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фрагментация",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "осколки, оставленные взрывом",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52282,
+    "raw": "фрайдЫскі /frajdyski/ - фрейдистский",
+    "word": "фрайдЫскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frajdyski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фрейдистский",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52283,
+    "raw": "фрайдЫсты м. /frajdysty/ - фрейдист",
+    "word": "фрайдЫсты",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frajdysty",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фрейдист",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52284,
+    "raw": "франкавАньне н. /frankavańnie/ - франкировка, франкирование",
+    "word": "франкавАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frankavańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франкировка, франкирование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52285,
+    "raw": "ФранцІшак м.ул. /francišak/ - Франциск [БН]",
+    "word": "ФранцІшак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "francišak",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Франциск",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52286,
+    "raw": "ФранцІшак, ФранцІш, ФранцІс, ФранУк м.ул. /Francišak, Franciš, Francis, Franuk/ - Франциск",
+    "word": "ФранцІшак, ФранцІш, ФранцІс, ФранУк",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Francišak, Franciš, Francis, Franuk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Франциск",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52287,
+    "raw": "фрАнцы м. /francy/ - любострастная, французская болезнь [СН]",
+    "word": "фрАнцы",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "francy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "любострастная, французская болезнь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52288,
+    "raw": "фрАнцыюм, фрАнец м. /francyjum, franiec/ - франций (Fr)",
+    "word": "фрАнцыюм, фрАнец",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "francyjum, franiec",
+    "is_link": false,
+    "ru_notes": [
+      "Fr"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франций",
+        "ru_notes": [
+          "Fr"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52289,
+    "raw": "фрасОўны, фрасУнлівы, фрасОўлівы /frasoŭny, frasunlivy, frasoŭlivy/ - опечаленный, печальный, огорчённый, удручённый [СБ] (ах.)",
+    "word": "фрасОўны, фрасУнлівы, фрасОўлівы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frasoŭny, frasunlivy, frasoŭlivy",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "опечаленный, печальный, огорчённый, удручённый",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52290,
+    "raw": "фрасУнак м. /frasunak/ - грусть, печаль, кручина [СБ] (ах.)",
+    "word": "фрасУнак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frasunak",
+    "is_link": false,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "грусть, печаль, кручина",
+        "ru_notes": [
+          "ах."
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52291,
+    "raw": "ФрУзына, ФрузІся, ФрУзька ж.ул. /Fruzyna, Fruzisia, Fruźka/ - Ефросиния",
+    "word": "ФрУзына, ФрузІся, ФрУзька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": true,
+    "latin": "Fruzyna, Fruzisia, Fruźka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "Ефросиния",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52292,
+    "raw": "фрустравАць /frustravać/ - разочаровывать",
+    "word": "фрустравАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frustravać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "разочаровывать",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52293,
+    "raw": "фрустрАцыя ж. /frustracyja/ - разочарование",
+    "word": "фрустрАцыя",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frustracyja",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "разочарование",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52294,
+    "raw": "фрЫткі мн. /frytki/ - картофель-фри, картошка-фри (наватвор, з пол. \"frytki\")",
+    "word": "фрЫткі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": true,
+    "is_proper": false,
+    "latin": "frytki",
+    "is_link": false,
+    "ru_notes": [
+      "наватвор, з пол. \"frytki\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "картофель-фри, картошка-фри",
+        "ru_notes": [
+          "наватвор, з пол. \"frytki\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52295,
+    "raw": "фрытУр м. /frytur/ - фритюр",
+    "word": "фрытУр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "frytur",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фритюр",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52296,
+    "raw": "фуз м. /fuz/ - сор, подонки [БН]",
+    "word": "фуз",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fuz",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "сор, подонки",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52297,
+    "raw": "фуклЕр м. /fukler/ = (гл. \"пуклер\") [СБ] (ах.)",
+    "word": "фуклЕр",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fukler",
+    "is_link": true,
+    "ru_notes": [
+      "ах."
+    ],
+    "sources": [
+      "СБ"
+    ],
+    "definitions": [],
+    "link": "пуклер"
+  },
+  {
+    "line": 52298,
+    "raw": "фундАмант м. /fundamant/ - фундамент, база (гл. \"падмурак\")",
+    "word": "фундАмант",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fundamant",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"падмурак\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фундамент, база",
+        "ru_notes": [
+          "гл. \"падмурак\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52299,
+    "raw": "фундАтар м. /fundatar/ - основатель, вкладчик [БН]",
+    "word": "фундАтар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fundatar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "основатель, вкладчик",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52300,
+    "raw": "фУндуш м. /funduš/ - вклад [БН]",
+    "word": "фУндуш",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "funduš",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вклад",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52301,
+    "raw": "фУра ж. /fura/ - 1) огромная брика; 2) нагруженная телега [СН]",
+    "word": "фУра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fura",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "огромная брика",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "нагруженная телега",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52302,
+    "raw": "фУрман м. /furman/ - извощик, кучер [СН]",
+    "word": "фУрман",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furman",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "извощик, кучер",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52303,
+    "raw": "фУрмАн м. /furman/ - подводчик, кучер [БН]",
+    "word": "фУрмАн",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furman",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подводчик, кучер",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52304,
+    "raw": "фурмАнанька ж. /furmanańka/ - подводушка [СН]",
+    "word": "фурмАнанька",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanańka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подводушка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52305,
+    "raw": "фУрманаў /furmanaŭ/ - извощиков [СН]",
+    "word": "фУрманаў",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanaŭ",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "извощиков",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52306,
+    "raw": "фурмАнка ж. /furmanka/ - повозка [БН]",
+    "word": "фурмАнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "повозка",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52307,
+    "raw": "фурмАнка ж. /furmanka/ - подвода [СН]",
+    "word": "фурмАнка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "подвода",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52308,
+    "raw": "фурмАнкавы /furmankavy/ - к подводе относящийся [СН]",
+    "word": "фурмАнкавы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmankavy",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "к подводе относящийся",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52309,
+    "raw": "фурмАнны /furmanny/ - извозный [СН]",
+    "word": "фурмАнны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "извозный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52310,
+    "raw": "фурмАнскі /furmanski/ - свойственный извощику [СН]",
+    "word": "фурмАнскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "свойственный извощику",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52311,
+    "raw": "фурмАнства н. /furmanstva/ - извозный промысел [БН]",
+    "word": "фурмАнства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanstva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "извозный промысел",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52312,
+    "raw": "фурмАнства н. /furmanstva/ - извощичание [СН]",
+    "word": "фурмАнства",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "furmanstva",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "извощичание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52313,
+    "raw": "фУтра ж. /futra/ - 1) шуба вообще, покрытая чем либо; 2) мех для шубы [СН]",
+    "word": "фУтра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futra",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "шуба вообще, покрытая чем либо",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "мех для шубы",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52314,
+    "raw": "фУтра ж. /futra/ = (гл. \"хУтра\") [БН]",
+    "word": "фУтра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futra",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [],
+    "link": "хУтра"
+  },
+  {
+    "line": 52315,
+    "raw": "футравАны /futravany/ - штукатуренный [СН]",
+    "word": "футравАны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futravany",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "штукатуренный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52316,
+    "raw": "футравАньне н. /futravańnie/ - 1) штукатурка внутренних стен дома; 2) порядочный выговор [СН]",
+    "word": "футравАньне",
+    "be_notes": [],
+    "gender": "н",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futravańnie",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "штукатурка внутренних стен дома",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "порядочный выговор",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52317,
+    "raw": "футравАць /futravać/ - 1) штукатурить внутри; 2) подшивать мех под одежу; 3) делать кому строгое замечание [СН]",
+    "word": "футравАць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futravać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "штукатурить внутри",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "подшивать мех под одежу",
+        "ru_notes": []
+      },
+      {
+        "number": "3",
+        "text": "делать кому строгое замечание",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52318,
+    "raw": "футрОўка ж. /futroŭka/ - 1) обмазка глиною внутренних стен; 2) подшивка меха или теплого чего либо [СН]",
+    "word": "футрОўка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futroŭka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "обмазка глиною внутренних стен",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "подшивка меха или теплого чего либо",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52319,
+    "raw": "фУцерка ж. /fucierka/ - легкая, покрытая чем либо шуба, употребляемая Евреями, шляхтою и духовными лицами [СН]",
+    "word": "фУцерка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fucierka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "легкая, покрытая чем либо шуба, употребляемая Евреями, шляхтою и духовными лицами",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52320,
+    "raw": "фэ /fe/ - 1) фуй; 2) задница [СН]",
+    "word": "фэ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fe",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "фуй",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "задница",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52321,
+    "raw": "фЭбра: чОртава фЭбра ж. /čortava febra/ - чистотел [БН]",
+    "word": "фЭбра: чОртава фЭбра",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "čortava febra",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "чистотел",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52322,
+    "raw": "фэдэрацЫйны /federacyjny/ - федеративный",
+    "word": "фэдэрацЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "federacyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "федеративный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52323,
+    "raw": "фЭка ж. /feka/ - 1) испражнение; 2) задница [СН]",
+    "word": "фЭка",
+    "be_notes": [],
+    "gender": "ж",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "feka",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "испражнение",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "задница",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52324,
+    "raw": "фЭкаць /fekać/ - вонь испущать и испражняться [СН]",
+    "word": "фЭкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fekać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "вонь испущать и испражняться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52325,
+    "raw": "фЭлчар м. /fełčar/ = (гл. \"фэльчар\") [ДЛ]",
+    "word": "фЭлчар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fełčar",
+    "is_link": true,
+    "ru_notes": [],
+    "sources": [
+      "ДЛ"
+    ],
+    "definitions": [],
+    "link": "фэльчар"
+  },
+  {
+    "line": 52326,
+    "raw": "фЭльчар м. /felčar/ - фельдшер [БН]",
+    "word": "фЭльчар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "felčar",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фельдшер",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52327,
+    "raw": "фЭндацца /fendacca/ - 1) испражняться под себя; 2) марать одежу свою, ходя около нечистоты [СН]",
+    "word": "фЭндацца",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fendacca",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "испражняться под себя",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "марать одежу свою, ходя около нечистоты",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52328,
+    "raw": "фЭндаць /fendać/ - испражняться [СН]",
+    "word": "фЭндаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fendać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "испражняться",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52329,
+    "raw": "фЭндрык м. /fendryk/ - пачкун [БН]",
+    "word": "фЭндрык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fendryk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "пачкун",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52330,
+    "raw": "фЭндрык м. /fendryk/ - слово, употребляемое в насмешку на нечистого мальчика. Пачкун [СН]",
+    "word": "фЭндрык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fendryk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "слово, употребляемое в насмешку на нечистого мальчика. Пачкун",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52331,
+    "raw": "фЭндрыць /fendryć/ - то же, что {ФЕндаць} [СН]",
+    "word": "фЭндрыць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fendryć",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "то же, что {ФЕндаць}",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52332,
+    "raw": "фэраванАдыюм, фэраванАд м. /feravanadyjum, feravanad/ - феррованадий",
+    "word": "фэраванАдыюм, фэраванАд",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "feravanadyjum, feravanad",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "феррованадий",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52333,
+    "raw": "фэрасылІцыюм м. /ferasylicyjum/ - ферросилиций",
+    "word": "фэрасылІцыюм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ferasylicyjum",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ферросилиций",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52334,
+    "raw": "фЭрміюм, фэрм м. /fermijum, ferm/ - фермий (Fm)",
+    "word": "фЭрміюм, фэрм",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fermijum, ferm",
+    "is_link": false,
+    "ru_notes": [
+      "Fm"
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фермий",
+        "ru_notes": [
+          "Fm"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 52335,
+    "raw": "фэрмэнтацЫйны /fermentacyjny/ - 1) ферментационный; 2) ферментативный",
+    "word": "фэрмэнтацЫйны",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fermentacyjny",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": "1",
+        "text": "ферментационный",
+        "ru_notes": []
+      },
+      {
+        "number": "2",
+        "text": "ферментативный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52336,
+    "raw": "фЭрцык м. /fercyk/ - франтик, щеголь [СН]",
+    "word": "фЭрцык",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fercyk",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "франтик, щеголь",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52337,
+    "raw": "фэст м. /fest/ - престольный праздник [БН]",
+    "word": "фэст",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fest",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "БН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "престольный праздник",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52338,
+    "raw": "фЭфер, фЭйфер м. /fefier, fejfier/ - порядочный нагоняй [СН]",
+    "word": "фЭфер, фЭйфер",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fefier, fejfier",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "порядочный нагоняй",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 52339,
+    "raw": "фЭхтарскі /fechtarski/ - фехтавальный",
+    "word": "фЭхтарскі",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fechtarski",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "фехтавальный",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 59442,
+    "raw": "фалівАрак м. /fałivarak/ = (гл. \"фальварак\") (дл.)",
+    "word": "фалівАрак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fałivarak",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "фальварак"
+  },
+  {
+    "line": 59443,
+    "raw": "фОліварак м. /fołivarak/ = (гл. \"фальварак\") (дл.)",
+    "word": "фОліварак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "fołivarak",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "фальварак"
+  },
+  {
+    "line": 59449,
+    "raw": "фальбАрак м. /falbarak/ = (гл. \"фальварак\") (дл.)",
+    "word": "фальбАрак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "falbarak",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "фальварак"
+  },
+  {
+    "line": 59450,
+    "raw": "фОльварак м. /folvarak/ = (гл. \"фальварак\") (дл.)",
+    "word": "фОльварак",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "folvarak",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "фальварак"
+  },
+  {
+    "line": 59517,
+    "raw": "фУтар м. /futar/ = (гл. \"хутар\") (дл.)",
+    "word": "фУтар",
+    "be_notes": [],
+    "gender": "м",
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "futar",
+    "is_link": true,
+    "ru_notes": [
+      "дл."
+    ],
+    "sources": [],
+    "definitions": [],
+    "link": "хутар"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "line": 55963,
+    "raw": "ы /y/ - эх, фуй [СН] (негодование или презрение)",
+    "word": "ы",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "y",
+    "is_link": false,
+    "ru_notes": [
+      "негодование или презрение"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эх, фуй",
+        "ru_notes": [
+          "негодование или презрение"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55964,
+    "raw": "ыгЫ /yhy/ - ага (гл. \"ага\")",
+    "word": "ыгЫ",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "yhy",
+    "is_link": false,
+    "ru_notes": [
+      "гл. \"ага\""
+    ],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "ага",
+        "ru_notes": [
+          "гл. \"ага\""
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55965,
+    "raw": "ыгЫкаць /yhykać/ - односложно отвечать, отвечать на всё \"ыгы\"",
+    "word": "ыгЫкаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "yhykać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [],
+    "definitions": [
+      {
+        "number": null,
+        "text": "односложно отвечать, отвечать на всё \"ыгы\"",
+        "ru_notes": []
+      }
+    ]
+  },
+  {
+    "line": 55966,
+    "raw": "ыт, ых /yt, ych/ - эх [СН] (негодование, неудовольствие)",
+    "word": "ыт, ых",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "yt, ych",
+    "is_link": false,
+    "ru_notes": [
+      "негодование, неудовольствие"
+    ],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "эх",
+        "ru_notes": [
+          "негодование, неудовольствие"
+        ]
+      }
+    ]
+  },
+  {
+    "line": 55967,
+    "raw": "Ыхаць /ychać/ - показывать неудовольствие, говоря: ых [СН]",
+    "word": "Ыхаць",
+    "be_notes": [],
+    "gender": null,
+    "is_plural": false,
+    "is_proper": false,
+    "latin": "ychać",
+    "is_link": false,
+    "ru_notes": [],
+    "sources": [
+      "СН"
+    ],
+    "definitions": [
+      {
+        "number": null,
+        "text": "показывать неудовольствие, говоря: ых",
+        "ru_notes": []
+      }
+    ]
+  }
+]
