@@ -24,3 +24,10 @@ json/abbreviations.json
 
 vbrs.krynicy.txt -> 
 json/sources/krynicy.json
+
+Project links:
+Dataset:
+https://github.com/jaraslau/slouniki
+Browser:
+https://vbrs.jaraslau.xyz/
+https://github.com/jaraslau/vbrs-browser
