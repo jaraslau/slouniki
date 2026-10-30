@@ -1,11 +1,26 @@
-Афіцыйны рэпазітор праекту ВБРС (Вялікі Беларуска-Расейскі Слоўнік).
-Найноўшая вэрсія слоўніка ўжывае мадыфікаваную граматыку праекту БКП-2005.
-Беларуская частка артыкулаў знаходзіцца зьлева і даецца ў двух напісаньнях - кірыліцай і лацінкай.
+VBRS project repo
+be-tarask
 
-Граматыка слоўніка ёсьць кампраміснай альбо пераходнай, асноўныя пункты:
-1. Наданьне напісаньню мяккага знака ў словах факультатыўнага/неабавязковага статусу.
-2. Скасаваньне напісаньня Ыы пасьля Сс, Зз у іншамоўных словах (заставіць краёвыя адмены словаў (сыгнет) і словаў з падобным гістарычным напісаньнем (музыка), надаць словам ужо занатаваным у слоўніках КП статус магчымага, але неафіцыйнага напісаньня).
-3. Наданьне роўнасьці мяккаму і цьвёрдаму Лл у іншамоўных словах.
-4. Ураўнаваньне напісаньня Ээ на пачатку ўва ўсіх іншамоўных словах, дзе дарэчы (нп. Эўропа, Эгіпет, электрычнасьць, эканоміка і т.д.)
-5. Захаваньне пераходу яканьня на часьцінкі і прыназоўнікі.
-6. Спрашчэньні сутыкаў некаторых гукаў "-сцк-" -> "-ск-", "тч" -> "ч"
+The word dataset primarily includes:
+Words from various dialects
+Archaic words
+Neologisms coined by various authors
+
+All gathered from Bielaruska-rasiejski slounik (Bajkou-Niekrasevic) + Slounik bielaruskaj havorki (I.Nasovic) + other words from other sources defined in krynicy the dictionary itself
+
+Orthographic conventions:
+For the sake of consistency, both palatalized and non-palatalized forms of L are provided for words in which be-tarask uses a palatalized L, but Soviet orthography does not. This convention is applied even when both orthographies use a palatalized L.
+
+Other minor normalizations:
+`-sck-` is treated as `-sk-`.
+`tč` is treated as `č` in almost all cases.
+
+
+vbrs.txt ->
+preface.txt
+json/articles/{sayings.json, [а-я].json}
+json/sources/preface.json
+json/abbreviations.json
+
+vbrs.krynicy.txt -> 
+json/sources/krynicy.json
